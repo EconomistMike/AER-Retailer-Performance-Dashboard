@@ -1,0 +1,2136 @@
+date,year_quarter,quarter_number,financial_year,retailer,metric,customer_type,customer_group,jurisdiction,value
+2018-01-01,2017-18 Q3,3,2017-18,1st Energy,Number,Electricity,Residential,National,11252
+2018-01-01,2017-18 Q3,3,2017-18,AGL,Number,Electricity,Residential,National,1397526
+2018-01-01,2017-18 Q3,3,2017-18,ActewAGL,Number,Electricity,Residential,National,181318
+2018-01-01,2017-18 Q3,3,2017-18,Alinta Energy,Number,Electricity,Residential,National,171157
+2018-01-01,2017-18 Q3,3,2017-18,Aurora Energy,Number,Electricity,Residential,National,240081
+2018-01-01,2017-18 Q3,3,2017-18,Australian Power and Gas,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Blue NRG,Number,Electricity,Residential,National,1
+2018-01-01,2017-18 Q3,3,2017-18,CovaU,Number,Electricity,Residential,National,3206
+2018-01-01,2017-18 Q3,3,2017-18,Diamond Energy,Number,Electricity,Residential,National,10361
+2018-01-01,2017-18 Q3,3,2017-18,Discover Energy,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Dodo,Number,Electricity,Residential,National,51351
+2018-01-01,2017-18 Q3,3,2017-18,ERM Power,Number,Electricity,Residential,National,3769
+2018-01-01,2017-18 Q3,3,2017-18,Energy Locals,Number,Electricity,Residential,National,4343
+2018-01-01,2017-18 Q3,3,2017-18,EnergyAustralia,Number,Electricity,Residential,National,1075606
+2018-01-01,2017-18 Q3,3,2017-18,Enova Energy,Number,Electricity,Residential,National,3691
+2018-01-01,2017-18 Q3,3,2017-18,Enwave Mascot,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Ergon Energy,Number,Electricity,Residential,National,608566
+2018-01-01,2017-18 Q3,3,2017-18,Evergy,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Flow Systems,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,GoEnergy,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Locality Planning Energy,Number,Electricity,Residential,National,13249
+2018-01-01,2017-18 Q3,3,2017-18,Lumo Energy,Number,Electricity,Residential,National,37546
+2018-01-01,2017-18 Q3,3,2017-18,Metered Energy,Number,Electricity,Residential,National,11143
+2018-01-01,2017-18 Q3,3,2017-18,Mojo Power,Number,Electricity,Residential,National,4272
+2018-01-01,2017-18 Q3,3,2017-18,Momentum Energy,Number,Electricity,Residential,National,10261
+2018-01-01,2017-18 Q3,3,2017-18,National Total,Number,Electricity,Residential,National,6261198
+2018-01-01,2017-18 Q3,3,2017-18,Next Business Energy,Number,Electricity,Residential,National,149
+2018-01-01,2017-18 Q3,3,2017-18,OC Energy,Number,Electricity,Residential,National,3486
+2018-01-01,2017-18 Q3,3,2017-18,Origin Energy,Number,Electricity,Residential,National,1874378
+2018-01-01,2017-18 Q3,3,2017-18,People Energy,Number,Electricity,Residential,National,598
+2018-01-01,2017-18 Q3,3,2017-18,Pooled Energy,Number,Electricity,Residential,National,446
+2018-01-01,2017-18 Q3,3,2017-18,Power Club,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,PowerHub,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Powerdirect,Number,Electricity,Residential,National,36826
+2018-01-01,2017-18 Q3,3,2017-18,Powershop,Number,Electricity,Residential,National,35284
+2018-01-01,2017-18 Q3,3,2017-18,Qenergy,Number,Electricity,Residential,National,3791
+2018-01-01,2017-18 Q3,3,2017-18,ReAmped Energy,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Real Utilities,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Red Energy,Number,Electricity,Residential,National,241960
+2018-01-01,2017-18 Q3,3,2017-18,Sanctuary Energy,Number,Electricity,Residential,National,3423
+2018-01-01,2017-18 Q3,3,2017-18,Savant Energy,Number,Electricity,Residential,National,1748
+2018-01-01,2017-18 Q3,3,2017-18,Simply Energy,Number,Electricity,Residential,National,126260
+2018-01-01,2017-18 Q3,3,2017-18,Sumo Power,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Sun Retail,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Tango Energy,Number,Electricity,Residential,National,21
+2018-01-01,2017-18 Q3,3,2017-18,The Embedded Networks Company,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Urth Energy,Number,Electricity,Residential,National,0
+2018-01-01,2017-18 Q3,3,2017-18,Winenergy,Number,Electricity,Residential,National,597
+2018-01-01,2017-18 Q3,3,2017-18,amaysim Energy,Number,Electricity,Residential,National,97301
+2018-04-01,2017-18 Q4,4,2017-18,1st Energy,Number,Electricity,Residential,National,13118
+2018-04-01,2017-18 Q4,4,2017-18,AGL,Number,Electricity,Residential,National,1378777
+2018-04-01,2017-18 Q4,4,2017-18,ActewAGL,Number,Electricity,Residential,National,180579
+2018-04-01,2017-18 Q4,4,2017-18,Alinta Energy,Number,Electricity,Residential,National,240936
+2018-04-01,2017-18 Q4,4,2017-18,Aurora Energy,Number,Electricity,Residential,National,241125
+2018-04-01,2017-18 Q4,4,2017-18,Australian Power and Gas,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Blue NRG,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,CovaU,Number,Electricity,Residential,National,3307
+2018-04-01,2017-18 Q4,4,2017-18,Diamond Energy,Number,Electricity,Residential,National,10158
+2018-04-01,2017-18 Q4,4,2017-18,Discover Energy,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Dodo,Number,Electricity,Residential,National,49269
+2018-04-01,2017-18 Q4,4,2017-18,ERM Power,Number,Electricity,Residential,National,3738
+2018-04-01,2017-18 Q4,4,2017-18,Energy Locals,Number,Electricity,Residential,National,5084
+2018-04-01,2017-18 Q4,4,2017-18,EnergyAustralia,Number,Electricity,Residential,National,1062092
+2018-04-01,2017-18 Q4,4,2017-18,Enova Energy,Number,Electricity,Residential,National,4144
+2018-04-01,2017-18 Q4,4,2017-18,Enwave Mascot,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Ergon Energy,Number,Electricity,Residential,National,613300
+2018-04-01,2017-18 Q4,4,2017-18,Evergy,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Flow Systems,Number,Electricity,Residential,National,244
+2018-04-01,2017-18 Q4,4,2017-18,Future X Power,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,GoEnergy,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Locality Planning Energy,Number,Electricity,Residential,National,15120
+2018-04-01,2017-18 Q4,4,2017-18,Lumo Energy,Number,Electricity,Residential,National,35082
+2018-04-01,2017-18 Q4,4,2017-18,Metered Energy,Number,Electricity,Residential,National,11598
+2018-04-01,2017-18 Q4,4,2017-18,Mojo Power,Number,Electricity,Residential,National,3787
+2018-04-01,2017-18 Q4,4,2017-18,Momentum Energy,Number,Electricity,Residential,National,9444
+2018-04-01,2017-18 Q4,4,2017-18,National Total,Number,Electricity,Residential,National,6303957
+2018-04-01,2017-18 Q4,4,2017-18,Next Business Energy,Number,Electricity,Residential,National,141
+2018-04-01,2017-18 Q4,4,2017-18,OC Energy,Number,Electricity,Residential,National,4062
+2018-04-01,2017-18 Q4,4,2017-18,Origin Energy,Number,Electricity,Residential,National,1869626
+2018-04-01,2017-18 Q4,4,2017-18,People Energy,Number,Electricity,Residential,National,569
+2018-04-01,2017-18 Q4,4,2017-18,Pooled Energy,Number,Electricity,Residential,National,518
+2018-04-01,2017-18 Q4,4,2017-18,Power Club,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,PowerHub,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Powerdirect,Number,Electricity,Residential,National,35748
+2018-04-01,2017-18 Q4,4,2017-18,Powershop,Number,Electricity,Residential,National,34748
+2018-04-01,2017-18 Q4,4,2017-18,Qenergy,Number,Electricity,Residential,National,4396
+2018-04-01,2017-18 Q4,4,2017-18,ReAmped Energy,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Real Utilities,Number,Electricity,Residential,National,363
+2018-04-01,2017-18 Q4,4,2017-18,Red Energy,Number,Electricity,Residential,National,248176
+2018-04-01,2017-18 Q4,4,2017-18,Sanctuary Energy,Number,Electricity,Residential,National,3393
+2018-04-01,2017-18 Q4,4,2017-18,Savant Energy,Number,Electricity,Residential,National,1781
+2018-04-01,2017-18 Q4,4,2017-18,Simply Energy,Number,Electricity,Residential,National,125240
+2018-04-01,2017-18 Q4,4,2017-18,Sumo Power,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Sun Retail,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Tango Energy,Number,Electricity,Residential,National,21
+2018-04-01,2017-18 Q4,4,2017-18,The Embedded Networks Company,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Urth Energy,Number,Electricity,Residential,National,0
+2018-04-01,2017-18 Q4,4,2017-18,Winenergy,Number,Electricity,Residential,National,813
+2018-04-01,2017-18 Q4,4,2017-18,amaysim Energy,Number,Electricity,Residential,National,97198
+2018-07-01,2018-19 Q1,1,2018-19,1st Energy,Number,Electricity,Residential,National,14757
+2018-07-01,2018-19 Q1,1,2018-19,AGL,Number,Electricity,Residential,National,1375803
+2018-07-01,2018-19 Q1,1,2018-19,ActewAGL,Number,Electricity,Residential,National,178744
+2018-07-01,2018-19 Q1,1,2018-19,Alinta Energy,Number,Electricity,Residential,National,267474
+2018-07-01,2018-19 Q1,1,2018-19,Arc Energy,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Aurora Energy,Number,Electricity,Residential,National,242198
+2018-07-01,2018-19 Q1,1,2018-19,Australian Power and Gas,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Blue NRG,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,CleanPeak Energy,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,CovaU,Number,Electricity,Residential,National,3390
+2018-07-01,2018-19 Q1,1,2018-19,Diamond Energy,Number,Electricity,Residential,National,9996
+2018-07-01,2018-19 Q1,1,2018-19,Discover Energy,Number,Electricity,Residential,National,1
+2018-07-01,2018-19 Q1,1,2018-19,Dodo,Number,Electricity,Residential,National,47726
+2018-07-01,2018-19 Q1,1,2018-19,ERM Power,Number,Electricity,Residential,National,635
+2018-07-01,2018-19 Q1,1,2018-19,Elysian Energy,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Energy Locals,Number,Electricity,Residential,National,5576
+2018-07-01,2018-19 Q1,1,2018-19,EnergyAustralia,Number,Electricity,Residential,National,1067221
+2018-07-01,2018-19 Q1,1,2018-19,Enova Energy,Number,Electricity,Residential,National,4561
+2018-07-01,2018-19 Q1,1,2018-19,Enwave Mascot,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Ergon Energy,Number,Electricity,Residential,National,611879
+2018-07-01,2018-19 Q1,1,2018-19,Evergy,Number,Electricity,Residential,National,124
+2018-07-01,2018-19 Q1,1,2018-19,Flow Systems,Number,Electricity,Residential,National,523
+2018-07-01,2018-19 Q1,1,2018-19,Future X Power,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,GloBird Energy,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,GoEnergy,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Locality Planning Energy,Number,Electricity,Residential,National,16448
+2018-07-01,2018-19 Q1,1,2018-19,Lumo Energy,Number,Electricity,Residential,National,34500
+2018-07-01,2018-19 Q1,1,2018-19,Metered Energy,Number,Electricity,Residential,National,12262
+2018-07-01,2018-19 Q1,1,2018-19,Mojo Power,Number,Electricity,Residential,National,3384
+2018-07-01,2018-19 Q1,1,2018-19,Momentum Energy,Number,Electricity,Residential,National,9496
+2018-07-01,2018-19 Q1,1,2018-19,National Total,Number,Electricity,Residential,National,6338086
+2018-07-01,2018-19 Q1,1,2018-19,Next Business Energy,Number,Electricity,Residential,National,126
+2018-07-01,2018-19 Q1,1,2018-19,OC Energy,Number,Electricity,Residential,National,4804
+2018-07-01,2018-19 Q1,1,2018-19,Origin Energy,Number,Electricity,Residential,National,1860728
+2018-07-01,2018-19 Q1,1,2018-19,People Energy,Number,Electricity,Residential,National,542
+2018-07-01,2018-19 Q1,1,2018-19,Pooled Energy,Number,Electricity,Residential,National,652
+2018-07-01,2018-19 Q1,1,2018-19,Power Club,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,PowerHub,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Powerdirect,Number,Electricity,Residential,National,40507
+2018-07-01,2018-19 Q1,1,2018-19,Powershop,Number,Electricity,Residential,National,36663
+2018-07-01,2018-19 Q1,1,2018-19,Qenergy,Number,Electricity,Residential,National,5728
+2018-07-01,2018-19 Q1,1,2018-19,ReAmped Energy,Number,Electricity,Residential,National,5
+2018-07-01,2018-19 Q1,1,2018-19,Real Utilities,Number,Electricity,Residential,National,394
+2018-07-01,2018-19 Q1,1,2018-19,Red Energy,Number,Electricity,Residential,National,255211
+2018-07-01,2018-19 Q1,1,2018-19,Sanctuary Energy,Number,Electricity,Residential,National,2863
+2018-07-01,2018-19 Q1,1,2018-19,Savant Energy,Number,Electricity,Residential,National,1897
+2018-07-01,2018-19 Q1,1,2018-19,Simply Energy,Number,Electricity,Residential,National,124922
+2018-07-01,2018-19 Q1,1,2018-19,Sumo Power,Number,Electricity,Residential,National,25
+2018-07-01,2018-19 Q1,1,2018-19,Sun Retail,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Sustainable Saving,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Tango Energy,Number,Electricity,Residential,National,20
+2018-07-01,2018-19 Q1,1,2018-19,The Embedded Networks Company,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Urth Energy,Number,Electricity,Residential,National,0
+2018-07-01,2018-19 Q1,1,2018-19,Winenergy,Number,Electricity,Residential,National,953
+2018-07-01,2018-19 Q1,1,2018-19,amaysim Energy,Number,Electricity,Residential,National,95983
+2018-10-01,2018-19 Q2,2,2018-19,1st Energy,Number,Electricity,Residential,National,14716
+2018-10-01,2018-19 Q2,2,2018-19,AGL,Number,Electricity,Residential,National,1373750
+2018-10-01,2018-19 Q2,2,2018-19,ActewAGL,Number,Electricity,Residential,National,175714
+2018-10-01,2018-19 Q2,2,2018-19,Alinta Energy,Number,Electricity,Residential,National,290734
+2018-10-01,2018-19 Q2,2,2018-19,Arc Energy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Aurora Energy,Number,Electricity,Residential,National,242752
+2018-10-01,2018-19 Q2,2,2018-19,Australian Power and Gas,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Blue NRG,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,CleanPeak Energy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,CovaU,Number,Electricity,Residential,National,3545
+2018-10-01,2018-19 Q2,2,2018-19,Diamond Energy,Number,Electricity,Residential,National,10061
+2018-10-01,2018-19 Q2,2,2018-19,Discover Energy,Number,Electricity,Residential,National,2
+2018-10-01,2018-19 Q2,2,2018-19,Dodo,Number,Electricity,Residential,National,46949
+2018-10-01,2018-19 Q2,2,2018-19,ERM Power,Number,Electricity,Residential,National,620
+2018-10-01,2018-19 Q2,2,2018-19,Elysian Energy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Energy Locals,Number,Electricity,Residential,National,6345
+2018-10-01,2018-19 Q2,2,2018-19,EnergyAustralia,Number,Electricity,Residential,National,1075326
+2018-10-01,2018-19 Q2,2,2018-19,Enova Energy,Number,Electricity,Residential,National,4561
+2018-10-01,2018-19 Q2,2,2018-19,Enwave Mascot,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Ergon Energy,Number,Electricity,Residential,National,614172
+2018-10-01,2018-19 Q2,2,2018-19,Evergy,Number,Electricity,Residential,National,400
+2018-10-01,2018-19 Q2,2,2018-19,Flow Systems,Number,Electricity,Residential,National,2219
+2018-10-01,2018-19 Q2,2,2018-19,Future X Power,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,GloBird Energy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,GoEnergy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Hanwha Energy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Locality Planning Energy,Number,Electricity,Residential,National,18115
+2018-10-01,2018-19 Q2,2,2018-19,Lumo Energy,Number,Electricity,Residential,National,34903
+2018-10-01,2018-19 Q2,2,2018-19,Metered Energy,Number,Electricity,Residential,National,12628
+2018-10-01,2018-19 Q2,2,2018-19,Mojo Power,Number,Electricity,Residential,National,3054
+2018-10-01,2018-19 Q2,2,2018-19,Momentum Energy,Number,Electricity,Residential,National,11352
+2018-10-01,2018-19 Q2,2,2018-19,National Total,Number,Electricity,Residential,National,6368987
+2018-10-01,2018-19 Q2,2,2018-19,Next Business Energy,Number,Electricity,Residential,National,126
+2018-10-01,2018-19 Q2,2,2018-19,OC Energy,Number,Electricity,Residential,National,5739
+2018-10-01,2018-19 Q2,2,2018-19,OVO Energy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Origin Energy,Number,Electricity,Residential,National,1844710
+2018-10-01,2018-19 Q2,2,2018-19,People Energy,Number,Electricity,Residential,National,524
+2018-10-01,2018-19 Q2,2,2018-19,Pooled Energy,Number,Electricity,Residential,National,854
+2018-10-01,2018-19 Q2,2,2018-19,Power Club,Number,Electricity,Residential,National,5
+2018-10-01,2018-19 Q2,2,2018-19,PowerHub,Number,Electricity,Residential,National,38
+2018-10-01,2018-19 Q2,2,2018-19,Powerdirect,Number,Electricity,Residential,National,44714
+2018-10-01,2018-19 Q2,2,2018-19,Powershop,Number,Electricity,Residential,National,35636
+2018-10-01,2018-19 Q2,2,2018-19,Qenergy,Number,Electricity,Residential,National,6196
+2018-10-01,2018-19 Q2,2,2018-19,ReAmped Energy,Number,Electricity,Residential,National,20
+2018-10-01,2018-19 Q2,2,2018-19,Real Utilities,Number,Electricity,Residential,National,523
+2018-10-01,2018-19 Q2,2,2018-19,Red Energy,Number,Electricity,Residential,National,261198
+2018-10-01,2018-19 Q2,2,2018-19,Sanctuary Energy,Number,Electricity,Residential,National,2896
+2018-10-01,2018-19 Q2,2,2018-19,Savant Energy,Number,Electricity,Residential,National,2073
+2018-10-01,2018-19 Q2,2,2018-19,Simply Energy,Number,Electricity,Residential,National,124783
+2018-10-01,2018-19 Q2,2,2018-19,Sumo Power,Number,Electricity,Residential,National,1942
+2018-10-01,2018-19 Q2,2,2018-19,Sun Retail,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Sustainable Saving,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Tango Energy,Number,Electricity,Residential,National,15
+2018-10-01,2018-19 Q2,2,2018-19,Tas Gas,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,The Embedded Networks Company,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Urth Energy,Number,Electricity,Residential,National,0
+2018-10-01,2018-19 Q2,2,2018-19,Winenergy,Number,Electricity,Residential,National,1349
+2018-10-01,2018-19 Q2,2,2018-19,amaysim Energy,Number,Electricity,Residential,National,94348
+2019-01-01,2018-19 Q3,3,2018-19,1st Energy,Number,Electricity,Residential,National,13760
+2019-01-01,2018-19 Q3,3,2018-19,AGL,Number,Electricity,Residential,National,1381988
+2019-01-01,2018-19 Q3,3,2018-19,ActewAGL,Number,Electricity,Residential,National,173678
+2019-01-01,2018-19 Q3,3,2018-19,Alinta Energy,Number,Electricity,Residential,National,299992
+2019-01-01,2018-19 Q3,3,2018-19,Arc Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Aurora Energy,Number,Electricity,Residential,National,243938
+2019-01-01,2018-19 Q3,3,2018-19,Australian Power and Gas,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Blue NRG,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Bright Spark Power,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,CleanPeak Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,CovaU,Number,Electricity,Residential,National,3639
+2019-01-01,2018-19 Q3,3,2018-19,Diamond Energy,Number,Electricity,Residential,National,10101
+2019-01-01,2018-19 Q3,3,2018-19,Discover Energy,Number,Electricity,Residential,National,2
+2019-01-01,2018-19 Q3,3,2018-19,Dodo,Number,Electricity,Residential,National,48095
+2019-01-01,2018-19 Q3,3,2018-19,ERM Power,Number,Electricity,Residential,National,3020
+2019-01-01,2018-19 Q3,3,2018-19,Elysian Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Energy Locals,Number,Electricity,Residential,National,7804
+2019-01-01,2018-19 Q3,3,2018-19,EnergyAustralia,Number,Electricity,Residential,National,1051685
+2019-01-01,2018-19 Q3,3,2018-19,Enova Energy,Number,Electricity,Residential,National,5217
+2019-01-01,2018-19 Q3,3,2018-19,Enwave Mascot,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Ergon Energy,Number,Electricity,Residential,National,613919
+2019-01-01,2018-19 Q3,3,2018-19,Evergy,Number,Electricity,Residential,National,601
+2019-01-01,2018-19 Q3,3,2018-19,Flow Systems,Number,Electricity,Residential,National,2453
+2019-01-01,2018-19 Q3,3,2018-19,Future X Power,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,GloBird Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,GoEnergy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Hanwha Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Humenergy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Infigen Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Locality Planning Energy,Number,Electricity,Residential,National,18671
+2019-01-01,2018-19 Q3,3,2018-19,Lumo Energy,Number,Electricity,Residential,National,35939
+2019-01-01,2018-19 Q3,3,2018-19,Metered Energy,Number,Electricity,Residential,National,12922
+2019-01-01,2018-19 Q3,3,2018-19,Mojo Power,Number,Electricity,Residential,National,2786
+2019-01-01,2018-19 Q3,3,2018-19,Momentum Energy,Number,Electricity,Residential,National,15178
+2019-01-01,2018-19 Q3,3,2018-19,National Total,Number,Electricity,Residential,National,6379623
+2019-01-01,2018-19 Q3,3,2018-19,Nectr Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Next Business Energy,Number,Electricity,Residential,National,102
+2019-01-01,2018-19 Q3,3,2018-19,OC Energy,Number,Electricity,Residential,National,6284
+2019-01-01,2018-19 Q3,3,2018-19,OVO Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Origin Energy,Number,Electricity,Residential,National,1832373
+2019-01-01,2018-19 Q3,3,2018-19,People Energy,Number,Electricity,Residential,National,510
+2019-01-01,2018-19 Q3,3,2018-19,Pooled Energy,Number,Electricity,Residential,National,1110
+2019-01-01,2018-19 Q3,3,2018-19,Power Club,Number,Electricity,Residential,National,7
+2019-01-01,2018-19 Q3,3,2018-19,PowerHub,Number,Electricity,Residential,National,40
+2019-01-01,2018-19 Q3,3,2018-19,Powerdirect,Number,Electricity,Residential,National,46969
+2019-01-01,2018-19 Q3,3,2018-19,Powershop,Number,Electricity,Residential,National,37520
+2019-01-01,2018-19 Q3,3,2018-19,Qenergy,Number,Electricity,Residential,National,5912
+2019-01-01,2018-19 Q3,3,2018-19,ReAmped Energy,Number,Electricity,Residential,National,397
+2019-01-01,2018-19 Q3,3,2018-19,ReNu Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Real Utilities,Number,Electricity,Residential,National,510
+2019-01-01,2018-19 Q3,3,2018-19,Red Energy,Number,Electricity,Residential,National,271879
+2019-01-01,2018-19 Q3,3,2018-19,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Sanctuary Energy,Number,Electricity,Residential,National,2387
+2019-01-01,2018-19 Q3,3,2018-19,Savant Energy,Number,Electricity,Residential,National,2465
+2019-01-01,2018-19 Q3,3,2018-19,Simply Energy,Number,Electricity,Residential,National,125678
+2019-01-01,2018-19 Q3,3,2018-19,Sumo Power,Number,Electricity,Residential,National,5264
+2019-01-01,2018-19 Q3,3,2018-19,Sun Retail,Number,Electricity,Residential,National,79134
+2019-01-01,2018-19 Q3,3,2018-19,Sustainable Saving,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Tango Energy,Number,Electricity,Residential,National,39
+2019-01-01,2018-19 Q3,3,2018-19,Tas Gas,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,The Embedded Networks Company,Number,Electricity,Residential,National,4
+2019-01-01,2018-19 Q3,3,2018-19,Urth Energy,Number,Electricity,Residential,National,0
+2019-01-01,2018-19 Q3,3,2018-19,Winenergy,Number,Electricity,Residential,National,1532
+2019-01-01,2018-19 Q3,3,2018-19,amaysim Energy,Number,Electricity,Residential,National,96273
+2019-04-01,2018-19 Q4,4,2018-19,1st Energy,Number,Electricity,Residential,National,14019
+2019-04-01,2018-19 Q4,4,2018-19,AGL,Number,Electricity,Residential,National,1376845
+2019-04-01,2018-19 Q4,4,2018-19,ActewAGL,Number,Electricity,Residential,National,171311
+2019-04-01,2018-19 Q4,4,2018-19,Alinta Energy,Number,Electricity,Residential,National,316582
+2019-04-01,2018-19 Q4,4,2018-19,Arc Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Aurora Energy,Number,Electricity,Residential,National,244488
+2019-04-01,2018-19 Q4,4,2018-19,Blue NRG,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Bright Spark Power,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,CleanPeak Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,CovaU,Number,Electricity,Residential,National,3698
+2019-04-01,2018-19 Q4,4,2018-19,Diamond Energy,Number,Electricity,Residential,National,9646
+2019-04-01,2018-19 Q4,4,2018-19,Discover Energy,Number,Electricity,Residential,National,14
+2019-04-01,2018-19 Q4,4,2018-19,Dodo,Number,Electricity,Residential,National,46964
+2019-04-01,2018-19 Q4,4,2018-19,ERM Power,Number,Electricity,Residential,National,2319
+2019-04-01,2018-19 Q4,4,2018-19,Elysian Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Energy Locals,Number,Electricity,Residential,National,14715
+2019-04-01,2018-19 Q4,4,2018-19,EnergyAustralia,Number,Electricity,Residential,National,1059276
+2019-04-01,2018-19 Q4,4,2018-19,Enova Energy,Number,Electricity,Residential,National,5451
+2019-04-01,2018-19 Q4,4,2018-19,Enwave Mascot,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Ergon Energy,Number,Electricity,Residential,National,617542
+2019-04-01,2018-19 Q4,4,2018-19,Evergy,Number,Electricity,Residential,National,603
+2019-04-01,2018-19 Q4,4,2018-19,Flow Systems,Number,Electricity,Residential,National,3374
+2019-04-01,2018-19 Q4,4,2018-19,Future X Power,Number,Electricity,Residential,National,22
+2019-04-01,2018-19 Q4,4,2018-19,GloBird Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,GoEnergy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Hanwha Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Humenergy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Infigen Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Locality Planning Energy,Number,Electricity,Residential,National,20165
+2019-04-01,2018-19 Q4,4,2018-19,Lumo Energy,Number,Electricity,Residential,National,36694
+2019-04-01,2018-19 Q4,4,2018-19,Metered Energy,Number,Electricity,Residential,National,13069
+2019-04-01,2018-19 Q4,4,2018-19,Mojo Power,Number,Electricity,Residential,National,2576
+2019-04-01,2018-19 Q4,4,2018-19,Momentum Energy,Number,Electricity,Residential,National,19907
+2019-04-01,2018-19 Q4,4,2018-19,National Total,Number,Electricity,Residential,National,6423649
+2019-04-01,2018-19 Q4,4,2018-19,Nectr Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Next Business Energy,Number,Electricity,Residential,National,88
+2019-04-01,2018-19 Q4,4,2018-19,OC Energy,Number,Electricity,Residential,National,6442
+2019-04-01,2018-19 Q4,4,2018-19,OVO Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Origin Energy,Number,Electricity,Residential,National,1826581
+2019-04-01,2018-19 Q4,4,2018-19,People Energy,Number,Electricity,Residential,National,487
+2019-04-01,2018-19 Q4,4,2018-19,Pooled Energy,Number,Electricity,Residential,National,1190
+2019-04-01,2018-19 Q4,4,2018-19,Power Club,Number,Electricity,Residential,National,137
+2019-04-01,2018-19 Q4,4,2018-19,PowerHub,Number,Electricity,Residential,National,40
+2019-04-01,2018-19 Q4,4,2018-19,Powerdirect,Number,Electricity,Residential,National,47568
+2019-04-01,2018-19 Q4,4,2018-19,Powershop,Number,Electricity,Residential,National,40043
+2019-04-01,2018-19 Q4,4,2018-19,Progressive Green,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Qenergy,Number,Electricity,Residential,National,5638
+2019-04-01,2018-19 Q4,4,2018-19,ReAmped Energy,Number,Electricity,Residential,National,930
+2019-04-01,2018-19 Q4,4,2018-19,ReNu Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Real Utilities,Number,Electricity,Residential,National,614
+2019-04-01,2018-19 Q4,4,2018-19,Red Energy,Number,Electricity,Residential,National,279068
+2019-04-01,2018-19 Q4,4,2018-19,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Sanctuary Energy,Number,Electricity,Residential,National,2211
+2019-04-01,2018-19 Q4,4,2018-19,Savant Energy,Number,Electricity,Residential,National,2591
+2019-04-01,2018-19 Q4,4,2018-19,Simply Energy,Number,Electricity,Residential,National,129855
+2019-04-01,2018-19 Q4,4,2018-19,Sumo Power,Number,Electricity,Residential,National,4886
+2019-04-01,2018-19 Q4,4,2018-19,Sun Retail,Number,Electricity,Residential,National,77168
+2019-04-01,2018-19 Q4,4,2018-19,Sustainable Saving,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Tango Energy,Number,Electricity,Residential,National,16
+2019-04-01,2018-19 Q4,4,2018-19,Tas Gas,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,The Embedded Networks Company,Number,Electricity,Residential,National,30
+2019-04-01,2018-19 Q4,4,2018-19,Urth Energy,Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,Winenergy,Number,Electricity,Residential,National,1948
+2019-04-01,2018-19 Q4,4,2018-19,Y.E.S. Energy (SA),Number,Electricity,Residential,National,0
+2019-04-01,2018-19 Q4,4,2018-19,amaysim Energy,Number,Electricity,Residential,National,96325
+2019-07-01,2019-20 Q1,1,2019-20,1st Energy,Number,Electricity,Residential,National,14479
+2019-07-01,2019-20 Q1,1,2019-20,AGL,Number,Electricity,Residential,National,1375298
+2019-07-01,2019-20 Q1,1,2019-20,ActewAGL,Number,Electricity,Residential,National,170389
+2019-07-01,2019-20 Q1,1,2019-20,Alinta Energy,Number,Electricity,Residential,National,347746
+2019-07-01,2019-20 Q1,1,2019-20,Arc Energy,Number,Electricity,Residential,National,3441
+2019-07-01,2019-20 Q1,1,2019-20,Aurora Energy,Number,Electricity,Residential,National,246735
+2019-07-01,2019-20 Q1,1,2019-20,Blue NRG,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Bright Spark Power,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,CleanPeak Energy,Number,Electricity,Residential,National,18
+2019-07-01,2019-20 Q1,1,2019-20,CovaU,Number,Electricity,Residential,National,3688
+2019-07-01,2019-20 Q1,1,2019-20,Diamond Energy,Number,Electricity,Residential,National,9584
+2019-07-01,2019-20 Q1,1,2019-20,Discover Energy,Number,Electricity,Residential,National,59
+2019-07-01,2019-20 Q1,1,2019-20,Dodo,Number,Electricity,Residential,National,46256
+2019-07-01,2019-20 Q1,1,2019-20,ERM Power,Number,Electricity,Residential,National,2047
+2019-07-01,2019-20 Q1,1,2019-20,Elysian Energy,Number,Electricity,Residential,National,3
+2019-07-01,2019-20 Q1,1,2019-20,Energy Locals,Number,Electricity,Residential,National,15440
+2019-07-01,2019-20 Q1,1,2019-20,EnergyAustralia,Number,Electricity,Residential,National,1066307
+2019-07-01,2019-20 Q1,1,2019-20,Enova Energy,Number,Electricity,Residential,National,5974
+2019-07-01,2019-20 Q1,1,2019-20,Enwave Mascot,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Ergon Energy,Number,Electricity,Residential,National,620345
+2019-07-01,2019-20 Q1,1,2019-20,Evergy,Number,Electricity,Residential,National,628
+2019-07-01,2019-20 Q1,1,2019-20,Flow Systems,Number,Electricity,Residential,National,3466
+2019-07-01,2019-20 Q1,1,2019-20,Future X Power,Number,Electricity,Residential,National,172
+2019-07-01,2019-20 Q1,1,2019-20,GloBird Energy,Number,Electricity,Residential,National,2
+2019-07-01,2019-20 Q1,1,2019-20,GoEnergy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Hanwha Energy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Humenergy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Infigen Energy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Locality Planning Energy,Number,Electricity,Residential,National,21202
+2019-07-01,2019-20 Q1,1,2019-20,Lumo Energy,Number,Electricity,Residential,National,38006
+2019-07-01,2019-20 Q1,1,2019-20,MTA Energy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Metered Energy,Number,Electricity,Residential,National,13346
+2019-07-01,2019-20 Q1,1,2019-20,Mojo Power,Number,Electricity,Residential,National,3681
+2019-07-01,2019-20 Q1,1,2019-20,Momentum Energy,Number,Electricity,Residential,National,23684
+2019-07-01,2019-20 Q1,1,2019-20,National Total,Number,Electricity,Residential,National,6485415
+2019-07-01,2019-20 Q1,1,2019-20,Nectr Energy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Next Business Energy,Number,Electricity,Residential,National,87
+2019-07-01,2019-20 Q1,1,2019-20,OC Energy,Number,Electricity,Residential,National,6217
+2019-07-01,2019-20 Q1,1,2019-20,OVO Energy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Origin Energy,Number,Electricity,Residential,National,1822863
+2019-07-01,2019-20 Q1,1,2019-20,People Energy,Number,Electricity,Residential,National,461
+2019-07-01,2019-20 Q1,1,2019-20,Pooled Energy,Number,Electricity,Residential,National,1364
+2019-07-01,2019-20 Q1,1,2019-20,Power Club,Number,Electricity,Residential,National,374
+2019-07-01,2019-20 Q1,1,2019-20,PowerHub,Number,Electricity,Residential,National,87
+2019-07-01,2019-20 Q1,1,2019-20,Powerdirect,Number,Electricity,Residential,National,48069
+2019-07-01,2019-20 Q1,1,2019-20,Powershop,Number,Electricity,Residential,National,41403
+2019-07-01,2019-20 Q1,1,2019-20,Progressive Green,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Qenergy,Number,Electricity,Residential,National,5460
+2019-07-01,2019-20 Q1,1,2019-20,ReAmped Energy,Number,Electricity,Residential,National,3042
+2019-07-01,2019-20 Q1,1,2019-20,ReNu Energy,Number,Electricity,Residential,National,18
+2019-07-01,2019-20 Q1,1,2019-20,Real Utilities,Number,Electricity,Residential,National,588
+2019-07-01,2019-20 Q1,1,2019-20,Red Energy,Number,Electricity,Residential,National,288507
+2019-07-01,2019-20 Q1,1,2019-20,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Sanctuary Energy,Number,Electricity,Residential,National,1113
+2019-07-01,2019-20 Q1,1,2019-20,Savant Energy,Number,Electricity,Residential,National,2933
+2019-07-01,2019-20 Q1,1,2019-20,Simply Energy,Number,Electricity,Residential,National,130500
+2019-07-01,2019-20 Q1,1,2019-20,Sumo Power,Number,Electricity,Residential,National,5451
+2019-07-01,2019-20 Q1,1,2019-20,Sustainable Saving,Number,Electricity,Residential,National,30
+2019-07-01,2019-20 Q1,1,2019-20,Tango Energy,Number,Electricity,Residential,National,10
+2019-07-01,2019-20 Q1,1,2019-20,Tas Gas,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,The Embedded Networks Company,Number,Electricity,Residential,National,52
+2019-07-01,2019-20 Q1,1,2019-20,Urth Energy,Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,Winenergy,Number,Electricity,Residential,National,2598
+2019-07-01,2019-20 Q1,1,2019-20,Y.E.S. Energy (SA),Number,Electricity,Residential,National,0
+2019-07-01,2019-20 Q1,1,2019-20,amaysim Energy,Number,Electricity,Residential,National,94275
+2019-10-01,2019-20 Q2,2,2019-20,1st Energy,Number,Electricity,Residential,National,15232
+2019-10-01,2019-20 Q2,2,2019-20,AGL,Number,Electricity,Residential,National,1380510
+2019-10-01,2019-20 Q2,2,2019-20,ActewAGL,Number,Electricity,Residential,National,169371
+2019-10-01,2019-20 Q2,2,2019-20,Alinta Energy,Number,Electricity,Residential,National,351554
+2019-10-01,2019-20 Q2,2,2019-20,Arc Energy,Number,Electricity,Residential,National,3944
+2019-10-01,2019-20 Q2,2,2019-20,Aurora Energy,Number,Electricity,Residential,National,244397
+2019-10-01,2019-20 Q2,2,2019-20,Blue NRG,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Bright Spark Power,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,CleanPeak Energy,Number,Electricity,Residential,National,91
+2019-10-01,2019-20 Q2,2,2019-20,CovaU,Number,Electricity,Residential,National,3934
+2019-10-01,2019-20 Q2,2,2019-20,Diamond Energy,Number,Electricity,Residential,National,9632
+2019-10-01,2019-20 Q2,2,2019-20,Discover Energy,Number,Electricity,Residential,National,136
+2019-10-01,2019-20 Q2,2,2019-20,Dodo,Number,Electricity,Residential,National,46787
+2019-10-01,2019-20 Q2,2,2019-20,ERM Power,Number,Electricity,Residential,National,1994
+2019-10-01,2019-20 Q2,2,2019-20,Electricity in a Box,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Elysian Energy,Number,Electricity,Residential,National,105
+2019-10-01,2019-20 Q2,2,2019-20,Energy Locals,Number,Electricity,Residential,National,16812
+2019-10-01,2019-20 Q2,2,2019-20,Energy Services Management,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,EnergyAustralia,Number,Electricity,Residential,National,1055648
+2019-10-01,2019-20 Q2,2,2019-20,Enova Energy,Number,Electricity,Residential,National,6898
+2019-10-01,2019-20 Q2,2,2019-20,Enwave Mascot,Number,Electricity,Residential,National,7
+2019-10-01,2019-20 Q2,2,2019-20,Ergon Energy,Number,Electricity,Residential,National,621607
+2019-10-01,2019-20 Q2,2,2019-20,Evergy,Number,Electricity,Residential,National,646
+2019-10-01,2019-20 Q2,2,2019-20,Flow Systems,Number,Electricity,Residential,National,3990
+2019-10-01,2019-20 Q2,2,2019-20,Future X Power,Number,Electricity,Residential,National,177
+2019-10-01,2019-20 Q2,2,2019-20,GloBird Energy,Number,Electricity,Residential,National,38
+2019-10-01,2019-20 Q2,2,2019-20,GoEnergy,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Hanwha Energy,Number,Electricity,Residential,National,19
+2019-10-01,2019-20 Q2,2,2019-20,Humenergy,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Infigen Energy,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Locality Planning Energy,Number,Electricity,Residential,National,22772
+2019-10-01,2019-20 Q2,2,2019-20,Lumo Energy,Number,Electricity,Residential,National,39207
+2019-10-01,2019-20 Q2,2,2019-20,MTA Energy,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Metered Energy,Number,Electricity,Residential,National,13236
+2019-10-01,2019-20 Q2,2,2019-20,Mojo Power,Number,Electricity,Residential,National,4056
+2019-10-01,2019-20 Q2,2,2019-20,Momentum Energy,Number,Electricity,Residential,National,25896
+2019-10-01,2019-20 Q2,2,2019-20,National Total,Number,Electricity,Residential,National,6508375
+2019-10-01,2019-20 Q2,2,2019-20,Nectr Energy,Number,Electricity,Residential,National,19
+2019-10-01,2019-20 Q2,2,2019-20,Next Business Energy,Number,Electricity,Residential,National,87
+2019-10-01,2019-20 Q2,2,2019-20,OC Energy,Number,Electricity,Residential,National,5607
+2019-10-01,2019-20 Q2,2,2019-20,OVO Energy,Number,Electricity,Residential,National,1
+2019-10-01,2019-20 Q2,2,2019-20,Origin Energy,Number,Electricity,Residential,National,1820097
+2019-10-01,2019-20 Q2,2,2019-20,People Energy,Number,Electricity,Residential,National,449
+2019-10-01,2019-20 Q2,2,2019-20,Pooled Energy,Number,Electricity,Residential,National,1497
+2019-10-01,2019-20 Q2,2,2019-20,Power Club,Number,Electricity,Residential,National,495
+2019-10-01,2019-20 Q2,2,2019-20,PowerHub,Number,Electricity,Residential,National,86
+2019-10-01,2019-20 Q2,2,2019-20,Powerdirect,Number,Electricity,Residential,National,49004
+2019-10-01,2019-20 Q2,2,2019-20,Powershop,Number,Electricity,Residential,National,48246
+2019-10-01,2019-20 Q2,2,2019-20,Progressive Green,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Qenergy,Number,Electricity,Residential,National,5847
+2019-10-01,2019-20 Q2,2,2019-20,Radian Energy,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,ReAmped Energy,Number,Electricity,Residential,National,5020
+2019-10-01,2019-20 Q2,2,2019-20,ReNu Energy,Number,Electricity,Residential,National,91
+2019-10-01,2019-20 Q2,2,2019-20,Real Utilities,Number,Electricity,Residential,National,564
+2019-10-01,2019-20 Q2,2,2019-20,Red Energy,Number,Electricity,Residential,National,297396
+2019-10-01,2019-20 Q2,2,2019-20,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Sanctuary Energy,Number,Electricity,Residential,National,86
+2019-10-01,2019-20 Q2,2,2019-20,Savant Energy,Number,Electricity,Residential,National,2936
+2019-10-01,2019-20 Q2,2,2019-20,Simply Energy,Number,Electricity,Residential,National,131428
+2019-10-01,2019-20 Q2,2,2019-20,Sumo Power,Number,Electricity,Residential,National,7089
+2019-10-01,2019-20 Q2,2,2019-20,Sustainable Saving,Number,Electricity,Residential,National,30
+2019-10-01,2019-20 Q2,2,2019-20,Tango Energy,Number,Electricity,Residential,National,7
+2019-10-01,2019-20 Q2,2,2019-20,Tas Gas,Number,Electricity,Residential,National,5
+2019-10-01,2019-20 Q2,2,2019-20,The Embedded Networks Company,Number,Electricity,Residential,National,101
+2019-10-01,2019-20 Q2,2,2019-20,Urth Energy,Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,Winenergy,Number,Electricity,Residential,National,2130
+2019-10-01,2019-20 Q2,2,2019-20,Y.E.S. Energy (SA),Number,Electricity,Residential,National,0
+2019-10-01,2019-20 Q2,2,2019-20,amaysim Energy,Number,Electricity,Residential,National,93561
+2020-01-01,2019-20 Q3,3,2019-20,1st Energy,Number,Electricity,Residential,National,15892
+2020-01-01,2019-20 Q3,3,2019-20,AGL,Number,Electricity,Residential,National,1379931
+2020-01-01,2019-20 Q3,3,2019-20,ActewAGL,Number,Electricity,Residential,National,169988
+2020-01-01,2019-20 Q3,3,2019-20,Alinta Energy,Number,Electricity,Residential,National,357096
+2020-01-01,2019-20 Q3,3,2019-20,Arc Energy,Number,Electricity,Residential,National,4197
+2020-01-01,2019-20 Q3,3,2019-20,Aurora Energy,Number,Electricity,Residential,National,244210
+2020-01-01,2019-20 Q3,3,2019-20,Blue NRG,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,Bright Spark Power,Number,Electricity,Residential,National,11
+2020-01-01,2019-20 Q3,3,2019-20,CleanPeak Energy,Number,Electricity,Residential,National,91
+2020-01-01,2019-20 Q3,3,2019-20,CovaU,Number,Electricity,Residential,National,4224
+2020-01-01,2019-20 Q3,3,2019-20,Diamond Energy,Number,Electricity,Residential,National,9686
+2020-01-01,2019-20 Q3,3,2019-20,Discover Energy,Number,Electricity,Residential,National,396
+2020-01-01,2019-20 Q3,3,2019-20,Dodo,Number,Electricity,Residential,National,47650
+2020-01-01,2019-20 Q3,3,2019-20,ERM Power,Number,Electricity,Residential,National,1846
+2020-01-01,2019-20 Q3,3,2019-20,Electricity in a Box,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,Elysian Energy,Number,Electricity,Residential,National,208
+2020-01-01,2019-20 Q3,3,2019-20,Energy Locals,Number,Electricity,Residential,National,18414
+2020-01-01,2019-20 Q3,3,2019-20,Energy Services Management,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,EnergyAustralia,Number,Electricity,Residential,National,1046262
+2020-01-01,2019-20 Q3,3,2019-20,Enova Energy,Number,Electricity,Residential,National,7650
+2020-01-01,2019-20 Q3,3,2019-20,Enwave Mascot,Number,Electricity,Residential,National,10
+2020-01-01,2019-20 Q3,3,2019-20,Ergon Energy,Number,Electricity,Residential,National,623693
+2020-01-01,2019-20 Q3,3,2019-20,Evergy,Number,Electricity,Residential,National,652
+2020-01-01,2019-20 Q3,3,2019-20,Flow Systems,Number,Electricity,Residential,National,5033
+2020-01-01,2019-20 Q3,3,2019-20,Future X Power,Number,Electricity,Residential,National,221
+2020-01-01,2019-20 Q3,3,2019-20,GloBird Energy,Number,Electricity,Residential,National,1056
+2020-01-01,2019-20 Q3,3,2019-20,Humenergy,Number,Electricity,Residential,National,300
+2020-01-01,2019-20 Q3,3,2019-20,Infigen Energy,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,Locality Planning Energy,Number,Electricity,Residential,National,23161
+2020-01-01,2019-20 Q3,3,2019-20,Lumo Energy,Number,Electricity,Residential,National,40569
+2020-01-01,2019-20 Q3,3,2019-20,MTA Energy,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,Metered Energy,Number,Electricity,Residential,National,13742
+2020-01-01,2019-20 Q3,3,2019-20,Mojo Power,Number,Electricity,Residential,National,3865
+2020-01-01,2019-20 Q3,3,2019-20,Momentum Energy,Number,Electricity,Residential,National,28054
+2020-01-01,2019-20 Q3,3,2019-20,National Total,Number,Electricity,Residential,National,6535671
+2020-01-01,2019-20 Q3,3,2019-20,Nectr Energy,Number,Electricity,Residential,National,254
+2020-01-01,2019-20 Q3,3,2019-20,Next Business Energy,Number,Electricity,Residential,National,80
+2020-01-01,2019-20 Q3,3,2019-20,OC Energy,Number,Electricity,Residential,National,5000
+2020-01-01,2019-20 Q3,3,2019-20,OVO Energy,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,Origin Energy,Number,Electricity,Residential,National,1826215
+2020-01-01,2019-20 Q3,3,2019-20,People Energy,Number,Electricity,Residential,National,441
+2020-01-01,2019-20 Q3,3,2019-20,Pooled Energy,Number,Electricity,Residential,National,1635
+2020-01-01,2019-20 Q3,3,2019-20,Power Club,Number,Electricity,Residential,National,606
+2020-01-01,2019-20 Q3,3,2019-20,PowerHub,Number,Electricity,Residential,National,86
+2020-01-01,2019-20 Q3,3,2019-20,Powerdirect,Number,Electricity,Residential,National,49184
+2020-01-01,2019-20 Q3,3,2019-20,Powershop,Number,Electricity,Residential,National,51946
+2020-01-01,2019-20 Q3,3,2019-20,Progressive Green,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,Qenergy,Number,Electricity,Residential,National,5723
+2020-01-01,2019-20 Q3,3,2019-20,Radian Energy,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,ReAmped Energy,Number,Electricity,Residential,National,7088
+2020-01-01,2019-20 Q3,3,2019-20,ReNu Energy,Number,Electricity,Residential,National,91
+2020-01-01,2019-20 Q3,3,2019-20,Real Utilities,Number,Electricity,Residential,National,586
+2020-01-01,2019-20 Q3,3,2019-20,Red Energy,Number,Electricity,Residential,National,302675
+2020-01-01,2019-20 Q3,3,2019-20,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,Sanctuary Energy,Number,Electricity,Residential,National,45
+2020-01-01,2019-20 Q3,3,2019-20,Savant Energy,Number,Electricity,Residential,National,2899
+2020-01-01,2019-20 Q3,3,2019-20,Simply Energy,Number,Electricity,Residential,National,131230
+2020-01-01,2019-20 Q3,3,2019-20,Sumo Power,Number,Electricity,Residential,National,7015
+2020-01-01,2019-20 Q3,3,2019-20,Sustainable Saving,Number,Electricity,Residential,National,30
+2020-01-01,2019-20 Q3,3,2019-20,Tango Energy,Number,Electricity,Residential,National,11
+2020-01-01,2019-20 Q3,3,2019-20,Tas Gas,Number,Electricity,Residential,National,19
+2020-01-01,2019-20 Q3,3,2019-20,The Embedded Networks Company,Number,Electricity,Residential,National,151
+2020-01-01,2019-20 Q3,3,2019-20,Winenergy,Number,Electricity,Residential,National,3074
+2020-01-01,2019-20 Q3,3,2019-20,Y.E.S. Energy (SA),Number,Electricity,Residential,National,0
+2020-01-01,2019-20 Q3,3,2019-20,amaysim Energy,Number,Electricity,Residential,National,93526
+2020-04-01,2019-20 Q4,4,2019-20,1st Energy,Number,Electricity,Residential,National,16096
+2020-04-01,2019-20 Q4,4,2019-20,AGL,Number,Electricity,Residential,National,1390017
+2020-04-01,2019-20 Q4,4,2019-20,ActewAGL,Number,Electricity,Residential,National,169807
+2020-04-01,2019-20 Q4,4,2019-20,Alinta Energy,Number,Electricity,Residential,National,352679
+2020-04-01,2019-20 Q4,4,2019-20,Apex Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Arc Energy,Number,Electricity,Residential,National,4469
+2020-04-01,2019-20 Q4,4,2019-20,Aurora Energy,Number,Electricity,Residential,National,245242
+2020-04-01,2019-20 Q4,4,2019-20,Blue NRG,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Bright Spark Power,Number,Electricity,Residential,National,70
+2020-04-01,2019-20 Q4,4,2019-20,CleanPeak Energy,Number,Electricity,Residential,National,101
+2020-04-01,2019-20 Q4,4,2019-20,CovaU,Number,Electricity,Residential,National,4667
+2020-04-01,2019-20 Q4,4,2019-20,Diamond Energy,Number,Electricity,Residential,National,9661
+2020-04-01,2019-20 Q4,4,2019-20,Discover Energy,Number,Electricity,Residential,National,1010
+2020-04-01,2019-20 Q4,4,2019-20,Dodo,Number,Electricity,Residential,National,47839
+2020-04-01,2019-20 Q4,4,2019-20,ERM Power,Number,Electricity,Residential,National,1683
+2020-04-01,2019-20 Q4,4,2019-20,Electricity in a Box,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Elysian Energy,Number,Electricity,Residential,National,244
+2020-04-01,2019-20 Q4,4,2019-20,Energy Locals,Number,Electricity,Residential,National,20504
+2020-04-01,2019-20 Q4,4,2019-20,Energy Services Management,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,EnergyAustralia,Number,Electricity,Residential,National,1044384
+2020-04-01,2019-20 Q4,4,2019-20,Enova Energy,Number,Electricity,Residential,National,8024
+2020-04-01,2019-20 Q4,4,2019-20,Enwave Mascot,Number,Electricity,Residential,National,62
+2020-04-01,2019-20 Q4,4,2019-20,Ergon Energy,Number,Electricity,Residential,National,627523
+2020-04-01,2019-20 Q4,4,2019-20,Evergy,Number,Electricity,Residential,National,685
+2020-04-01,2019-20 Q4,4,2019-20,Flow Systems,Number,Electricity,Residential,National,5270
+2020-04-01,2019-20 Q4,4,2019-20,Future X Power,Number,Electricity,Residential,National,277
+2020-04-01,2019-20 Q4,4,2019-20,GloBird Energy,Number,Electricity,Residential,National,1525
+2020-04-01,2019-20 Q4,4,2019-20,GlowPower,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Humenergy,Number,Electricity,Residential,National,297
+2020-04-01,2019-20 Q4,4,2019-20,Iberdrola Australia,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Infigen Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Locality Planning Energy,Number,Electricity,Residential,National,23356
+2020-04-01,2019-20 Q4,4,2019-20,Lumo Energy,Number,Electricity,Residential,National,41054
+2020-04-01,2019-20 Q4,4,2019-20,MTA Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Metered Energy,Number,Electricity,Residential,National,13950
+2020-04-01,2019-20 Q4,4,2019-20,Mojo Power,Number,Electricity,Residential,National,3789
+2020-04-01,2019-20 Q4,4,2019-20,Momentum Energy,Number,Electricity,Residential,National,28473
+2020-04-01,2019-20 Q4,4,2019-20,National Total,Number,Electricity,Residential,National,6566406
+2020-04-01,2019-20 Q4,4,2019-20,Nectr Energy,Number,Electricity,Residential,National,1024
+2020-04-01,2019-20 Q4,4,2019-20,Next Business Energy,Number,Electricity,Residential,National,72
+2020-04-01,2019-20 Q4,4,2019-20,OC Energy,Number,Electricity,Residential,National,4467
+2020-04-01,2019-20 Q4,4,2019-20,OVO Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Origin Energy,Number,Electricity,Residential,National,1831948
+2020-04-01,2019-20 Q4,4,2019-20,People Energy,Number,Electricity,Residential,National,438
+2020-04-01,2019-20 Q4,4,2019-20,Pooled Energy,Number,Electricity,Residential,National,1645
+2020-04-01,2019-20 Q4,4,2019-20,Power Club,Number,Electricity,Residential,National,627
+2020-04-01,2019-20 Q4,4,2019-20,PowerHub,Number,Electricity,Residential,National,318
+2020-04-01,2019-20 Q4,4,2019-20,Powerdirect,Number,Electricity,Residential,National,47932
+2020-04-01,2019-20 Q4,4,2019-20,Powershop,Number,Electricity,Residential,National,52871
+2020-04-01,2019-20 Q4,4,2019-20,Progressive Green,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Qenergy,Number,Electricity,Residential,National,5488
+2020-04-01,2019-20 Q4,4,2019-20,Radian Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,ReAmped Energy,Number,Electricity,Residential,National,9352
+2020-04-01,2019-20 Q4,4,2019-20,Real Utilities,Number,Electricity,Residential,National,561
+2020-04-01,2019-20 Q4,4,2019-20,Red Energy,Number,Electricity,Residential,National,306228
+2020-04-01,2019-20 Q4,4,2019-20,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Sanctuary Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Savant Energy,Number,Electricity,Residential,National,2962
+2020-04-01,2019-20 Q4,4,2019-20,Shell Energy,Number,Electricity,Residential,National,18
+2020-04-01,2019-20 Q4,4,2019-20,Simply Energy,Number,Electricity,Residential,National,133318
+2020-04-01,2019-20 Q4,4,2019-20,Smart Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,SmartestEnergy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Social Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Sumo Power,Number,Electricity,Residential,National,6841
+2020-04-01,2019-20 Q4,4,2019-20,Sustainable Saving,Number,Electricity,Residential,National,30
+2020-04-01,2019-20 Q4,4,2019-20,Sustainable Savings,Number,Electricity,Residential,National,30
+2020-04-01,2019-20 Q4,4,2019-20,Tango Energy,Number,Electricity,Residential,National,213
+2020-04-01,2019-20 Q4,4,2019-20,Tas Gas,Number,Electricity,Residential,National,38
+2020-04-01,2019-20 Q4,4,2019-20,The Embedded Networks Company,Number,Electricity,Residential,National,272
+2020-04-01,2019-20 Q4,4,2019-20,Winconnect,Number,Electricity,Residential,National,3613
+2020-04-01,2019-20 Q4,4,2019-20,Winenergy,Number,Electricity,Residential,National,3613
+2020-04-01,2019-20 Q4,4,2019-20,Y.E.S. Energy,Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,Y.E.S. Energy (SA),Number,Electricity,Residential,National,0
+2020-04-01,2019-20 Q4,4,2019-20,amaysim Energy,Number,Electricity,Residential,National,95212
+2020-07-01,2020-21 Q1,1,2020-21,1st Energy,Number,Electricity,Residential,National,16568
+2020-07-01,2020-21 Q1,1,2020-21,AGL,Number,Electricity,Residential,National,1400272
+2020-07-01,2020-21 Q1,1,2020-21,ActewAGL,Number,Electricity,Residential,National,169174
+2020-07-01,2020-21 Q1,1,2020-21,Alinta Energy,Number,Electricity,Residential,National,342819
+2020-07-01,2020-21 Q1,1,2020-21,Apex Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Arc Energy,Number,Electricity,Residential,National,4851
+2020-07-01,2020-21 Q1,1,2020-21,Aurora Energy,Number,Electricity,Residential,National,244987
+2020-07-01,2020-21 Q1,1,2020-21,Blue NRG,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Bright Spark Power,Number,Electricity,Residential,National,141
+2020-07-01,2020-21 Q1,1,2020-21,CleanPeak Energy,Number,Electricity,Residential,National,112
+2020-07-01,2020-21 Q1,1,2020-21,CovaU,Number,Electricity,Residential,National,4914
+2020-07-01,2020-21 Q1,1,2020-21,Diamond Energy,Number,Electricity,Residential,National,9753
+2020-07-01,2020-21 Q1,1,2020-21,Discover Energy,Number,Electricity,Residential,National,2448
+2020-07-01,2020-21 Q1,1,2020-21,Dodo,Number,Electricity,Residential,National,46877
+2020-07-01,2020-21 Q1,1,2020-21,ERM Power,Number,Electricity,Residential,National,1691
+2020-07-01,2020-21 Q1,1,2020-21,Electricity in a Box,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Elysian Energy,Number,Electricity,Residential,National,237
+2020-07-01,2020-21 Q1,1,2020-21,Energy Locals,Number,Electricity,Residential,National,22660
+2020-07-01,2020-21 Q1,1,2020-21,Energy Services Management,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,EnergyAustralia,Number,Electricity,Residential,National,1044273
+2020-07-01,2020-21 Q1,1,2020-21,Enova Energy,Number,Electricity,Residential,National,8282
+2020-07-01,2020-21 Q1,1,2020-21,Enwave Mascot,Number,Electricity,Residential,National,107
+2020-07-01,2020-21 Q1,1,2020-21,Ergon Energy,Number,Electricity,Residential,National,630888
+2020-07-01,2020-21 Q1,1,2020-21,Evergy,Number,Electricity,Residential,National,698
+2020-07-01,2020-21 Q1,1,2020-21,Flow Systems,Number,Electricity,Residential,National,7238
+2020-07-01,2020-21 Q1,1,2020-21,Future X Power,Number,Electricity,Residential,National,941
+2020-07-01,2020-21 Q1,1,2020-21,GloBird Energy,Number,Electricity,Residential,National,3004
+2020-07-01,2020-21 Q1,1,2020-21,GlowPower,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Humenergy,Number,Electricity,Residential,National,383
+2020-07-01,2020-21 Q1,1,2020-21,Iberdrola Australia,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Infigen Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,LocalVolts,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Locality Planning Energy,Number,Electricity,Residential,National,23841
+2020-07-01,2020-21 Q1,1,2020-21,Lumo Energy,Number,Electricity,Residential,National,41385
+2020-07-01,2020-21 Q1,1,2020-21,MTA Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Metered Energy,Number,Electricity,Residential,National,14058
+2020-07-01,2020-21 Q1,1,2020-21,Mojo Power,Number,Electricity,Residential,National,4052
+2020-07-01,2020-21 Q1,1,2020-21,Momentum Energy,Number,Electricity,Residential,National,28354
+2020-07-01,2020-21 Q1,1,2020-21,National Total,Number,Electricity,Residential,National,6607512
+2020-07-01,2020-21 Q1,1,2020-21,Nectr Energy,Number,Electricity,Residential,National,5498
+2020-07-01,2020-21 Q1,1,2020-21,Next Business Energy,Number,Electricity,Residential,National,67
+2020-07-01,2020-21 Q1,1,2020-21,OC Energy,Number,Electricity,Residential,National,4014
+2020-07-01,2020-21 Q1,1,2020-21,OVO Energy,Number,Electricity,Residential,National,1904
+2020-07-01,2020-21 Q1,1,2020-21,Origin Energy,Number,Electricity,Residential,National,1828248
+2020-07-01,2020-21 Q1,1,2020-21,People Energy,Number,Electricity,Residential,National,427
+2020-07-01,2020-21 Q1,1,2020-21,Pooled Energy,Number,Electricity,Residential,National,1614
+2020-07-01,2020-21 Q1,1,2020-21,Power Club,Number,Electricity,Residential,National,678
+2020-07-01,2020-21 Q1,1,2020-21,PowerHub,Number,Electricity,Residential,National,452
+2020-07-01,2020-21 Q1,1,2020-21,Powerdirect,Number,Electricity,Residential,National,45605
+2020-07-01,2020-21 Q1,1,2020-21,Powershop,Number,Electricity,Residential,National,55058
+2020-07-01,2020-21 Q1,1,2020-21,Progressive Green,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Qenergy,Number,Electricity,Residential,National,5506
+2020-07-01,2020-21 Q1,1,2020-21,Radian Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,ReAmped Energy,Number,Electricity,Residential,National,12318
+2020-07-01,2020-21 Q1,1,2020-21,Real Utilities,Number,Electricity,Residential,National,687
+2020-07-01,2020-21 Q1,1,2020-21,Red Energy,Number,Electricity,Residential,National,309824
+2020-07-01,2020-21 Q1,1,2020-21,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Sanctuary Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Savant Energy,Number,Electricity,Residential,National,3224
+2020-07-01,2020-21 Q1,1,2020-21,Shell Energy,Number,Electricity,Residential,National,18
+2020-07-01,2020-21 Q1,1,2020-21,Simply Energy,Number,Electricity,Residential,National,148412
+2020-07-01,2020-21 Q1,1,2020-21,Smart Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Smartest Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,SmartestEnergy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Social Energy,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,Sumo Power,Number,Electricity,Residential,National,6766
+2020-07-01,2020-21 Q1,1,2020-21,Sustainable Saving,Number,Electricity,Residential,National,30
+2020-07-01,2020-21 Q1,1,2020-21,Sustainable Savings,Number,Electricity,Residential,National,30
+2020-07-01,2020-21 Q1,1,2020-21,Tango Energy,Number,Electricity,Residential,National,881
+2020-07-01,2020-21 Q1,1,2020-21,Tas Gas,Number,Electricity,Residential,National,0
+2020-07-01,2020-21 Q1,1,2020-21,The Embedded Networks Company,Number,Electricity,Residential,National,363
+2020-07-01,2020-21 Q1,1,2020-21,Winconnect,Number,Electricity,Residential,National,3715
+2020-07-01,2020-21 Q1,1,2020-21,Winenergy,Number,Electricity,Residential,National,3715
+2020-07-01,2020-21 Q1,1,2020-21,Y.E.S. Energy,Number,Electricity,Residential,National,2
+2020-07-01,2020-21 Q1,1,2020-21,Y.E.S. Energy (SA),Number,Electricity,Residential,National,2
+2020-07-01,2020-21 Q1,1,2020-21,amaysim Energy,Number,Electricity,Residential,National,99014
+2020-10-01,2020-21 Q2,2,2020-21,1st Energy,Number,Electricity,Residential,National,16900
+2020-10-01,2020-21 Q2,2,2020-21,AGL,Number,Electricity,Residential,National,1406810
+2020-10-01,2020-21 Q2,2,2020-21,ActewAGL,Number,Electricity,Residential,National,168803
+2020-10-01,2020-21 Q2,2,2020-21,Alinta Energy,Number,Electricity,Residential,National,333100
+2020-10-01,2020-21 Q2,2,2020-21,Apex Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Arc Energy,Number,Electricity,Residential,National,5266
+2020-10-01,2020-21 Q2,2,2020-21,Aurora Energy,Number,Electricity,Residential,National,244803
+2020-10-01,2020-21 Q2,2,2020-21,Blue NRG,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Bright Spark Power,Number,Electricity,Residential,National,214
+2020-10-01,2020-21 Q2,2,2020-21,CleanPeak Energy,Number,Electricity,Residential,National,103
+2020-10-01,2020-21 Q2,2,2020-21,CovaU,Number,Electricity,Residential,National,5385
+2020-10-01,2020-21 Q2,2,2020-21,Diamond Energy,Number,Electricity,Residential,National,9624
+2020-10-01,2020-21 Q2,2,2020-21,Discover Energy,Number,Electricity,Residential,National,3850
+2020-10-01,2020-21 Q2,2,2020-21,Dodo,Number,Electricity,Residential,National,44487
+2020-10-01,2020-21 Q2,2,2020-21,ERM Power,Number,Electricity,Residential,National,1679
+2020-10-01,2020-21 Q2,2,2020-21,Electricity in a Box,Number,Electricity,Residential,National,7
+2020-10-01,2020-21 Q2,2,2020-21,Elysian Energy,Number,Electricity,Residential,National,297
+2020-10-01,2020-21 Q2,2,2020-21,Energy Locals,Number,Electricity,Residential,National,26832
+2020-10-01,2020-21 Q2,2,2020-21,Energy Services Management,Number,Electricity,Residential,National,59
+2020-10-01,2020-21 Q2,2,2020-21,EnergyAustralia,Number,Electricity,Residential,National,1033924
+2020-10-01,2020-21 Q2,2,2020-21,Enova Energy,Number,Electricity,Residential,National,8627
+2020-10-01,2020-21 Q2,2,2020-21,Enwave Mascot,Number,Electricity,Residential,National,122
+2020-10-01,2020-21 Q2,2,2020-21,Ergon Energy,Number,Electricity,Residential,National,631056
+2020-10-01,2020-21 Q2,2,2020-21,Evergy,Number,Electricity,Residential,National,710
+2020-10-01,2020-21 Q2,2,2020-21,Flow Systems,Number,Electricity,Residential,National,8940
+2020-10-01,2020-21 Q2,2,2020-21,Future X Power,Number,Electricity,Residential,National,1363
+2020-10-01,2020-21 Q2,2,2020-21,GloBird Energy,Number,Electricity,Residential,National,4678
+2020-10-01,2020-21 Q2,2,2020-21,GlowPower,Number,Electricity,Residential,National,59
+2020-10-01,2020-21 Q2,2,2020-21,Humenergy,Number,Electricity,Residential,National,505
+2020-10-01,2020-21 Q2,2,2020-21,Iberdrola Australia,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Infigen Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,LocalVolts,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Locality Planning Energy,Number,Electricity,Residential,National,25935
+2020-10-01,2020-21 Q2,2,2020-21,Lumo Energy,Number,Electricity,Residential,National,41304
+2020-10-01,2020-21 Q2,2,2020-21,MTA Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Metered Energy,Number,Electricity,Residential,National,14125
+2020-10-01,2020-21 Q2,2,2020-21,Mojo Power,Number,Electricity,Residential,National,4834
+2020-10-01,2020-21 Q2,2,2020-21,Momentum Energy,Number,Electricity,Residential,National,29061
+2020-10-01,2020-21 Q2,2,2020-21,National Total,Number,Electricity,Residential,National,6611143
+2020-10-01,2020-21 Q2,2,2020-21,Nectr Energy,Number,Electricity,Residential,National,10097
+2020-10-01,2020-21 Q2,2,2020-21,Next Business Energy,Number,Electricity,Residential,National,67
+2020-10-01,2020-21 Q2,2,2020-21,OC Energy,Number,Electricity,Residential,National,3628
+2020-10-01,2020-21 Q2,2,2020-21,OVO Energy,Number,Electricity,Residential,National,2760
+2020-10-01,2020-21 Q2,2,2020-21,Origin Energy,Number,Electricity,Residential,National,1820348
+2020-10-01,2020-21 Q2,2,2020-21,People Energy,Number,Electricity,Residential,National,400
+2020-10-01,2020-21 Q2,2,2020-21,Pooled Energy,Number,Electricity,Residential,National,1606
+2020-10-01,2020-21 Q2,2,2020-21,Power Club,Number,Electricity,Residential,National,683
+2020-10-01,2020-21 Q2,2,2020-21,PowerHub,Number,Electricity,Residential,National,572
+2020-10-01,2020-21 Q2,2,2020-21,Powerdirect,Number,Electricity,Residential,National,43546
+2020-10-01,2020-21 Q2,2,2020-21,Powershop,Number,Electricity,Residential,National,56465
+2020-10-01,2020-21 Q2,2,2020-21,Progressive Green,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Qenergy,Number,Electricity,Residential,National,4863
+2020-10-01,2020-21 Q2,2,2020-21,Radian Energy,Number,Electricity,Residential,National,32
+2020-10-01,2020-21 Q2,2,2020-21,ReAmped Energy,Number,Electricity,Residential,National,16991
+2020-10-01,2020-21 Q2,2,2020-21,Real Utilities,Number,Electricity,Residential,National,736
+2020-10-01,2020-21 Q2,2,2020-21,Red Energy,Number,Electricity,Residential,National,311291
+2020-10-01,2020-21 Q2,2,2020-21,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Sanctuary Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Savant Energy,Number,Electricity,Residential,National,3210
+2020-10-01,2020-21 Q2,2,2020-21,Shell Energy,Number,Electricity,Residential,National,22
+2020-10-01,2020-21 Q2,2,2020-21,Simply Energy,Number,Electricity,Residential,National,147589
+2020-10-01,2020-21 Q2,2,2020-21,Smart Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Smartest Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,SmartestEnergy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Social Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,Sumo Power,Number,Electricity,Residential,National,9007
+2020-10-01,2020-21 Q2,2,2020-21,Sustainable Saving,Number,Electricity,Residential,National,30
+2020-10-01,2020-21 Q2,2,2020-21,Sustainable Savings,Number,Electricity,Residential,National,30
+2020-10-01,2020-21 Q2,2,2020-21,Tango Energy,Number,Electricity,Residential,National,2880
+2020-10-01,2020-21 Q2,2,2020-21,Tas Gas,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,The Embedded Networks Company,Number,Electricity,Residential,National,531
+2020-10-01,2020-21 Q2,2,2020-21,Winconnect,Number,Electricity,Residential,National,6290
+2020-10-01,2020-21 Q2,2,2020-21,Winenergy,Number,Electricity,Residential,National,6290
+2020-10-01,2020-21 Q2,2,2020-21,Y.E.S. Energy,Number,Electricity,Residential,National,2
+2020-10-01,2020-21 Q2,2,2020-21,Y.E.S. Energy (SA),Number,Electricity,Residential,National,2
+2020-10-01,2020-21 Q2,2,2020-21,ZEN Energy,Number,Electricity,Residential,National,0
+2020-10-01,2020-21 Q2,2,2020-21,amaysim Energy,Number,Electricity,Residential,National,95898
+2021-01-01,2020-21 Q3,3,2020-21,1st Energy,Number,Electricity,Residential,National,17698
+2021-01-01,2020-21 Q3,3,2020-21,AGL,Number,Electricity,Residential,National,1413472
+2021-01-01,2020-21 Q3,3,2020-21,ActewAGL,Number,Electricity,Residential,National,167009
+2021-01-01,2020-21 Q3,3,2020-21,Alinta Energy,Number,Electricity,Residential,National,328974
+2021-01-01,2020-21 Q3,3,2020-21,Altogether Group,Number,Electricity,Residential,National,9146
+2021-01-01,2020-21 Q3,3,2020-21,Amber Electric,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Apex Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Arc Energy,Number,Electricity,Residential,National,5532
+2021-01-01,2020-21 Q3,3,2020-21,Aurora Energy,Number,Electricity,Residential,National,244593
+2021-01-01,2020-21 Q3,3,2020-21,Blue NRG,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Bright Spark Power,Number,Electricity,Residential,National,313
+2021-01-01,2020-21 Q3,3,2020-21,Brighte Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,CPE Mascot,Number,Electricity,Residential,National,139
+2021-01-01,2020-21 Q3,3,2020-21,CleanPeak Energy,Number,Electricity,Residential,National,93
+2021-01-01,2020-21 Q3,3,2020-21,CovaU,Number,Electricity,Residential,National,5906
+2021-01-01,2020-21 Q3,3,2020-21,Diamond Energy,Number,Electricity,Residential,National,9580
+2021-01-01,2020-21 Q3,3,2020-21,Discover Energy,Number,Electricity,Residential,National,4869
+2021-01-01,2020-21 Q3,3,2020-21,Dodo,Number,Electricity,Residential,National,45199
+2021-01-01,2020-21 Q3,3,2020-21,EA Connect,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,ERM Power,Number,Electricity,Residential,National,1655
+2021-01-01,2020-21 Q3,3,2020-21,Electricity in a Box,Number,Electricity,Residential,National,62
+2021-01-01,2020-21 Q3,3,2020-21,Elysian Energy,Number,Electricity,Residential,National,428
+2021-01-01,2020-21 Q3,3,2020-21,Energy Locals,Number,Electricity,Residential,National,29776
+2021-01-01,2020-21 Q3,3,2020-21,Energy Services Management,Number,Electricity,Residential,National,216
+2021-01-01,2020-21 Q3,3,2020-21,EnergyAustralia,Number,Electricity,Residential,National,1023778
+2021-01-01,2020-21 Q3,3,2020-21,Enova Energy,Number,Electricity,Residential,National,9139
+2021-01-01,2020-21 Q3,3,2020-21,Enwave Mascot,Number,Electricity,Residential,National,139
+2021-01-01,2020-21 Q3,3,2020-21,Ergon Energy,Number,Electricity,Residential,National,631536
+2021-01-01,2020-21 Q3,3,2020-21,Evergy,Number,Electricity,Residential,National,923
+2021-01-01,2020-21 Q3,3,2020-21,Flow Systems,Number,Electricity,Residential,National,9146
+2021-01-01,2020-21 Q3,3,2020-21,Future X Power,Number,Electricity,Residential,National,1322
+2021-01-01,2020-21 Q3,3,2020-21,GEE Power & Gas,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,GloBird Energy,Number,Electricity,Residential,National,6818
+2021-01-01,2020-21 Q3,3,2020-21,GlowPower,Number,Electricity,Residential,National,216
+2021-01-01,2020-21 Q3,3,2020-21,Humenergy,Number,Electricity,Residential,National,700
+2021-01-01,2020-21 Q3,3,2020-21,Iberdrola Australia,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Infigen Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,LocalVolts,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Locality Planning Energy,Number,Electricity,Residential,National,26955
+2021-01-01,2020-21 Q3,3,2020-21,Lumo Energy,Number,Electricity,Residential,National,41630
+2021-01-01,2020-21 Q3,3,2020-21,MTA Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Maximum Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Metered Energy,Number,Electricity,Residential,National,14292
+2021-01-01,2020-21 Q3,3,2020-21,Microgrid Power,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Mojo Power,Number,Electricity,Residential,National,5533
+2021-01-01,2020-21 Q3,3,2020-21,Momentum Energy,Number,Electricity,Residential,National,32542
+2021-01-01,2020-21 Q3,3,2020-21,National Total,Number,Electricity,Residential,National,6634996
+2021-01-01,2020-21 Q3,3,2020-21,Nectr Energy,Number,Electricity,Residential,National,14340
+2021-01-01,2020-21 Q3,3,2020-21,Next Business Energy,Number,Electricity,Residential,National,70
+2021-01-01,2020-21 Q3,3,2020-21,OC Energy,Number,Electricity,Residential,National,3279
+2021-01-01,2020-21 Q3,3,2020-21,OVO Energy,Number,Electricity,Residential,National,3111
+2021-01-01,2020-21 Q3,3,2020-21,Origin Energy,Number,Electricity,Residential,National,1821715
+2021-01-01,2020-21 Q3,3,2020-21,People Energy,Number,Electricity,Residential,National,375
+2021-01-01,2020-21 Q3,3,2020-21,Pooled Energy,Number,Electricity,Residential,National,1634
+2021-01-01,2020-21 Q3,3,2020-21,Power Club,Number,Electricity,Residential,National,697
+2021-01-01,2020-21 Q3,3,2020-21,PowerHub,Number,Electricity,Residential,National,566
+2021-01-01,2020-21 Q3,3,2020-21,Powerdirect,Number,Electricity,Residential,National,42024
+2021-01-01,2020-21 Q3,3,2020-21,Powershop,Number,Electricity,Residential,National,56991
+2021-01-01,2020-21 Q3,3,2020-21,Progressive Green,Number,Electricity,Residential,National,7
+2021-01-01,2020-21 Q3,3,2020-21,Qenergy,Number,Electricity,Residential,National,4663
+2021-01-01,2020-21 Q3,3,2020-21,Radian Energy,Number,Electricity,Residential,National,41
+2021-01-01,2020-21 Q3,3,2020-21,ReAmped Energy,Number,Electricity,Residential,National,21799
+2021-01-01,2020-21 Q3,3,2020-21,Real Utilities,Number,Electricity,Residential,National,804
+2021-01-01,2020-21 Q3,3,2020-21,Red Energy,Number,Electricity,Residential,National,314954
+2021-01-01,2020-21 Q3,3,2020-21,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Sanctuary Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Savant Energy,Number,Electricity,Residential,National,3024
+2021-01-01,2020-21 Q3,3,2020-21,Shell Energy,Number,Electricity,Residential,National,1655
+2021-01-01,2020-21 Q3,3,2020-21,Simply Energy,Number,Electricity,Residential,National,149865
+2021-01-01,2020-21 Q3,3,2020-21,Smart Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Smartest Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,SmartestEnergy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Social Energy,Number,Electricity,Residential,National,4
+2021-01-01,2020-21 Q3,3,2020-21,Sumo Power,Number,Electricity,Residential,National,13577
+2021-01-01,2020-21 Q3,3,2020-21,Sustainable Saving,Number,Electricity,Residential,National,30
+2021-01-01,2020-21 Q3,3,2020-21,Sustainable Savings,Number,Electricity,Residential,National,30
+2021-01-01,2020-21 Q3,3,2020-21,Tango Energy,Number,Electricity,Residential,National,4056
+2021-01-01,2020-21 Q3,3,2020-21,Tas Gas,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,Telstra Energy Retail,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,The Embedded Networks Company,Number,Electricity,Residential,National,632
+2021-01-01,2020-21 Q3,3,2020-21,Winconnect,Number,Electricity,Residential,National,7222
+2021-01-01,2020-21 Q3,3,2020-21,Winenergy,Number,Electricity,Residential,National,7222
+2021-01-01,2020-21 Q3,3,2020-21,Y.E.S. Energy,Number,Electricity,Residential,National,1
+2021-01-01,2020-21 Q3,3,2020-21,Y.E.S. Energy (SA),Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,ZEN Energy,Number,Electricity,Residential,National,0
+2021-01-01,2020-21 Q3,3,2020-21,amaysim Energy,Number,Electricity,Residential,National,91443
+2021-04-01,2020-21 Q4,4,2020-21,1st Energy,Number,Electricity,Residential,National,18854
+2021-04-01,2020-21 Q4,4,2020-21,AGL,Number,Electricity,Residential,National,1499550
+2021-04-01,2020-21 Q4,4,2020-21,ActewAGL,Number,Electricity,Residential,National,167383
+2021-04-01,2020-21 Q4,4,2020-21,Alinta Energy,Number,Electricity,Residential,National,326774
+2021-04-01,2020-21 Q4,4,2020-21,Altogether Group,Number,Electricity,Residential,National,10374
+2021-04-01,2020-21 Q4,4,2020-21,Amber Electric,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Apex Energy,Number,Electricity,Residential,National,638
+2021-04-01,2020-21 Q4,4,2020-21,Arc Energy,Number,Electricity,Residential,National,5346
+2021-04-01,2020-21 Q4,4,2020-21,Aurora Energy,Number,Electricity,Residential,National,243943
+2021-04-01,2020-21 Q4,4,2020-21,Blue NRG,Number,Electricity,Residential,National,7711
+2021-04-01,2020-21 Q4,4,2020-21,Bright Spark Power,Number,Electricity,Residential,National,400
+2021-04-01,2020-21 Q4,4,2020-21,Brighte Energy,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,CPE Mascot,Number,Electricity,Residential,National,154
+2021-04-01,2020-21 Q4,4,2020-21,CleanPeak Energy,Number,Electricity,Residential,National,95
+2021-04-01,2020-21 Q4,4,2020-21,CovaU,Number,Electricity,Residential,National,6489
+2021-04-01,2020-21 Q4,4,2020-21,Diamond Energy,Number,Electricity,Residential,National,9478
+2021-04-01,2020-21 Q4,4,2020-21,Discover Energy,Number,Electricity,Residential,National,5522
+2021-04-01,2020-21 Q4,4,2020-21,Dodo,Number,Electricity,Residential,National,45501
+2021-04-01,2020-21 Q4,4,2020-21,EA Connect,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,ERM Power,Number,Electricity,Residential,National,1724
+2021-04-01,2020-21 Q4,4,2020-21,Electricity in a Box,Number,Electricity,Residential,National,116
+2021-04-01,2020-21 Q4,4,2020-21,Elysian Energy,Number,Electricity,Residential,National,756
+2021-04-01,2020-21 Q4,4,2020-21,Energy Locals,Number,Electricity,Residential,National,32184
+2021-04-01,2020-21 Q4,4,2020-21,Energy Services Management,Number,Electricity,Residential,National,708
+2021-04-01,2020-21 Q4,4,2020-21,EnergyAustralia,Number,Electricity,Residential,National,1024747
+2021-04-01,2020-21 Q4,4,2020-21,Enova Energy,Number,Electricity,Residential,National,9815
+2021-04-01,2020-21 Q4,4,2020-21,Enwave Mascot,Number,Electricity,Residential,National,154
+2021-04-01,2020-21 Q4,4,2020-21,Ergon Energy,Number,Electricity,Residential,National,632562
+2021-04-01,2020-21 Q4,4,2020-21,Evergy,Number,Electricity,Residential,National,1120
+2021-04-01,2020-21 Q4,4,2020-21,Flow Systems,Number,Electricity,Residential,National,10374
+2021-04-01,2020-21 Q4,4,2020-21,Future X Power,Number,Electricity,Residential,National,1304
+2021-04-01,2020-21 Q4,4,2020-21,GEE Power & Gas,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,GloBird Energy,Number,Electricity,Residential,National,10022
+2021-04-01,2020-21 Q4,4,2020-21,GlowPower,Number,Electricity,Residential,National,708
+2021-04-01,2020-21 Q4,4,2020-21,Humenergy,Number,Electricity,Residential,National,743
+2021-04-01,2020-21 Q4,4,2020-21,Iberdrola Australia,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Infigen Energy,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,LocalVolts,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Locality Planning Energy,Number,Electricity,Residential,National,29028
+2021-04-01,2020-21 Q4,4,2020-21,Lumo Energy,Number,Electricity,Residential,National,42549
+2021-04-01,2020-21 Q4,4,2020-21,MTA Energy,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Maximum Energy,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Metered Energy,Number,Electricity,Residential,National,14140
+2021-04-01,2020-21 Q4,4,2020-21,Microgrid Power,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Mojo Power,Number,Electricity,Residential,National,6547
+2021-04-01,2020-21 Q4,4,2020-21,Momentum Energy,Number,Electricity,Residential,National,33990
+2021-04-01,2020-21 Q4,4,2020-21,National Total,Number,Electricity,Residential,National,6662723
+2021-04-01,2020-21 Q4,4,2020-21,Nectr Energy,Number,Electricity,Residential,National,17821
+2021-04-01,2020-21 Q4,4,2020-21,Next Business Energy,Number,Electricity,Residential,National,66
+2021-04-01,2020-21 Q4,4,2020-21,OC Energy,Number,Electricity,Residential,National,2966
+2021-04-01,2020-21 Q4,4,2020-21,OVO Energy,Number,Electricity,Residential,National,3864
+2021-04-01,2020-21 Q4,4,2020-21,Origin Energy,Number,Electricity,Residential,National,1820543
+2021-04-01,2020-21 Q4,4,2020-21,People Energy,Number,Electricity,Residential,National,348
+2021-04-01,2020-21 Q4,4,2020-21,Pooled Energy,Number,Electricity,Residential,National,1637
+2021-04-01,2020-21 Q4,4,2020-21,Power Club,Number,Electricity,Residential,National,654
+2021-04-01,2020-21 Q4,4,2020-21,PowerHub,Number,Electricity,Residential,National,616
+2021-04-01,2020-21 Q4,4,2020-21,Powerdirect,Number,Electricity,Residential,National,42413
+2021-04-01,2020-21 Q4,4,2020-21,Powershop,Number,Electricity,Residential,National,56779
+2021-04-01,2020-21 Q4,4,2020-21,Progressive Green,Number,Electricity,Residential,National,8
+2021-04-01,2020-21 Q4,4,2020-21,Qenergy,Number,Electricity,Residential,National,4744
+2021-04-01,2020-21 Q4,4,2020-21,Radian Energy,Number,Electricity,Residential,National,133
+2021-04-01,2020-21 Q4,4,2020-21,ReAmped Energy,Number,Electricity,Residential,National,26295
+2021-04-01,2020-21 Q4,4,2020-21,Real Utilities,Number,Electricity,Residential,National,866
+2021-04-01,2020-21 Q4,4,2020-21,Red Energy,Number,Electricity,Residential,National,318559
+2021-04-01,2020-21 Q4,4,2020-21,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Sanctuary Energy,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Savant Energy,Number,Electricity,Residential,National,3169
+2021-04-01,2020-21 Q4,4,2020-21,Shell Energy,Number,Electricity,Residential,National,1724
+2021-04-01,2020-21 Q4,4,2020-21,Simply Energy,Number,Electricity,Residential,National,150602
+2021-04-01,2020-21 Q4,4,2020-21,Smart Energy,Number,Electricity,Residential,National,30
+2021-04-01,2020-21 Q4,4,2020-21,Smartest Energy,Number,Electricity,Residential,National,2
+2021-04-01,2020-21 Q4,4,2020-21,SmartestEnergy,Number,Electricity,Residential,National,2
+2021-04-01,2020-21 Q4,4,2020-21,Social Energy,Number,Electricity,Residential,National,50
+2021-04-01,2020-21 Q4,4,2020-21,Sumo Power,Number,Electricity,Residential,National,16698
+2021-04-01,2020-21 Q4,4,2020-21,Sustainable Savings,Number,Electricity,Residential,National,30
+2021-04-01,2020-21 Q4,4,2020-21,Tango Energy,Number,Electricity,Residential,National,4698
+2021-04-01,2020-21 Q4,4,2020-21,Tas Gas,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,Telstra Energy Retail,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,The Embedded Networks Company,Number,Electricity,Residential,National,767
+2021-04-01,2020-21 Q4,4,2020-21,Winconnect,Number,Electricity,Residential,National,7638
+2021-04-01,2020-21 Q4,4,2020-21,Winenergy,Number,Electricity,Residential,National,7638
+2021-04-01,2020-21 Q4,4,2020-21,Y.E.S. Energy,Number,Electricity,Residential,National,4
+2021-04-01,2020-21 Q4,4,2020-21,ZEN Energy,Number,Electricity,Residential,National,0
+2021-04-01,2020-21 Q4,4,2020-21,amaysim Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,1st Energy,Number,Electricity,Residential,National,19564
+2021-07-01,2021-22 Q1,1,2021-22,AGL,Number,Electricity,Residential,National,1503316
+2021-07-01,2021-22 Q1,1,2021-22,ActewAGL,Number,Electricity,Residential,National,165991
+2021-07-01,2021-22 Q1,1,2021-22,Alinta Energy,Number,Electricity,Residential,National,330860
+2021-07-01,2021-22 Q1,1,2021-22,Altogether Group,Number,Electricity,Residential,National,10522
+2021-07-01,2021-22 Q1,1,2021-22,Amber Electric,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Ampol Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Apex Energy,Number,Electricity,Residential,National,689
+2021-07-01,2021-22 Q1,1,2021-22,Arc Energy,Number,Electricity,Residential,National,6225
+2021-07-01,2021-22 Q1,1,2021-22,Aurora Energy,Number,Electricity,Residential,National,243835
+2021-07-01,2021-22 Q1,1,2021-22,Blue NRG,Number,Electricity,Residential,National,8241
+2021-07-01,2021-22 Q1,1,2021-22,Bright Spark Power,Number,Electricity,Residential,National,434
+2021-07-01,2021-22 Q1,1,2021-22,Brighte Energy,Number,Electricity,Residential,National,5
+2021-07-01,2021-22 Q1,1,2021-22,CPE Mascot,Number,Electricity,Residential,National,170
+2021-07-01,2021-22 Q1,1,2021-22,CleanPeak Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,CovaU,Number,Electricity,Residential,National,6867
+2021-07-01,2021-22 Q1,1,2021-22,Diamond Energy,Number,Electricity,Residential,National,9419
+2021-07-01,2021-22 Q1,1,2021-22,Discover Energy,Number,Electricity,Residential,National,7373
+2021-07-01,2021-22 Q1,1,2021-22,Dodo,Number,Electricity,Residential,National,47445
+2021-07-01,2021-22 Q1,1,2021-22,EA Connect,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,ERM Power,Number,Electricity,Residential,National,1881
+2021-07-01,2021-22 Q1,1,2021-22,Electricity in a Box,Number,Electricity,Residential,National,224
+2021-07-01,2021-22 Q1,1,2021-22,Elysian Energy,Number,Electricity,Residential,National,1752
+2021-07-01,2021-22 Q1,1,2021-22,Energy Locals,Number,Electricity,Residential,National,33313
+2021-07-01,2021-22 Q1,1,2021-22,Energy Services Management,Number,Electricity,Residential,National,605
+2021-07-01,2021-22 Q1,1,2021-22,EnergyAustralia,Number,Electricity,Residential,National,1022889
+2021-07-01,2021-22 Q1,1,2021-22,Enova Energy,Number,Electricity,Residential,National,10059
+2021-07-01,2021-22 Q1,1,2021-22,Enwave Mascot,Number,Electricity,Residential,National,170
+2021-07-01,2021-22 Q1,1,2021-22,Ergon Energy,Number,Electricity,Residential,National,633632
+2021-07-01,2021-22 Q1,1,2021-22,Evergy,Number,Electricity,Residential,National,1242
+2021-07-01,2021-22 Q1,1,2021-22,Flow Systems,Number,Electricity,Residential,National,10522
+2021-07-01,2021-22 Q1,1,2021-22,Future X Power,Number,Electricity,Residential,National,1696
+2021-07-01,2021-22 Q1,1,2021-22,GEE Power & Gas,Number,Electricity,Residential,National,98
+2021-07-01,2021-22 Q1,1,2021-22,GloBird Energy,Number,Electricity,Residential,National,9801
+2021-07-01,2021-22 Q1,1,2021-22,GlowPower,Number,Electricity,Residential,National,605
+2021-07-01,2021-22 Q1,1,2021-22,Humenergy,Number,Electricity,Residential,National,909
+2021-07-01,2021-22 Q1,1,2021-22,Iberdrola Australia,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Infigen Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,LocalVolts,Number,Electricity,Residential,National,1
+2021-07-01,2021-22 Q1,1,2021-22,Locality Planning Energy,Number,Electricity,Residential,National,31680
+2021-07-01,2021-22 Q1,1,2021-22,Lumo Energy,Number,Electricity,Residential,National,43348
+2021-07-01,2021-22 Q1,1,2021-22,MTA Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Maximum Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Metered Energy,Number,Electricity,Residential,National,14027
+2021-07-01,2021-22 Q1,1,2021-22,Microgrid Power,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Mojo Power,Number,Electricity,Residential,National,7702
+2021-07-01,2021-22 Q1,1,2021-22,Momentum Energy,Number,Electricity,Residential,National,32985
+2021-07-01,2021-22 Q1,1,2021-22,National Total,Number,Electricity,Residential,National,6700534
+2021-07-01,2021-22 Q1,1,2021-22,Nectr Energy,Number,Electricity,Residential,National,16537
+2021-07-01,2021-22 Q1,1,2021-22,Next Business Energy,Number,Electricity,Residential,National,66
+2021-07-01,2021-22 Q1,1,2021-22,OC Energy,Number,Electricity,Residential,National,2647
+2021-07-01,2021-22 Q1,1,2021-22,OVO Energy,Number,Electricity,Residential,National,4046
+2021-07-01,2021-22 Q1,1,2021-22,Origin Energy,Number,Electricity,Residential,National,1821111
+2021-07-01,2021-22 Q1,1,2021-22,People Energy,Number,Electricity,Residential,National,330
+2021-07-01,2021-22 Q1,1,2021-22,Pooled Energy,Number,Electricity,Residential,National,1592
+2021-07-01,2021-22 Q1,1,2021-22,Power Club,Number,Electricity,Residential,National,664
+2021-07-01,2021-22 Q1,1,2021-22,PowerHub,Number,Electricity,Residential,National,608
+2021-07-01,2021-22 Q1,1,2021-22,Powerdirect,Number,Electricity,Residential,National,45317
+2021-07-01,2021-22 Q1,1,2021-22,Powershop,Number,Electricity,Residential,National,57333
+2021-07-01,2021-22 Q1,1,2021-22,Progressive Green,Number,Electricity,Residential,National,8
+2021-07-01,2021-22 Q1,1,2021-22,Qenergy,Number,Electricity,Residential,National,4686
+2021-07-01,2021-22 Q1,1,2021-22,Radian Energy,Number,Electricity,Residential,National,224
+2021-07-01,2021-22 Q1,1,2021-22,ReAmped Energy,Number,Electricity,Residential,National,31158
+2021-07-01,2021-22 Q1,1,2021-22,Real Utilities,Number,Electricity,Residential,National,1704
+2021-07-01,2021-22 Q1,1,2021-22,Red Energy,Number,Electricity,Residential,National,325958
+2021-07-01,2021-22 Q1,1,2021-22,SIMEC ZEN Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Sanctuary Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Savant Energy,Number,Electricity,Residential,National,3046
+2021-07-01,2021-22 Q1,1,2021-22,Shell Energy,Number,Electricity,Residential,National,1881
+2021-07-01,2021-22 Q1,1,2021-22,Simply Energy,Number,Electricity,Residential,National,151004
+2021-07-01,2021-22 Q1,1,2021-22,Smart Energy,Number,Electricity,Residential,National,90
+2021-07-01,2021-22 Q1,1,2021-22,Smartest Energy,Number,Electricity,Residential,National,2
+2021-07-01,2021-22 Q1,1,2021-22,Social Energy,Number,Electricity,Residential,National,71
+2021-07-01,2021-22 Q1,1,2021-22,Sumo Power,Number,Electricity,Residential,National,19123
+2021-07-01,2021-22 Q1,1,2021-22,Sustainable Savings,Number,Electricity,Residential,National,30
+2021-07-01,2021-22 Q1,1,2021-22,Tango Energy,Number,Electricity,Residential,National,4940
+2021-07-01,2021-22 Q1,1,2021-22,Tas Gas,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,Telstra Energy Retail,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,The Embedded Networks Company,Number,Electricity,Residential,National,843
+2021-07-01,2021-22 Q1,1,2021-22,Winenergy,Number,Electricity,Residential,National,8728
+2021-07-01,2021-22 Q1,1,2021-22,Y.E.S. Energy,Number,Electricity,Residential,National,4
+2021-07-01,2021-22 Q1,1,2021-22,ZEN Energy,Number,Electricity,Residential,National,0
+2021-07-01,2021-22 Q1,1,2021-22,amaysim Energy,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,1st Energy,Number,Electricity,Residential,National,20183
+2021-10-01,2021-22 Q2,2,2021-22,AGL,Number,Electricity,Residential,National,1498721
+2021-10-01,2021-22 Q2,2,2021-22,ActewAGL,Number,Electricity,Residential,National,164861
+2021-10-01,2021-22 Q2,2,2021-22,Alinta Energy,Number,Electricity,Residential,National,332623
+2021-10-01,2021-22 Q2,2,2021-22,Altogether Group,Number,Electricity,Residential,National,12225
+2021-10-01,2021-22 Q2,2,2021-22,Amber Electric,Number,Electricity,Residential,National,5842
+2021-10-01,2021-22 Q2,2,2021-22,Ampol Energy,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Apex Energy,Number,Electricity,Residential,National,747
+2021-10-01,2021-22 Q2,2,2021-22,Arc Energy,Number,Electricity,Residential,National,6730
+2021-10-01,2021-22 Q2,2,2021-22,Aurora Energy,Number,Electricity,Residential,National,242047
+2021-10-01,2021-22 Q2,2,2021-22,Blue NRG,Number,Electricity,Residential,National,8040
+2021-10-01,2021-22 Q2,2,2021-22,Bright Spark Power,Number,Electricity,Residential,National,506
+2021-10-01,2021-22 Q2,2,2021-22,Brighte Energy,Number,Electricity,Residential,National,7
+2021-10-01,2021-22 Q2,2,2021-22,CPE Mascot,Number,Electricity,Residential,National,200
+2021-10-01,2021-22 Q2,2,2021-22,CleanPeak Energy,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,CovaU,Number,Electricity,Residential,National,7254
+2021-10-01,2021-22 Q2,2,2021-22,Diamond Energy,Number,Electricity,Residential,National,9538
+2021-10-01,2021-22 Q2,2,2021-22,Discover Energy,Number,Electricity,Residential,National,7454
+2021-10-01,2021-22 Q2,2,2021-22,Dodo,Number,Electricity,Residential,National,48565
+2021-10-01,2021-22 Q2,2,2021-22,EA Connect,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,ERM Power,Number,Electricity,Residential,National,1873
+2021-10-01,2021-22 Q2,2,2021-22,Electricity in a Box,Number,Electricity,Residential,National,427
+2021-10-01,2021-22 Q2,2,2021-22,Elysian Energy,Number,Electricity,Residential,National,4161
+2021-10-01,2021-22 Q2,2,2021-22,Energy Locals,Number,Electricity,Residential,National,30224
+2021-10-01,2021-22 Q2,2,2021-22,Energy Services Management,Number,Electricity,Residential,National,345
+2021-10-01,2021-22 Q2,2,2021-22,EnergyAustralia,Number,Electricity,Residential,National,1019017
+2021-10-01,2021-22 Q2,2,2021-22,Enova Energy,Number,Electricity,Residential,National,10347
+2021-10-01,2021-22 Q2,2,2021-22,Enwave Mascot,Number,Electricity,Residential,National,200
+2021-10-01,2021-22 Q2,2,2021-22,Ergon Energy,Number,Electricity,Residential,National,635744
+2021-10-01,2021-22 Q2,2,2021-22,Evergy,Number,Electricity,Residential,National,1283
+2021-10-01,2021-22 Q2,2,2021-22,Flow Systems,Number,Electricity,Residential,National,12225
+2021-10-01,2021-22 Q2,2,2021-22,Future X Power,Number,Electricity,Residential,National,2123
+2021-10-01,2021-22 Q2,2,2021-22,GEE Power & Gas,Number,Electricity,Residential,National,346
+2021-10-01,2021-22 Q2,2,2021-22,GloBird Energy,Number,Electricity,Residential,National,10852
+2021-10-01,2021-22 Q2,2,2021-22,GlowPower,Number,Electricity,Residential,National,345
+2021-10-01,2021-22 Q2,2,2021-22,Humenergy,Number,Electricity,Residential,National,930
+2021-10-01,2021-22 Q2,2,2021-22,Iberdrola Australia,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Infigen Energy,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,LocalVolts,Number,Electricity,Residential,National,2
+2021-10-01,2021-22 Q2,2,2021-22,Locality Planning Energy,Number,Electricity,Residential,National,32910
+2021-10-01,2021-22 Q2,2,2021-22,Lumo Energy,Number,Electricity,Residential,National,43912
+2021-10-01,2021-22 Q2,2,2021-22,MTA Energy,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Maximum Energy,Number,Electricity,Residential,National,7
+2021-10-01,2021-22 Q2,2,2021-22,Metered Energy,Number,Electricity,Residential,National,14328
+2021-10-01,2021-22 Q2,2,2021-22,Microgrid Power,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Mojo Power,Number,Electricity,Residential,National,8343
+2021-10-01,2021-22 Q2,2,2021-22,Momentum Energy,Number,Electricity,Residential,National,31622
+2021-10-01,2021-22 Q2,2,2021-22,National Total,Number,Electricity,Residential,National,6711548
+2021-10-01,2021-22 Q2,2,2021-22,Nectr Energy,Number,Electricity,Residential,National,18057
+2021-10-01,2021-22 Q2,2,2021-22,Next Business Energy,Number,Electricity,Residential,National,80
+2021-10-01,2021-22 Q2,2,2021-22,OC Energy,Number,Electricity,Residential,National,2456
+2021-10-01,2021-22 Q2,2,2021-22,OVO Energy,Number,Electricity,Residential,National,5222
+2021-10-01,2021-22 Q2,2,2021-22,Origin Energy,Number,Electricity,Residential,National,1812279
+2021-10-01,2021-22 Q2,2,2021-22,People Energy,Number,Electricity,Residential,National,318
+2021-10-01,2021-22 Q2,2,2021-22,Pooled Energy,Number,Electricity,Residential,National,1534
+2021-10-01,2021-22 Q2,2,2021-22,Power Club,Number,Electricity,Residential,National,615
+2021-10-01,2021-22 Q2,2,2021-22,PowerHub,Number,Electricity,Residential,National,632
+2021-10-01,2021-22 Q2,2,2021-22,Powerdirect,Number,Electricity,Residential,National,48019
+2021-10-01,2021-22 Q2,2,2021-22,Powershop,Number,Electricity,Residential,National,54678
+2021-10-01,2021-22 Q2,2,2021-22,Powow Power,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Progressive Green,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Qenergy,Number,Electricity,Residential,National,4605
+2021-10-01,2021-22 Q2,2,2021-22,Radian Energy,Number,Electricity,Residential,National,237
+2021-10-01,2021-22 Q2,2,2021-22,ReAmped Energy,Number,Electricity,Residential,National,36973
+2021-10-01,2021-22 Q2,2,2021-22,Real Utilities,Number,Electricity,Residential,National,1678
+2021-10-01,2021-22 Q2,2,2021-22,Red Energy,Number,Electricity,Residential,National,331686
+2021-10-01,2021-22 Q2,2,2021-22,Sanctuary Energy,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Savant Energy,Number,Electricity,Residential,National,3003
+2021-10-01,2021-22 Q2,2,2021-22,Shell Energy,Number,Electricity,Residential,National,1873
+2021-10-01,2021-22 Q2,2,2021-22,Simply Energy,Number,Electricity,Residential,National,144379
+2021-10-01,2021-22 Q2,2,2021-22,Smart Energy,Number,Electricity,Residential,National,350
+2021-10-01,2021-22 Q2,2,2021-22,Smartest Energy,Number,Electricity,Residential,National,2
+2021-10-01,2021-22 Q2,2,2021-22,Social Energy,Number,Electricity,Residential,National,121
+2021-10-01,2021-22 Q2,2,2021-22,Sumo Power,Number,Electricity,Residential,National,21427
+2021-10-01,2021-22 Q2,2,2021-22,Sustainable Savings,Number,Electricity,Residential,National,72
+2021-10-01,2021-22 Q2,2,2021-22,Tango Energy,Number,Electricity,Residential,National,8729
+2021-10-01,2021-22 Q2,2,2021-22,Tas Gas,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,Telstra Energy Retail,Number,Electricity,Residential,National,5
+2021-10-01,2021-22 Q2,2,2021-22,The Embedded Networks Company,Number,Electricity,Residential,National,1000
+2021-10-01,2021-22 Q2,2,2021-22,Winenergy,Number,Electricity,Residential,National,8967
+2021-10-01,2021-22 Q2,2,2021-22,Y.E.S. Energy,Number,Electricity,Residential,National,4
+2021-10-01,2021-22 Q2,2,2021-22,ZEN Energy,Number,Electricity,Residential,National,0
+2021-10-01,2021-22 Q2,2,2021-22,amaysim Energy,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,1st Energy,Number,Electricity,Residential,National,21925
+2022-01-01,2021-22 Q3,3,2021-22,AGL,Number,Electricity,Residential,National,1490189
+2022-01-01,2021-22 Q3,3,2021-22,ActewAGL,Number,Electricity,Residential,National,164568
+2022-01-01,2021-22 Q3,3,2021-22,Alinta Energy,Number,Electricity,Residential,National,343257
+2022-01-01,2021-22 Q3,3,2021-22,Altogether Group,Number,Electricity,Residential,National,12259
+2022-01-01,2021-22 Q3,3,2021-22,Amber Electric,Number,Electricity,Residential,National,6530
+2022-01-01,2021-22 Q3,3,2021-22,Ampol Energy,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Apex Energy,Number,Electricity,Residential,National,816
+2022-01-01,2021-22 Q3,3,2021-22,Arc Energy,Number,Electricity,Residential,National,7571
+2022-01-01,2021-22 Q3,3,2021-22,Aurora Energy,Number,Electricity,Residential,National,242933
+2022-01-01,2021-22 Q3,3,2021-22,Blue NRG,Number,Electricity,Residential,National,9941
+2022-01-01,2021-22 Q3,3,2021-22,Bright Spark Power,Number,Electricity,Residential,National,500
+2022-01-01,2021-22 Q3,3,2021-22,Brighte Energy,Number,Electricity,Residential,National,5
+2022-01-01,2021-22 Q3,3,2021-22,CPE Mascot,Number,Electricity,Residential,National,213
+2022-01-01,2021-22 Q3,3,2021-22,CleanPeak Energy,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,CovaU,Number,Electricity,Residential,National,7684
+2022-01-01,2021-22 Q3,3,2021-22,Diamond Energy,Number,Electricity,Residential,National,10765
+2022-01-01,2021-22 Q3,3,2021-22,Discover Energy,Number,Electricity,Residential,National,8552
+2022-01-01,2021-22 Q3,3,2021-22,Dodo,Number,Electricity,Residential,National,50243
+2022-01-01,2021-22 Q3,3,2021-22,EA Connect,Number,Electricity,Residential,National,1
+2022-01-01,2021-22 Q3,3,2021-22,Electricity in a Box,Number,Electricity,Residential,National,489
+2022-01-01,2021-22 Q3,3,2021-22,Elysian Energy,Number,Electricity,Residential,National,5043
+2022-01-01,2021-22 Q3,3,2021-22,Energy Locals,Number,Electricity,Residential,National,32893
+2022-01-01,2021-22 Q3,3,2021-22,EnergyAustralia,Number,Electricity,Residential,National,1004954
+2022-01-01,2021-22 Q3,3,2021-22,Enova Energy,Number,Electricity,Residential,National,11633
+2022-01-01,2021-22 Q3,3,2021-22,Ergon Energy,Number,Electricity,Residential,National,636813
+2022-01-01,2021-22 Q3,3,2021-22,Evergy,Number,Electricity,Residential,National,1280
+2022-01-01,2021-22 Q3,3,2021-22,Future X Power,Number,Electricity,Residential,National,2279
+2022-01-01,2021-22 Q3,3,2021-22,GEE Power & Gas,Number,Electricity,Residential,National,411
+2022-01-01,2021-22 Q3,3,2021-22,GloBird Energy,Number,Electricity,Residential,National,12768
+2022-01-01,2021-22 Q3,3,2021-22,GlowPower,Number,Electricity,Residential,National,350
+2022-01-01,2021-22 Q3,3,2021-22,Humenergy,Number,Electricity,Residential,National,1207
+2022-01-01,2021-22 Q3,3,2021-22,Iberdrola Australia,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,LocalVolts,Number,Electricity,Residential,National,10
+2022-01-01,2021-22 Q3,3,2021-22,Locality Planning Energy,Number,Electricity,Residential,National,34228
+2022-01-01,2021-22 Q3,3,2021-22,Lumo Energy,Number,Electricity,Residential,National,44184
+2022-01-01,2021-22 Q3,3,2021-22,MTA Energy,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Maximum Energy,Number,Electricity,Residential,National,24
+2022-01-01,2021-22 Q3,3,2021-22,Metered Energy,Number,Electricity,Residential,National,14976
+2022-01-01,2021-22 Q3,3,2021-22,Microgrid Power,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Mojo Power,Number,Electricity,Residential,National,8440
+2022-01-01,2021-22 Q3,3,2021-22,Momentum Energy,Number,Electricity,Residential,National,31131
+2022-01-01,2021-22 Q3,3,2021-22,National Total,Number,Electricity,Residential,National,6727602
+2022-01-01,2021-22 Q3,3,2021-22,Nectr Energy,Number,Electricity,Residential,National,19627
+2022-01-01,2021-22 Q3,3,2021-22,Next Business Energy,Number,Electricity,Residential,National,94
+2022-01-01,2021-22 Q3,3,2021-22,OC Energy,Number,Electricity,Residential,National,2262
+2022-01-01,2021-22 Q3,3,2021-22,OVO Energy,Number,Electricity,Residential,National,5250
+2022-01-01,2021-22 Q3,3,2021-22,Origin Energy,Number,Electricity,Residential,National,1811625
+2022-01-01,2021-22 Q3,3,2021-22,People Energy,Number,Electricity,Residential,National,301
+2022-01-01,2021-22 Q3,3,2021-22,Pooled Energy,Number,Electricity,Residential,National,1466
+2022-01-01,2021-22 Q3,3,2021-22,Power Club,Number,Electricity,Residential,National,575
+2022-01-01,2021-22 Q3,3,2021-22,PowerHub,Number,Electricity,Residential,National,614
+2022-01-01,2021-22 Q3,3,2021-22,Powerdirect,Number,Electricity,Residential,National,45653
+2022-01-01,2021-22 Q3,3,2021-22,Powershop,Number,Electricity,Residential,National,52218
+2022-01-01,2021-22 Q3,3,2021-22,Powow Power,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Progressive Green,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Qenergy,Number,Electricity,Residential,National,4172
+2022-01-01,2021-22 Q3,3,2021-22,Radian Energy,Number,Electricity,Residential,National,362
+2022-01-01,2021-22 Q3,3,2021-22,ReAmped Energy,Number,Electricity,Residential,National,41924
+2022-01-01,2021-22 Q3,3,2021-22,Real Utilities,Number,Electricity,Residential,National,1499
+2022-01-01,2021-22 Q3,3,2021-22,Red Energy,Number,Electricity,Residential,National,337241
+2022-01-01,2021-22 Q3,3,2021-22,Sanctuary Energy,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Savant Energy,Number,Electricity,Residential,National,3113
+2022-01-01,2021-22 Q3,3,2021-22,Shell Energy,Number,Electricity,Residential,National,2079
+2022-01-01,2021-22 Q3,3,2021-22,Simply Energy,Number,Electricity,Residential,National,143785
+2022-01-01,2021-22 Q3,3,2021-22,Smart Energy,Number,Electricity,Residential,National,444
+2022-01-01,2021-22 Q3,3,2021-22,Smartest Energy,Number,Electricity,Residential,National,2
+2022-01-01,2021-22 Q3,3,2021-22,Social Energy,Number,Electricity,Residential,National,159
+2022-01-01,2021-22 Q3,3,2021-22,Starcorp Energy,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Sumo Power,Number,Electricity,Residential,National,21662
+2022-01-01,2021-22 Q3,3,2021-22,Sustainable Savings,Number,Electricity,Residential,National,86
+2022-01-01,2021-22 Q3,3,2021-22,Tango Energy,Number,Electricity,Residential,National,12011
+2022-01-01,2021-22 Q3,3,2021-22,Tas Gas,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,Telstra Energy Retail,Number,Electricity,Residential,National,6
+2022-01-01,2021-22 Q3,3,2021-22,The Embedded Networks Company,Number,Electricity,Residential,National,1050
+2022-01-01,2021-22 Q3,3,2021-22,Winenergy,Number,Electricity,Residential,National,9280
+2022-01-01,2021-22 Q3,3,2021-22,Y.E.S. Energy,Number,Electricity,Residential,National,8
+2022-01-01,2021-22 Q3,3,2021-22,ZEN Energy,Number,Electricity,Residential,National,0
+2022-01-01,2021-22 Q3,3,2021-22,amaysim Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,1st Energy,Number,Electricity,Residential,National,23760
+2022-04-01,2021-22 Q4,4,2021-22,AGL,Number,Electricity,Residential,National,1501903
+2022-04-01,2021-22 Q4,4,2021-22,ActewAGL,Number,Electricity,Residential,National,164990
+2022-04-01,2021-22 Q4,4,2021-22,Alinta Energy,Number,Electricity,Residential,National,357910
+2022-04-01,2021-22 Q4,4,2021-22,Altogether Group,Number,Electricity,Residential,National,12963
+2022-04-01,2021-22 Q4,4,2021-22,Amber Electric,Number,Electricity,Residential,National,5678
+2022-04-01,2021-22 Q4,4,2021-22,Ampol Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Apex Energy,Number,Electricity,Residential,National,823
+2022-04-01,2021-22 Q4,4,2021-22,Arc Energy,Number,Electricity,Residential,National,7852
+2022-04-01,2021-22 Q4,4,2021-22,Aurora Energy,Number,Electricity,Residential,National,240996
+2022-04-01,2021-22 Q4,4,2021-22,Blue NRG,Number,Electricity,Residential,National,9398
+2022-04-01,2021-22 Q4,4,2021-22,Bright Spark Power,Number,Electricity,Residential,National,1
+2022-04-01,2021-22 Q4,4,2021-22,Brighte Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,CPE Mascot,Number,Electricity,Residential,National,214
+2022-04-01,2021-22 Q4,4,2021-22,CleanPeak Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,CovaU,Number,Electricity,Residential,National,7300
+2022-04-01,2021-22 Q4,4,2021-22,Diamond Energy,Number,Electricity,Residential,National,11985
+2022-04-01,2021-22 Q4,4,2021-22,Discover Energy,Number,Electricity,Residential,National,4640
+2022-04-01,2021-22 Q4,4,2021-22,Dodo,Number,Electricity,Residential,National,50900
+2022-04-01,2021-22 Q4,4,2021-22,EA Connect,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Electricity in a Box,Number,Electricity,Residential,National,72
+2022-04-01,2021-22 Q4,4,2021-22,Elysian Energy,Number,Electricity,Residential,National,3501
+2022-04-01,2021-22 Q4,4,2021-22,Energy Locals,Number,Electricity,Residential,National,37757
+2022-04-01,2021-22 Q4,4,2021-22,EnergyAustralia,Number,Electricity,Residential,National,1006277
+2022-04-01,2021-22 Q4,4,2021-22,Enova Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Ergon Energy,Number,Electricity,Residential,National,641363
+2022-04-01,2021-22 Q4,4,2021-22,Evergy,Number,Electricity,Residential,National,1285
+2022-04-01,2021-22 Q4,4,2021-22,Future X Power,Number,Electricity,Residential,National,674
+2022-04-01,2021-22 Q4,4,2021-22,GEE Power & Gas,Number,Electricity,Residential,National,393
+2022-04-01,2021-22 Q4,4,2021-22,GloBird Energy,Number,Electricity,Residential,National,12557
+2022-04-01,2021-22 Q4,4,2021-22,GlowPower,Number,Electricity,Residential,National,33
+2022-04-01,2021-22 Q4,4,2021-22,Humenergy,Number,Electricity,Residential,National,1100
+2022-04-01,2021-22 Q4,4,2021-22,Iberdrola Australia,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,LocalVolts,Number,Electricity,Residential,National,41
+2022-04-01,2021-22 Q4,4,2021-22,Locality Planning Energy,Number,Electricity,Residential,National,24357
+2022-04-01,2021-22 Q4,4,2021-22,Lumo Energy,Number,Electricity,Residential,National,45089
+2022-04-01,2021-22 Q4,4,2021-22,MTA Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Maximum Energy,Number,Electricity,Residential,National,28
+2022-04-01,2021-22 Q4,4,2021-22,Metered Energy,Number,Electricity,Residential,National,15161
+2022-04-01,2021-22 Q4,4,2021-22,Microgrid Power,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Mojo Power,Number,Electricity,Residential,National,7577
+2022-04-01,2021-22 Q4,4,2021-22,Momentum Energy,Number,Electricity,Residential,National,30394
+2022-04-01,2021-22 Q4,4,2021-22,National Total,Number,Electricity,Residential,National,6732194
+2022-04-01,2021-22 Q4,4,2021-22,Nectr Energy,Number,Electricity,Residential,National,24326
+2022-04-01,2021-22 Q4,4,2021-22,Next Business Energy,Number,Electricity,Residential,National,308
+2022-04-01,2021-22 Q4,4,2021-22,OC Energy,Number,Electricity,Residential,National,2120
+2022-04-01,2021-22 Q4,4,2021-22,OVO Energy,Number,Electricity,Residential,National,6251
+2022-04-01,2021-22 Q4,4,2021-22,Origin Energy,Number,Electricity,Residential,National,1825234
+2022-04-01,2021-22 Q4,4,2021-22,People Energy,Number,Electricity,Residential,National,317
+2022-04-01,2021-22 Q4,4,2021-22,Pooled Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Power Club,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,PowerHub,Number,Electricity,Residential,National,562
+2022-04-01,2021-22 Q4,4,2021-22,Powerdirect,Number,Electricity,Residential,National,42331
+2022-04-01,2021-22 Q4,4,2021-22,Powershop,Number,Electricity,Residential,National,51152
+2022-04-01,2021-22 Q4,4,2021-22,Powow Power,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Progressive Green,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Qenergy,Number,Electricity,Residential,National,4105
+2022-04-01,2021-22 Q4,4,2021-22,Radian Energy,Number,Electricity,Residential,National,177
+2022-04-01,2021-22 Q4,4,2021-22,ReAmped Energy,Number,Electricity,Residential,National,6764
+2022-04-01,2021-22 Q4,4,2021-22,Real Utilities,Number,Electricity,Residential,National,1612
+2022-04-01,2021-22 Q4,4,2021-22,Red Energy,Number,Electricity,Residential,National,348533
+2022-04-01,2021-22 Q4,4,2021-22,Sanctuary Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Savant Energy,Number,Electricity,Residential,National,3241
+2022-04-01,2021-22 Q4,4,2021-22,Shell Energy,Number,Electricity,Residential,National,2490
+2022-04-01,2021-22 Q4,4,2021-22,Simply Energy,Number,Electricity,Residential,National,149436
+2022-04-01,2021-22 Q4,4,2021-22,Smart Energy,Number,Electricity,Residential,National,291
+2022-04-01,2021-22 Q4,4,2021-22,Smartest Energy,Number,Electricity,Residential,National,2
+2022-04-01,2021-22 Q4,4,2021-22,Social Energy,Number,Electricity,Residential,National,239
+2022-04-01,2021-22 Q4,4,2021-22,Starcorp Energy,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Sumo Power,Number,Electricity,Residential,National,22631
+2022-04-01,2021-22 Q4,4,2021-22,Sustainable Savings,Number,Electricity,Residential,National,70
+2022-04-01,2021-22 Q4,4,2021-22,Tango Energy,Number,Electricity,Residential,National,11635
+2022-04-01,2021-22 Q4,4,2021-22,Tas Gas,Number,Electricity,Residential,National,0
+2022-04-01,2021-22 Q4,4,2021-22,Telstra Energy Retail,Number,Electricity,Residential,National,73
+2022-04-01,2021-22 Q4,4,2021-22,The Embedded Networks Company,Number,Electricity,Residential,National,1063
+2022-04-01,2021-22 Q4,4,2021-22,Winenergy,Number,Electricity,Residential,National,10146
+2022-04-01,2021-22 Q4,4,2021-22,Y.E.S. Energy,Number,Electricity,Residential,National,63
+2022-04-01,2021-22 Q4,4,2021-22,ZEN Energy,Number,Electricity,Residential,National,3
+2022-04-01,2021-22 Q4,4,2021-22,amaysim Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,1st Energy,Number,Electricity,Residential,National,23867
+2022-07-01,2022-23 Q1,1,2022-23,AGL,Number,Electricity,Residential,National,1508913
+2022-07-01,2022-23 Q1,1,2022-23,ActewAGL,Number,Electricity,Residential,National,168732
+2022-07-01,2022-23 Q1,1,2022-23,Alinta Energy,Number,Electricity,Residential,National,358927
+2022-07-01,2022-23 Q1,1,2022-23,Altogether Group,Number,Electricity,Residential,National,13904
+2022-07-01,2022-23 Q1,1,2022-23,Amber Electric,Number,Electricity,Residential,National,5427
+2022-07-01,2022-23 Q1,1,2022-23,Ampol Energy,Number,Electricity,Residential,National,4
+2022-07-01,2022-23 Q1,1,2022-23,Apex Energy,Number,Electricity,Residential,National,823
+2022-07-01,2022-23 Q1,1,2022-23,Arc Energy,Number,Electricity,Residential,National,8219
+2022-07-01,2022-23 Q1,1,2022-23,Aurora Energy,Number,Electricity,Residential,National,240588
+2022-07-01,2022-23 Q1,1,2022-23,Blue NRG,Number,Electricity,Residential,National,7030
+2022-07-01,2022-23 Q1,1,2022-23,Bright Spark Power,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Brighte Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,CPE Mascot,Number,Electricity,Residential,National,221
+2022-07-01,2022-23 Q1,1,2022-23,CleanPeak Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,CovaU,Number,Electricity,Residential,National,5464
+2022-07-01,2022-23 Q1,1,2022-23,Diamond Energy,Number,Electricity,Residential,National,11905
+2022-07-01,2022-23 Q1,1,2022-23,Discover Energy,Number,Electricity,Residential,National,1865
+2022-07-01,2022-23 Q1,1,2022-23,Dodo,Number,Electricity,Residential,National,56259
+2022-07-01,2022-23 Q1,1,2022-23,EA Connect,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Electricity in a Box,Number,Electricity,Residential,National,46
+2022-07-01,2022-23 Q1,1,2022-23,Elysian Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Energy Locals,Number,Electricity,Residential,National,46100
+2022-07-01,2022-23 Q1,1,2022-23,EnergyAustralia,Number,Electricity,Residential,National,1023990
+2022-07-01,2022-23 Q1,1,2022-23,Enova Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Ergon Energy,Number,Electricity,Residential,National,643450
+2022-07-01,2022-23 Q1,1,2022-23,Evergy,Number,Electricity,Residential,National,1294
+2022-07-01,2022-23 Q1,1,2022-23,Future X Power,Number,Electricity,Residential,National,339
+2022-07-01,2022-23 Q1,1,2022-23,GEE Power & Gas,Number,Electricity,Residential,National,268
+2022-07-01,2022-23 Q1,1,2022-23,GloBird Energy,Number,Electricity,Residential,National,12275
+2022-07-01,2022-23 Q1,1,2022-23,GlowPower,Number,Electricity,Residential,National,129
+2022-07-01,2022-23 Q1,1,2022-23,Humenergy,Number,Electricity,Residential,National,1108
+2022-07-01,2022-23 Q1,1,2022-23,Iberdrola Australia,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,LocalVolts,Number,Electricity,Residential,National,52
+2022-07-01,2022-23 Q1,1,2022-23,Locality Planning Energy,Number,Electricity,Residential,National,21776
+2022-07-01,2022-23 Q1,1,2022-23,Lumo Energy,Number,Electricity,Residential,National,45979
+2022-07-01,2022-23 Q1,1,2022-23,MTA Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Maximum Energy,Number,Electricity,Residential,National,33
+2022-07-01,2022-23 Q1,1,2022-23,Metered Energy,Number,Electricity,Residential,National,15285
+2022-07-01,2022-23 Q1,1,2022-23,Microgrid Power,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Mojo Power,Number,Electricity,Residential,National,7039
+2022-07-01,2022-23 Q1,1,2022-23,Momentum Energy,Number,Electricity,Residential,National,27611
+2022-07-01,2022-23 Q1,1,2022-23,National Total,Number,Electricity,Residential,National,6781776
+2022-07-01,2022-23 Q1,1,2022-23,Nectr Energy,Number,Electricity,Residential,National,25467
+2022-07-01,2022-23 Q1,1,2022-23,Next Business Energy,Number,Electricity,Residential,National,308
+2022-07-01,2022-23 Q1,1,2022-23,OC Energy,Number,Electricity,Residential,National,2008
+2022-07-01,2022-23 Q1,1,2022-23,OVO Energy,Number,Electricity,Residential,National,7018
+2022-07-01,2022-23 Q1,1,2022-23,Origin Energy,Number,Electricity,Residential,National,1832973
+2022-07-01,2022-23 Q1,1,2022-23,People Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Pooled Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Power Club,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,PowerHub,Number,Electricity,Residential,National,685
+2022-07-01,2022-23 Q1,1,2022-23,Powerdirect,Number,Electricity,Residential,National,39342
+2022-07-01,2022-23 Q1,1,2022-23,Powershop,Number,Electricity,Residential,National,56021
+2022-07-01,2022-23 Q1,1,2022-23,Powow Power,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Progressive Green,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Qenergy,Number,Electricity,Residential,National,2995
+2022-07-01,2022-23 Q1,1,2022-23,Radian Energy,Number,Electricity,Residential,National,63
+2022-07-01,2022-23 Q1,1,2022-23,ReAmped Energy,Number,Electricity,Residential,National,3408
+2022-07-01,2022-23 Q1,1,2022-23,Real Utilities,Number,Electricity,Residential,National,1654
+2022-07-01,2022-23 Q1,1,2022-23,Red Energy,Number,Electricity,Residential,National,364533
+2022-07-01,2022-23 Q1,1,2022-23,Sanctuary Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Savant Energy,Number,Electricity,Residential,National,3294
+2022-07-01,2022-23 Q1,1,2022-23,Shell Energy,Number,Electricity,Residential,National,2609
+2022-07-01,2022-23 Q1,1,2022-23,Simply Energy,Number,Electricity,Residential,National,138372
+2022-07-01,2022-23 Q1,1,2022-23,Smart Energy,Number,Electricity,Residential,National,207
+2022-07-01,2022-23 Q1,1,2022-23,Smartest Energy,Number,Electricity,Residential,National,2
+2022-07-01,2022-23 Q1,1,2022-23,Social Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Starcorp Energy,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Sumo Power,Number,Electricity,Residential,National,29566
+2022-07-01,2022-23 Q1,1,2022-23,Sustainable Savings,Number,Electricity,Residential,National,91
+2022-07-01,2022-23 Q1,1,2022-23,Tango Energy,Number,Electricity,Residential,National,9957
+2022-07-01,2022-23 Q1,1,2022-23,Tas Gas,Number,Electricity,Residential,National,0
+2022-07-01,2022-23 Q1,1,2022-23,Telstra Energy Retail,Number,Electricity,Residential,National,103
+2022-07-01,2022-23 Q1,1,2022-23,The Embedded Networks Company,Number,Electricity,Residential,National,1099
+2022-07-01,2022-23 Q1,1,2022-23,Winenergy,Number,Electricity,Residential,National,10717
+2022-07-01,2022-23 Q1,1,2022-23,Y.E.S. Energy,Number,Electricity,Residential,National,67
+2022-07-01,2022-23 Q1,1,2022-23,ZEN Energy,Number,Electricity,Residential,National,3
+2022-07-01,2022-23 Q1,1,2022-23,amaysim Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,1st Energy,Number,Electricity,Residential,National,23999
+2022-10-01,2022-23 Q2,2,2022-23,AGL,Number,Electricity,Residential,National,1541329
+2022-10-01,2022-23 Q2,2,2022-23,ActewAGL,Number,Electricity,Residential,National,172619
+2022-10-01,2022-23 Q2,2,2022-23,Alinta Energy,Number,Electricity,Residential,National,366524
+2022-10-01,2022-23 Q2,2,2022-23,Altogether Group,Number,Electricity,Residential,National,15314
+2022-10-01,2022-23 Q2,2,2022-23,Amber Electric,Number,Electricity,Residential,National,5699
+2022-10-01,2022-23 Q2,2,2022-23,Ampol Energy,Number,Electricity,Residential,National,47
+2022-10-01,2022-23 Q2,2,2022-23,Apex Energy,Number,Electricity,Residential,National,822
+2022-10-01,2022-23 Q2,2,2022-23,Arc Energy,Number,Electricity,Residential,National,9064
+2022-10-01,2022-23 Q2,2,2022-23,Aurora Energy,Number,Electricity,Residential,National,240763
+2022-10-01,2022-23 Q2,2,2022-23,Blue NRG,Number,Electricity,Residential,National,6147
+2022-10-01,2022-23 Q2,2,2022-23,Bright Spark Power,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Brighte Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,CPE Mascot,Number,Electricity,Residential,National,230
+2022-10-01,2022-23 Q2,2,2022-23,CleanPeak Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,CovaU,Number,Electricity,Residential,National,4720
+2022-10-01,2022-23 Q2,2,2022-23,Diamond Energy,Number,Electricity,Residential,National,11823
+2022-10-01,2022-23 Q2,2,2022-23,Discover Energy,Number,Electricity,Residential,National,1288
+2022-10-01,2022-23 Q2,2,2022-23,Dodo,Number,Electricity,Residential,National,60183
+2022-10-01,2022-23 Q2,2,2022-23,EA Connect,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Electricity in a Box,Number,Electricity,Residential,National,47
+2022-10-01,2022-23 Q2,2,2022-23,Elysian Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Energy Locals,Number,Electricity,Residential,National,47771
+2022-10-01,2022-23 Q2,2,2022-23,EnergyAustralia,Number,Electricity,Residential,National,1009570
+2022-10-01,2022-23 Q2,2,2022-23,Enova Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Ergon Energy,Number,Electricity,Residential,National,645791
+2022-10-01,2022-23 Q2,2,2022-23,Evergy,Number,Electricity,Residential,National,1266
+2022-10-01,2022-23 Q2,2,2022-23,Future X Power,Number,Electricity,Residential,National,196
+2022-10-01,2022-23 Q2,2,2022-23,GEE Power & Gas,Number,Electricity,Residential,National,221
+2022-10-01,2022-23 Q2,2,2022-23,GloBird Energy,Number,Electricity,Residential,National,15164
+2022-10-01,2022-23 Q2,2,2022-23,GlowPower,Number,Electricity,Residential,National,54
+2022-10-01,2022-23 Q2,2,2022-23,Humenergy,Number,Electricity,Residential,National,1578
+2022-10-01,2022-23 Q2,2,2022-23,Iberdrola Australia,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,LocalVolts,Number,Electricity,Residential,National,78
+2022-10-01,2022-23 Q2,2,2022-23,Locality Planning Energy,Number,Electricity,Residential,National,20794
+2022-10-01,2022-23 Q2,2,2022-23,Lumo Energy,Number,Electricity,Residential,National,46436
+2022-10-01,2022-23 Q2,2,2022-23,MTA Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Maximum Energy,Number,Electricity,Residential,National,39
+2022-10-01,2022-23 Q2,2,2022-23,Metered Energy,Number,Electricity,Residential,National,15338
+2022-10-01,2022-23 Q2,2,2022-23,Microgrid Power,Number,Electricity,Residential,National,80
+2022-10-01,2022-23 Q2,2,2022-23,Mojo Power,Number,Electricity,Residential,National,6639
+2022-10-01,2022-23 Q2,2,2022-23,Momentum Energy,Number,Electricity,Residential,National,25657
+2022-10-01,2022-23 Q2,2,2022-23,National Total,Number,Electricity,Residential,National,6797612
+2022-10-01,2022-23 Q2,2,2022-23,Nectr Energy,Number,Electricity,Residential,National,28945
+2022-10-01,2022-23 Q2,2,2022-23,Next Business Energy,Number,Electricity,Residential,National,300
+2022-10-01,2022-23 Q2,2,2022-23,OC Energy,Number,Electricity,Residential,National,1896
+2022-10-01,2022-23 Q2,2,2022-23,OVO Energy,Number,Electricity,Residential,National,10088
+2022-10-01,2022-23 Q2,2,2022-23,Origin Energy,Number,Electricity,Residential,National,1831596
+2022-10-01,2022-23 Q2,2,2022-23,People Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Pooled Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Power Club,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,PowerHub,Number,Electricity,Residential,National,740
+2022-10-01,2022-23 Q2,2,2022-23,Powerdirect,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Powershop,Number,Electricity,Residential,National,64852
+2022-10-01,2022-23 Q2,2,2022-23,Powow Power,Number,Electricity,Residential,National,3
+2022-10-01,2022-23 Q2,2,2022-23,Progressive Green,Number,Electricity,Residential,National,3
+2022-10-01,2022-23 Q2,2,2022-23,Qenergy,Number,Electricity,Residential,National,2543
+2022-10-01,2022-23 Q2,2,2022-23,Radian Energy,Number,Electricity,Residential,National,29
+2022-10-01,2022-23 Q2,2,2022-23,ReAmped Energy,Number,Electricity,Residential,National,2658
+2022-10-01,2022-23 Q2,2,2022-23,Real Utilities,Number,Electricity,Residential,National,1704
+2022-10-01,2022-23 Q2,2,2022-23,Red Energy,Number,Electricity,Residential,National,369389
+2022-10-01,2022-23 Q2,2,2022-23,Sanctuary Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Savant Energy,Number,Electricity,Residential,National,3390
+2022-10-01,2022-23 Q2,2,2022-23,Shell Energy,Number,Electricity,Residential,National,2685
+2022-10-01,2022-23 Q2,2,2022-23,Simply Energy,Number,Electricity,Residential,National,136527
+2022-10-01,2022-23 Q2,2,2022-23,Smart Energy,Number,Electricity,Residential,National,62
+2022-10-01,2022-23 Q2,2,2022-23,Smartest Energy,Number,Electricity,Residential,National,2
+2022-10-01,2022-23 Q2,2,2022-23,Social Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Starcorp Energy,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Sumo Power,Number,Electricity,Residential,National,31015
+2022-10-01,2022-23 Q2,2,2022-23,Sustainable Savings,Number,Electricity,Residential,National,72
+2022-10-01,2022-23 Q2,2,2022-23,Tango Energy,Number,Electricity,Residential,National,8594
+2022-10-01,2022-23 Q2,2,2022-23,Tas Gas,Number,Electricity,Residential,National,0
+2022-10-01,2022-23 Q2,2,2022-23,Telstra Energy Retail,Number,Electricity,Residential,National,132
+2022-10-01,2022-23 Q2,2,2022-23,The Embedded Networks Company,Number,Electricity,Residential,National,982
+2022-10-01,2022-23 Q2,2,2022-23,Winenergy,Number,Electricity,Residential,National,10946
+2022-10-01,2022-23 Q2,2,2022-23,Y.E.S. Energy,Number,Electricity,Residential,National,118
+2022-10-01,2022-23 Q2,2,2022-23,ZEN Energy,Number,Electricity,Residential,National,3
+2022-10-01,2022-23 Q2,2,2022-23,amaysim Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,1st Energy,Number,Electricity,Residential,National,24824
+2023-01-01,2022-23 Q3,3,2022-23,AGL,Number,Electricity,Residential,National,1529680
+2023-01-01,2022-23 Q3,3,2022-23,ActewAGL,Number,Electricity,Residential,National,176788
+2023-01-01,2022-23 Q3,3,2022-23,Alinta Energy,Number,Electricity,Residential,National,375168
+2023-01-01,2022-23 Q3,3,2022-23,Altogether Group,Number,Electricity,Residential,National,15787
+2023-01-01,2022-23 Q3,3,2022-23,Amber Electric,Number,Electricity,Residential,National,6190
+2023-01-01,2022-23 Q3,3,2022-23,Ampol Energy,Number,Electricity,Residential,National,51
+2023-01-01,2022-23 Q3,3,2022-23,Apex Energy,Number,Electricity,Residential,National,822
+2023-01-01,2022-23 Q3,3,2022-23,Arc Energy,Number,Electricity,Residential,National,9513
+2023-01-01,2022-23 Q3,3,2022-23,Aurora Energy,Number,Electricity,Residential,National,239767
+2023-01-01,2022-23 Q3,3,2022-23,Blue NRG,Number,Electricity,Residential,National,5609
+2023-01-01,2022-23 Q3,3,2022-23,Bright Spark Power,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Brighte Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,CPE Mascot,Number,Electricity,Residential,National,263
+2023-01-01,2022-23 Q3,3,2022-23,CleanPeak Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,CovaU,Number,Electricity,Residential,National,4658
+2023-01-01,2022-23 Q3,3,2022-23,Diamond Energy,Number,Electricity,Residential,National,11836
+2023-01-01,2022-23 Q3,3,2022-23,Discover Energy,Number,Electricity,Residential,National,939
+2023-01-01,2022-23 Q3,3,2022-23,Dodo,Number,Electricity,Residential,National,61812
+2023-01-01,2022-23 Q3,3,2022-23,EA Connect,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Electricity in a Box,Number,Electricity,Residential,National,50
+2023-01-01,2022-23 Q3,3,2022-23,Elysian Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Enel Energy Australia,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Energy Locals,Number,Electricity,Residential,National,48606
+2023-01-01,2022-23 Q3,3,2022-23,EnergyAustralia,Number,Electricity,Residential,National,1005894
+2023-01-01,2022-23 Q3,3,2022-23,Enova Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Ergon Energy,Number,Electricity,Residential,National,646361
+2023-01-01,2022-23 Q3,3,2022-23,Evergy,Number,Electricity,Residential,National,1295
+2023-01-01,2022-23 Q3,3,2022-23,Future X Power,Number,Electricity,Residential,National,168
+2023-01-01,2022-23 Q3,3,2022-23,GEE Power & Gas,Number,Electricity,Residential,National,194
+2023-01-01,2022-23 Q3,3,2022-23,GloBird Energy,Number,Electricity,Residential,National,19331
+2023-01-01,2022-23 Q3,3,2022-23,GlowPower,Number,Electricity,Residential,National,37
+2023-01-01,2022-23 Q3,3,2022-23,Humenergy,Number,Electricity,Residential,National,1665
+2023-01-01,2022-23 Q3,3,2022-23,Iberdrola Australia,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,LocalVolts,Number,Electricity,Residential,National,93
+2023-01-01,2022-23 Q3,3,2022-23,Locality Planning Energy,Number,Electricity,Residential,National,20981
+2023-01-01,2022-23 Q3,3,2022-23,Lumo Energy,Number,Electricity,Residential,National,47017
+2023-01-01,2022-23 Q3,3,2022-23,MTA Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Maximum Energy,Number,Electricity,Residential,National,44
+2023-01-01,2022-23 Q3,3,2022-23,Metered Energy,Number,Electricity,Residential,National,15346
+2023-01-01,2022-23 Q3,3,2022-23,Microgrid Power,Number,Electricity,Residential,National,67
+2023-01-01,2022-23 Q3,3,2022-23,Mojo Power,Number,Electricity,Residential,National,6274
+2023-01-01,2022-23 Q3,3,2022-23,Momentum Energy,Number,Electricity,Residential,National,24641
+2023-01-01,2022-23 Q3,3,2022-23,National Total,Number,Electricity,Residential,National,6790824
+2023-01-01,2022-23 Q3,3,2022-23,Nectr Energy,Number,Electricity,Residential,National,32516
+2023-01-01,2022-23 Q3,3,2022-23,Next Business Energy,Number,Electricity,Residential,National,288
+2023-01-01,2022-23 Q3,3,2022-23,OC Energy,Number,Electricity,Residential,National,1787
+2023-01-01,2022-23 Q3,3,2022-23,OVO Energy,Number,Electricity,Residential,National,14365
+2023-01-01,2022-23 Q3,3,2022-23,Origin Energy,Number,Electricity,Residential,National,1789322
+2023-01-01,2022-23 Q3,3,2022-23,People Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Pooled Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Power Club,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,PowerHub,Number,Electricity,Residential,National,861
+2023-01-01,2022-23 Q3,3,2022-23,Powerdirect,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Powershop,Number,Electricity,Residential,National,73127
+2023-01-01,2022-23 Q3,3,2022-23,Powow Power,Number,Electricity,Residential,National,7
+2023-01-01,2022-23 Q3,3,2022-23,Progressive Green,Number,Electricity,Residential,National,3
+2023-01-01,2022-23 Q3,3,2022-23,Qenergy,Number,Electricity,Residential,National,2330
+2023-01-01,2022-23 Q3,3,2022-23,Radian Energy,Number,Electricity,Residential,National,3
+2023-01-01,2022-23 Q3,3,2022-23,ReAmped Energy,Number,Electricity,Residential,National,2216
+2023-01-01,2022-23 Q3,3,2022-23,Real Utilities,Number,Electricity,Residential,National,1764
+2023-01-01,2022-23 Q3,3,2022-23,Red Energy,Number,Electricity,Residential,National,375980
+2023-01-01,2022-23 Q3,3,2022-23,Sanctuary Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Savant Energy,Number,Electricity,Residential,National,3510
+2023-01-01,2022-23 Q3,3,2022-23,Shell Energy,Number,Electricity,Residential,National,2847
+2023-01-01,2022-23 Q3,3,2022-23,Simply Energy,Number,Electricity,Residential,National,142973
+2023-01-01,2022-23 Q3,3,2022-23,Smart Energy,Number,Electricity,Residential,National,35
+2023-01-01,2022-23 Q3,3,2022-23,Smartest Energy,Number,Electricity,Residential,National,2
+2023-01-01,2022-23 Q3,3,2022-23,Social Energy,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Starcorp Energy,Number,Electricity,Residential,National,29
+2023-01-01,2022-23 Q3,3,2022-23,Sumo Power,Number,Electricity,Residential,National,33713
+2023-01-01,2022-23 Q3,3,2022-23,Sustainable Savings,Number,Electricity,Residential,National,72
+2023-01-01,2022-23 Q3,3,2022-23,Tango Energy,Number,Electricity,Residential,National,7247
+2023-01-01,2022-23 Q3,3,2022-23,Tas Gas,Number,Electricity,Residential,National,0
+2023-01-01,2022-23 Q3,3,2022-23,Telstra Energy Retail,Number,Electricity,Residential,National,128
+2023-01-01,2022-23 Q3,3,2022-23,The Embedded Networks Company,Number,Electricity,Residential,National,892
+2023-01-01,2022-23 Q3,3,2022-23,Winenergy,Number,Electricity,Residential,National,11492
+2023-01-01,2022-23 Q3,3,2022-23,Y.E.S. Energy,Number,Electricity,Residential,National,78
+2023-01-01,2022-23 Q3,3,2022-23,ZEN Energy,Number,Electricity,Residential,National,2
+2023-01-01,2022-23 Q3,3,2022-23,amaysim Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,1st Energy,Number,Electricity,Residential,National,25576
+2023-04-01,2022-23 Q4,4,2022-23,AGL,Number,Electricity,Residential,National,1518827
+2023-04-01,2022-23 Q4,4,2022-23,ActewAGL,Number,Electricity,Residential,National,179879
+2023-04-01,2022-23 Q4,4,2022-23,Alinta Energy,Number,Electricity,Residential,National,371681
+2023-04-01,2022-23 Q4,4,2022-23,Altogether Group,Number,Electricity,Residential,National,16994
+2023-04-01,2022-23 Q4,4,2022-23,Amber Electric,Number,Electricity,Residential,National,7217
+2023-04-01,2022-23 Q4,4,2022-23,Ampol Energy,Number,Electricity,Residential,National,112
+2023-04-01,2022-23 Q4,4,2022-23,Apex Energy,Number,Electricity,Residential,National,822
+2023-04-01,2022-23 Q4,4,2022-23,Arc Energy,Number,Electricity,Residential,National,9516
+2023-04-01,2022-23 Q4,4,2022-23,Aurora Energy,Number,Electricity,Residential,National,240511
+2023-04-01,2022-23 Q4,4,2022-23,Blue NRG,Number,Electricity,Residential,National,5925
+2023-04-01,2022-23 Q4,4,2022-23,Bright Spark Power,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,CPE Mascot,Number,Electricity,Residential,National,282
+2023-04-01,2022-23 Q4,4,2022-23,CleanPeak Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,CovaU,Number,Electricity,Residential,National,4775
+2023-04-01,2022-23 Q4,4,2022-23,Diamond Energy,Number,Electricity,Residential,National,12229
+2023-04-01,2022-23 Q4,4,2022-23,Discover Energy,Number,Electricity,Residential,National,823
+2023-04-01,2022-23 Q4,4,2022-23,Dodo,Number,Electricity,Residential,National,61931
+2023-04-01,2022-23 Q4,4,2022-23,Electricity in a Box,Number,Electricity,Residential,National,149
+2023-04-01,2022-23 Q4,4,2022-23,Elysian Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Enel Energy Australia,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Energy Locals,Number,Electricity,Residential,National,50754
+2023-04-01,2022-23 Q4,4,2022-23,EnergyAustralia,Number,Electricity,Residential,National,995394
+2023-04-01,2022-23 Q4,4,2022-23,Enova Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Ergon Energy,Number,Electricity,Residential,National,648043
+2023-04-01,2022-23 Q4,4,2022-23,Evergy,Number,Electricity,Residential,National,1284
+2023-04-01,2022-23 Q4,4,2022-23,Future X Power,Number,Electricity,Residential,National,151
+2023-04-01,2022-23 Q4,4,2022-23,GEE Power & Gas,Number,Electricity,Residential,National,219
+2023-04-01,2022-23 Q4,4,2022-23,GloBird Energy,Number,Electricity,Residential,National,23975
+2023-04-01,2022-23 Q4,4,2022-23,GlowPower,Number,Electricity,Residential,National,33
+2023-04-01,2022-23 Q4,4,2022-23,Humenergy,Number,Electricity,Residential,National,2047
+2023-04-01,2022-23 Q4,4,2022-23,Iberdrola Australia,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,LocalVolts,Number,Electricity,Residential,National,116
+2023-04-01,2022-23 Q4,4,2022-23,Locality Planning Energy,Number,Electricity,Residential,National,21175
+2023-04-01,2022-23 Q4,4,2022-23,Lumo Energy,Number,Electricity,Residential,National,47555
+2023-04-01,2022-23 Q4,4,2022-23,MTA Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Maximum Energy,Number,Electricity,Residential,National,47
+2023-04-01,2022-23 Q4,4,2022-23,Metered Energy,Number,Electricity,Residential,National,15375
+2023-04-01,2022-23 Q4,4,2022-23,Microgrid Power,Number,Electricity,Residential,National,20
+2023-04-01,2022-23 Q4,4,2022-23,Mojo Power,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Momentum Energy,Number,Electricity,Residential,National,23514
+2023-04-01,2022-23 Q4,4,2022-23,National Total,Number,Electricity,Residential,National,6803010
+2023-04-01,2022-23 Q4,4,2022-23,Nectr Energy,Number,Electricity,Residential,National,37535
+2023-04-01,2022-23 Q4,4,2022-23,Next Business Energy,Number,Electricity,Residential,National,280
+2023-04-01,2022-23 Q4,4,2022-23,OC Energy,Number,Electricity,Residential,National,1652
+2023-04-01,2022-23 Q4,4,2022-23,OVO Energy,Number,Electricity,Residential,National,18803
+2023-04-01,2022-23 Q4,4,2022-23,Origin Energy,Number,Electricity,Residential,National,1791957
+2023-04-01,2022-23 Q4,4,2022-23,People Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Pooled Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Power Club,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,PowerHub,Number,Electricity,Residential,National,864
+2023-04-01,2022-23 Q4,4,2022-23,Powerdirect,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Powershop,Number,Electricity,Residential,National,77887
+2023-04-01,2022-23 Q4,4,2022-23,Powow Power,Number,Electricity,Residential,National,12
+2023-04-01,2022-23 Q4,4,2022-23,Progressive Green,Number,Electricity,Residential,National,6
+2023-04-01,2022-23 Q4,4,2022-23,Qenergy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Radian Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,ReAmped Energy,Number,Electricity,Residential,National,1879
+2023-04-01,2022-23 Q4,4,2022-23,Real Utilities,Number,Electricity,Residential,National,1720
+2023-04-01,2022-23 Q4,4,2022-23,Red Energy,Number,Electricity,Residential,National,384404
+2023-04-01,2022-23 Q4,4,2022-23,Sanctuary Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Savant Energy,Number,Electricity,Residential,National,3760
+2023-04-01,2022-23 Q4,4,2022-23,Shell Energy,Number,Electricity,Residential,National,3285
+2023-04-01,2022-23 Q4,4,2022-23,Simply Energy,Number,Electricity,Residential,National,143561
+2023-04-01,2022-23 Q4,4,2022-23,Smart Energy,Number,Electricity,Residential,National,18
+2023-04-01,2022-23 Q4,4,2022-23,Smartest Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Social Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Starcorp Energy,Number,Electricity,Residential,National,29
+2023-04-01,2022-23 Q4,4,2022-23,Sumo Power,Number,Electricity,Residential,National,38493
+2023-04-01,2022-23 Q4,4,2022-23,Sustainable Savings,Number,Electricity,Residential,National,72
+2023-04-01,2022-23 Q4,4,2022-23,Tango Energy,Number,Electricity,Residential,National,6560
+2023-04-01,2022-23 Q4,4,2022-23,Tas Gas,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,Telstra Energy Retail,Number,Electricity,Residential,National,121
+2023-04-01,2022-23 Q4,4,2022-23,The Embedded Networks Company,Number,Electricity,Residential,National,803
+2023-04-01,2022-23 Q4,4,2022-23,Winenergy,Number,Electricity,Residential,National,11568
+2023-04-01,2022-23 Q4,4,2022-23,Y.E.S. Energy,Number,Electricity,Residential,National,79
+2023-04-01,2022-23 Q4,4,2022-23,ZEN Energy,Number,Electricity,Residential,National,0
+2023-04-01,2022-23 Q4,4,2022-23,amaysim Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,1st Energy,Number,Electricity,Residential,National,25240
+2023-07-01,2023-24 Q1,1,2023-24,AGL,Number,Electricity,Residential,National,1499977
+2023-07-01,2023-24 Q1,1,2023-24,ActewAGL,Number,Electricity,Residential,National,180722
+2023-07-01,2023-24 Q1,1,2023-24,Alinta Energy,Number,Electricity,Residential,National,347960
+2023-07-01,2023-24 Q1,1,2023-24,Altogether Group,Number,Electricity,Residential,National,18468
+2023-07-01,2023-24 Q1,1,2023-24,Amber Electric,Number,Electricity,Residential,National,11234
+2023-07-01,2023-24 Q1,1,2023-24,Ampol Energy,Number,Electricity,Residential,National,2032
+2023-07-01,2023-24 Q1,1,2023-24,Apex Energy,Number,Electricity,Residential,National,731
+2023-07-01,2023-24 Q1,1,2023-24,Arc Energy,Number,Electricity,Residential,National,10014
+2023-07-01,2023-24 Q1,1,2023-24,Aurora Energy,Number,Electricity,Residential,National,240350
+2023-07-01,2023-24 Q1,1,2023-24,Blue NRG,Number,Electricity,Residential,National,7841
+2023-07-01,2023-24 Q1,1,2023-24,Bright Spark Power,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,CPE Mascot,Number,Electricity,Residential,National,299
+2023-07-01,2023-24 Q1,1,2023-24,CleanPeak Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,CovaU,Number,Electricity,Residential,National,5214
+2023-07-01,2023-24 Q1,1,2023-24,Diamond Energy,Number,Electricity,Residential,National,12186
+2023-07-01,2023-24 Q1,1,2023-24,Discover Energy,Number,Electricity,Residential,National,684
+2023-07-01,2023-24 Q1,1,2023-24,Dodo,Number,Electricity,Residential,National,62935
+2023-07-01,2023-24 Q1,1,2023-24,Electricity in a Box,Number,Electricity,Residential,National,319
+2023-07-01,2023-24 Q1,1,2023-24,Elysian Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Enel Energy Australia,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Energy Locals,Number,Electricity,Residential,National,50889
+2023-07-01,2023-24 Q1,1,2023-24,EnergyAustralia,Number,Electricity,Residential,National,1001176
+2023-07-01,2023-24 Q1,1,2023-24,Enova Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Ergon Energy,Number,Electricity,Residential,National,649522
+2023-07-01,2023-24 Q1,1,2023-24,Evergy,Number,Electricity,Residential,National,1287
+2023-07-01,2023-24 Q1,1,2023-24,Future X Power,Number,Electricity,Residential,National,138
+2023-07-01,2023-24 Q1,1,2023-24,GEE Power & Gas,Number,Electricity,Residential,National,41
+2023-07-01,2023-24 Q1,1,2023-24,GloBird Energy,Number,Electricity,Residential,National,41170
+2023-07-01,2023-24 Q1,1,2023-24,GlowPower,Number,Electricity,Residential,National,21
+2023-07-01,2023-24 Q1,1,2023-24,Humenergy,Number,Electricity,Residential,National,2069
+2023-07-01,2023-24 Q1,1,2023-24,Iberdrola Australia,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,LocalVolts,Number,Electricity,Residential,National,183
+2023-07-01,2023-24 Q1,1,2023-24,Locality Planning Energy,Number,Electricity,Residential,National,5
+2023-07-01,2023-24 Q1,1,2023-24,Lumo Energy,Number,Electricity,Residential,National,52179
+2023-07-01,2023-24 Q1,1,2023-24,MTA Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Macarthur Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Maximum Energy,Number,Electricity,Residential,National,125
+2023-07-01,2023-24 Q1,1,2023-24,Metered Energy,Number,Electricity,Residential,National,15469
+2023-07-01,2023-24 Q1,1,2023-24,Microgrid Power,Number,Electricity,Residential,National,58
+2023-07-01,2023-24 Q1,1,2023-24,Mojo Power,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Momentum Energy,Number,Electricity,Residential,National,22541
+2023-07-01,2023-24 Q1,1,2023-24,National Total,Number,Electricity,Residential,National,6824752
+2023-07-01,2023-24 Q1,1,2023-24,Nectr Energy,Number,Electricity,Residential,National,37834
+2023-07-01,2023-24 Q1,1,2023-24,Next Business Energy,Number,Electricity,Residential,National,268
+2023-07-01,2023-24 Q1,1,2023-24,OC Energy,Number,Electricity,Residential,National,1509
+2023-07-01,2023-24 Q1,1,2023-24,OVO Energy,Number,Electricity,Residential,National,33045
+2023-07-01,2023-24 Q1,1,2023-24,Origin Energy,Number,Electricity,Residential,National,1791281
+2023-07-01,2023-24 Q1,1,2023-24,People Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Pooled Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Power Club,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,PowerHub,Number,Electricity,Residential,National,876
+2023-07-01,2023-24 Q1,1,2023-24,Powerdirect,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Powershop,Number,Electricity,Residential,National,74418
+2023-07-01,2023-24 Q1,1,2023-24,Powow Power,Number,Electricity,Residential,National,7
+2023-07-01,2023-24 Q1,1,2023-24,Progressive Green,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Qenergy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Radian Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,ReAmped Energy,Number,Electricity,Residential,National,1628
+2023-07-01,2023-24 Q1,1,2023-24,Real Utilities,Number,Electricity,Residential,National,1764
+2023-07-01,2023-24 Q1,1,2023-24,Red Energy,Number,Electricity,Residential,National,423173
+2023-07-01,2023-24 Q1,1,2023-24,Sanctuary Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Savant Energy,Number,Electricity,Residential,National,3733
+2023-07-01,2023-24 Q1,1,2023-24,Shell Energy,Number,Electricity,Residential,National,2537
+2023-07-01,2023-24 Q1,1,2023-24,Simply Energy,Number,Electricity,Residential,National,138618
+2023-07-01,2023-24 Q1,1,2023-24,Smart Energy,Number,Electricity,Residential,National,11
+2023-07-01,2023-24 Q1,1,2023-24,Smartest Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Social Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Starcorp Energy,Number,Electricity,Residential,National,29
+2023-07-01,2023-24 Q1,1,2023-24,Sumo Power,Number,Electricity,Residential,National,37541
+2023-07-01,2023-24 Q1,1,2023-24,Sustainable Savings,Number,Electricity,Residential,National,71
+2023-07-01,2023-24 Q1,1,2023-24,Tango Energy,Number,Electricity,Residential,National,10146
+2023-07-01,2023-24 Q1,1,2023-24,Tas Gas,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,Telstra Energy Retail,Number,Electricity,Residential,National,110
+2023-07-01,2023-24 Q1,1,2023-24,The Embedded Networks Company,Number,Electricity,Residential,National,1221
+2023-07-01,2023-24 Q1,1,2023-24,Winenergy,Number,Electricity,Residential,National,12231
+2023-07-01,2023-24 Q1,1,2023-24,Y.E.S. Energy,Number,Electricity,Residential,National,16
+2023-07-01,2023-24 Q1,1,2023-24,ZEN Energy,Number,Electricity,Residential,National,0
+2023-07-01,2023-24 Q1,1,2023-24,amaysim Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,1st Energy,Number,Electricity,Residential,National,25504
+2023-10-01,2023-24 Q2,2,2023-24,AGL,Number,Electricity,Residential,National,1493588
+2023-10-01,2023-24 Q2,2,2023-24,ActewAGL,Number,Electricity,Residential,National,180416
+2023-10-01,2023-24 Q2,2,2023-24,Alinta Energy,Number,Electricity,Residential,National,333906
+2023-10-01,2023-24 Q2,2,2023-24,Altogether Group,Number,Electricity,Residential,National,19350
+2023-10-01,2023-24 Q2,2,2023-24,Amber Electric,Number,Electricity,Residential,National,15130
+2023-10-01,2023-24 Q2,2,2023-24,Ampol Energy,Number,Electricity,Residential,National,4990
+2023-10-01,2023-24 Q2,2,2023-24,Apex Energy,Number,Electricity,Residential,National,707
+2023-10-01,2023-24 Q2,2,2023-24,Arc Energy,Number,Electricity,Residential,National,10313
+2023-10-01,2023-24 Q2,2,2023-24,Aurora Energy,Number,Electricity,Residential,National,239242
+2023-10-01,2023-24 Q2,2,2023-24,Blue NRG,Number,Electricity,Residential,National,8134
+2023-10-01,2023-24 Q2,2,2023-24,Bright Spark Power,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,CPE Mascot,Number,Electricity,Residential,National,312
+2023-10-01,2023-24 Q2,2,2023-24,CleanPeak Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,CovaU,Number,Electricity,Residential,National,5732
+2023-10-01,2023-24 Q2,2,2023-24,Diamond Energy,Number,Electricity,Residential,National,12406
+2023-10-01,2023-24 Q2,2,2023-24,Discover Energy,Number,Electricity,Residential,National,598
+2023-10-01,2023-24 Q2,2,2023-24,Dodo,Number,Electricity,Residential,National,65658
+2023-10-01,2023-24 Q2,2,2023-24,Electricity in a Box,Number,Electricity,Residential,National,23
+2023-10-01,2023-24 Q2,2,2023-24,Elysian Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Enel Energy Australia,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Energy Locals,Number,Electricity,Residential,National,55833
+2023-10-01,2023-24 Q2,2,2023-24,EnergyAustralia,Number,Electricity,Residential,National,993226
+2023-10-01,2023-24 Q2,2,2023-24,Enova Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Ergon Energy,Number,Electricity,Residential,National,658549
+2023-10-01,2023-24 Q2,2,2023-24,Evergy,Number,Electricity,Residential,National,1555
+2023-10-01,2023-24 Q2,2,2023-24,Future X Power,Number,Electricity,Residential,National,123
+2023-10-01,2023-24 Q2,2,2023-24,GEE Power & Gas,Number,Electricity,Residential,National,34
+2023-10-01,2023-24 Q2,2,2023-24,GloBird Energy,Number,Electricity,Residential,National,40597
+2023-10-01,2023-24 Q2,2,2023-24,GlowPower,Number,Electricity,Residential,National,15
+2023-10-01,2023-24 Q2,2,2023-24,Humenergy,Number,Electricity,Residential,National,2472
+2023-10-01,2023-24 Q2,2,2023-24,Iberdrola Australia,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,LocalVolts,Number,Electricity,Residential,National,266
+2023-10-01,2023-24 Q2,2,2023-24,Locality Planning Energy,Number,Electricity,Residential,National,3
+2023-10-01,2023-24 Q2,2,2023-24,Lumo Energy,Number,Electricity,Residential,National,53544
+2023-10-01,2023-24 Q2,2,2023-24,MTA Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Macarthur Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Maximum Energy,Number,Electricity,Residential,National,128
+2023-10-01,2023-24 Q2,2,2023-24,Metered Energy,Number,Electricity,Residential,National,15545
+2023-10-01,2023-24 Q2,2,2023-24,Microgrid Power,Number,Electricity,Residential,National,142
+2023-10-01,2023-24 Q2,2,2023-24,Mojo Power,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Momentum Energy,Number,Electricity,Residential,National,22587
+2023-10-01,2023-24 Q2,2,2023-24,National Total,Number,Electricity,Residential,National,6850595
+2023-10-01,2023-24 Q2,2,2023-24,Nectr Energy,Number,Electricity,Residential,National,37290
+2023-10-01,2023-24 Q2,2,2023-24,Next Business Energy,Number,Electricity,Residential,National,288
+2023-10-01,2023-24 Q2,2,2023-24,OC Energy,Number,Electricity,Residential,National,1426
+2023-10-01,2023-24 Q2,2,2023-24,OVO Energy,Number,Electricity,Residential,National,31935
+2023-10-01,2023-24 Q2,2,2023-24,Origin Energy,Number,Electricity,Residential,National,1802677
+2023-10-01,2023-24 Q2,2,2023-24,People Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Pooled Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Power Club,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,PowerHub,Number,Electricity,Residential,National,910
+2023-10-01,2023-24 Q2,2,2023-24,Powerdirect,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Powershop,Number,Electricity,Residential,National,73451
+2023-10-01,2023-24 Q2,2,2023-24,Powow Power,Number,Electricity,Residential,National,5
+2023-10-01,2023-24 Q2,2,2023-24,Progressive Green,Number,Electricity,Residential,National,22
+2023-10-01,2023-24 Q2,2,2023-24,Qenergy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Radian Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,ReAmped Energy,Number,Electricity,Residential,National,1278
+2023-10-01,2023-24 Q2,2,2023-24,Real Utilities,Number,Electricity,Residential,National,1727
+2023-10-01,2023-24 Q2,2,2023-24,Red Energy,Number,Electricity,Residential,National,440202
+2023-10-01,2023-24 Q2,2,2023-24,Sanctuary Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Savant Energy,Number,Electricity,Residential,National,3733
+2023-10-01,2023-24 Q2,2,2023-24,Shell Energy,Number,Electricity,Residential,National,2550
+2023-10-01,2023-24 Q2,2,2023-24,Simply Energy,Number,Electricity,Residential,National,144162
+2023-10-01,2023-24 Q2,2,2023-24,Smart Energy,Number,Electricity,Residential,National,5
+2023-10-01,2023-24 Q2,2,2023-24,Smartest Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Social Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Starcorp Energy,Number,Electricity,Residential,National,206
+2023-10-01,2023-24 Q2,2,2023-24,Sumo Power,Number,Electricity,Residential,National,35961
+2023-10-01,2023-24 Q2,2,2023-24,Sustainable Savings,Number,Electricity,Residential,National,72
+2023-10-01,2023-24 Q2,2,2023-24,Tango Energy,Number,Electricity,Residential,National,9233
+2023-10-01,2023-24 Q2,2,2023-24,Tas Gas,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,Telstra Energy Retail,Number,Electricity,Residential,National,107
+2023-10-01,2023-24 Q2,2,2023-24,The Embedded Networks Company,Number,Electricity,Residential,National,1113
+2023-10-01,2023-24 Q2,2,2023-24,Winenergy,Number,Electricity,Residential,National,12298
+2023-10-01,2023-24 Q2,2,2023-24,Y.E.S. Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,ZEN Energy,Number,Electricity,Residential,National,0
+2023-10-01,2023-24 Q2,2,2023-24,amaysim Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,1st Energy,Number,Electricity,Residential,National,25850
+2024-01-01,2023-24 Q3,3,2023-24,AGL,Number,Electricity,Residential,National,1496817
+2024-01-01,2023-24 Q3,3,2023-24,ActewAGL,Number,Electricity,Residential,National,181714
+2024-01-01,2023-24 Q3,3,2023-24,Alinta Energy,Number,Electricity,Residential,National,324593
+2024-01-01,2023-24 Q3,3,2023-24,Altogether Group,Number,Electricity,Residential,National,20170
+2024-01-01,2023-24 Q3,3,2023-24,Amber Electric,Number,Electricity,Residential,National,19646
+2024-01-01,2023-24 Q3,3,2023-24,Ampol Energy,Number,Electricity,Residential,National,7780
+2024-01-01,2023-24 Q3,3,2023-24,Apex Energy,Number,Electricity,Residential,National,711
+2024-01-01,2023-24 Q3,3,2023-24,Arc Energy,Number,Electricity,Residential,National,10496
+2024-01-01,2023-24 Q3,3,2023-24,Aurora Energy,Number,Electricity,Residential,National,239745
+2024-01-01,2023-24 Q3,3,2023-24,Blue NRG,Number,Electricity,Residential,National,8646
+2024-01-01,2023-24 Q3,3,2023-24,Bright Spark Power,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,CPE Mascot,Number,Electricity,Residential,National,324
+2024-01-01,2023-24 Q3,3,2023-24,CS Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,CleanPeak Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,CovaU,Number,Electricity,Residential,National,6121
+2024-01-01,2023-24 Q3,3,2023-24,Diamond Energy,Number,Electricity,Residential,National,12101
+2024-01-01,2023-24 Q3,3,2023-24,Discover Energy,Number,Electricity,Residential,National,541
+2024-01-01,2023-24 Q3,3,2023-24,Dodo,Number,Electricity,Residential,National,70479
+2024-01-01,2023-24 Q3,3,2023-24,Electricity in a Box,Number,Electricity,Residential,National,7
+2024-01-01,2023-24 Q3,3,2023-24,Elysian Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Enel Energy Australia,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Energy Locals,Number,Electricity,Residential,National,57681
+2024-01-01,2023-24 Q3,3,2023-24,EnergyAustralia,Number,Electricity,Residential,National,981793
+2024-01-01,2023-24 Q3,3,2023-24,Enova Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Ergon Energy,Number,Electricity,Residential,National,646990
+2024-01-01,2023-24 Q3,3,2023-24,Evergy,Number,Electricity,Residential,National,1651
+2024-01-01,2023-24 Q3,3,2023-24,Flo Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Future X Power,Number,Electricity,Residential,National,120
+2024-01-01,2023-24 Q3,3,2023-24,GEE Power & Gas,Number,Electricity,Residential,National,30
+2024-01-01,2023-24 Q3,3,2023-24,GloBird Energy,Number,Electricity,Residential,National,39642
+2024-01-01,2023-24 Q3,3,2023-24,GlowPower,Number,Electricity,Residential,National,7
+2024-01-01,2023-24 Q3,3,2023-24,Humenergy,Number,Electricity,Residential,National,2480
+2024-01-01,2023-24 Q3,3,2023-24,Iberdrola Australia,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,LocalVolts,Number,Electricity,Residential,National,340
+2024-01-01,2023-24 Q3,3,2023-24,Locality Planning Energy,Number,Electricity,Residential,National,3
+2024-01-01,2023-24 Q3,3,2023-24,Lumo Energy,Number,Electricity,Residential,National,54630
+2024-01-01,2023-24 Q3,3,2023-24,MTA Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Macarthur Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Maximum Energy,Number,Electricity,Residential,National,126
+2024-01-01,2023-24 Q3,3,2023-24,Metered Energy,Number,Electricity,Residential,National,15825
+2024-01-01,2023-24 Q3,3,2023-24,Microgrid Power,Number,Electricity,Residential,National,119
+2024-01-01,2023-24 Q3,3,2023-24,Mojo Power,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Momentum Energy,Number,Electricity,Residential,National,22515
+2024-01-01,2023-24 Q3,3,2023-24,National Total,Number,Electricity,Residential,National,6866736
+2024-01-01,2023-24 Q3,3,2023-24,Nectr Energy,Number,Electricity,Residential,National,35412
+2024-01-01,2023-24 Q3,3,2023-24,Next Business Energy,Number,Electricity,Residential,National,276
+2024-01-01,2023-24 Q3,3,2023-24,OC Energy,Number,Electricity,Residential,National,1356
+2024-01-01,2023-24 Q3,3,2023-24,OVO Energy,Number,Electricity,Residential,National,32198
+2024-01-01,2023-24 Q3,3,2023-24,Origin Energy,Number,Electricity,Residential,National,1815533
+2024-01-01,2023-24 Q3,3,2023-24,People Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Pooled Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Power Club,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,PowerHub,Number,Electricity,Residential,National,963
+2024-01-01,2023-24 Q3,3,2023-24,Powerdirect,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Powershop,Number,Electricity,Residential,National,63702
+2024-01-01,2023-24 Q3,3,2023-24,Powow Power,Number,Electricity,Residential,National,5
+2024-01-01,2023-24 Q3,3,2023-24,Progressive Green,Number,Electricity,Residential,National,22
+2024-01-01,2023-24 Q3,3,2023-24,Qenergy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Radian Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,ReAmped Energy,Number,Electricity,Residential,National,882
+2024-01-01,2023-24 Q3,3,2023-24,Real Utilities,Number,Electricity,Residential,National,2729
+2024-01-01,2023-24 Q3,3,2023-24,Red Energy,Number,Electricity,Residential,National,465301
+2024-01-01,2023-24 Q3,3,2023-24,Sanctuary Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Savant Energy,Number,Electricity,Residential,National,3868
+2024-01-01,2023-24 Q3,3,2023-24,Shell Energy,Number,Electricity,Residential,National,2715
+2024-01-01,2023-24 Q3,3,2023-24,Simply Energy,Number,Electricity,Residential,National,147507
+2024-01-01,2023-24 Q3,3,2023-24,Smart Energy,Number,Electricity,Residential,National,5
+2024-01-01,2023-24 Q3,3,2023-24,Smartest Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Social Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,Starcorp Energy,Number,Electricity,Residential,National,286
+2024-01-01,2023-24 Q3,3,2023-24,Sumo Power,Number,Electricity,Residential,National,34343
+2024-01-01,2023-24 Q3,3,2023-24,Sustainable Savings,Number,Electricity,Residential,National,94
+2024-01-01,2023-24 Q3,3,2023-24,Tango Energy,Number,Electricity,Residential,National,7456
+2024-01-01,2023-24 Q3,3,2023-24,Tas Gas,Number,Electricity,Residential,National,9
+2024-01-01,2023-24 Q3,3,2023-24,Telstra Energy Retail,Number,Electricity,Residential,National,106
+2024-01-01,2023-24 Q3,3,2023-24,The Embedded Networks Company,Number,Electricity,Residential,National,1013
+2024-01-01,2023-24 Q3,3,2023-24,Winenergy,Number,Electricity,Residential,National,12623
+2024-01-01,2023-24 Q3,3,2023-24,Y.E.S. Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,ZEN Energy,Number,Electricity,Residential,National,0
+2024-01-01,2023-24 Q3,3,2023-24,amaysim Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,1st Energy,Number,Electricity,Residential,National,26591
+2024-04-01,2023-24 Q4,4,2023-24,AGL,Number,Electricity,Residential,National,1509284
+2024-04-01,2023-24 Q4,4,2023-24,ActewAGL,Number,Electricity,Residential,National,182228
+2024-04-01,2023-24 Q4,4,2023-24,Alinta Energy,Number,Electricity,Residential,National,315535
+2024-04-01,2023-24 Q4,4,2023-24,Altogether Group,Number,Electricity,Residential,National,22618
+2024-04-01,2023-24 Q4,4,2023-24,Amber Electric,Number,Electricity,Residential,National,21924
+2024-04-01,2023-24 Q4,4,2023-24,Ampol Energy,Number,Electricity,Residential,National,9504
+2024-04-01,2023-24 Q4,4,2023-24,Apex Energy,Number,Electricity,Residential,National,713
+2024-04-01,2023-24 Q4,4,2023-24,Arc Energy,Number,Electricity,Residential,National,11022
+2024-04-01,2023-24 Q4,4,2023-24,Aurora Energy,Number,Electricity,Residential,National,239688
+2024-04-01,2023-24 Q4,4,2023-24,Blue NRG,Number,Electricity,Residential,National,9468
+2024-04-01,2023-24 Q4,4,2023-24,Bright Spark Power,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,CPE Mascot,Number,Electricity,Residential,National,337
+2024-04-01,2023-24 Q4,4,2023-24,CS Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,CleanPeak Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,CovaU,Number,Electricity,Residential,National,6437
+2024-04-01,2023-24 Q4,4,2023-24,Diamond Energy,Number,Electricity,Residential,National,12282
+2024-04-01,2023-24 Q4,4,2023-24,Discover Energy,Number,Electricity,Residential,National,490
+2024-04-01,2023-24 Q4,4,2023-24,Dodo,Number,Electricity,Residential,National,74208
+2024-04-01,2023-24 Q4,4,2023-24,Electricity in a Box,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Elysian Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Enel Energy Australia,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Energy Locals,Number,Electricity,Residential,National,60638
+2024-04-01,2023-24 Q4,4,2023-24,EnergyAustralia,Number,Electricity,Residential,National,980781
+2024-04-01,2023-24 Q4,4,2023-24,Enova Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Ergon Energy,Number,Electricity,Residential,National,646331
+2024-04-01,2023-24 Q4,4,2023-24,Evergy,Number,Electricity,Residential,National,1673
+2024-04-01,2023-24 Q4,4,2023-24,Flo Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Future X Power,Number,Electricity,Residential,National,106
+2024-04-01,2023-24 Q4,4,2023-24,GEE Power & Gas,Number,Electricity,Residential,National,28
+2024-04-01,2023-24 Q4,4,2023-24,GloBird Energy,Number,Electricity,Residential,National,38556
+2024-04-01,2023-24 Q4,4,2023-24,GlowPower,Number,Electricity,Residential,National,3
+2024-04-01,2023-24 Q4,4,2023-24,Humenergy,Number,Electricity,Residential,National,2813
+2024-04-01,2023-24 Q4,4,2023-24,Iberdrola Australia,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,LocalVolts,Number,Electricity,Residential,National,502
+2024-04-01,2023-24 Q4,4,2023-24,Locality Planning Energy,Number,Electricity,Residential,National,34
+2024-04-01,2023-24 Q4,4,2023-24,Lumo Energy,Number,Electricity,Residential,National,55434
+2024-04-01,2023-24 Q4,4,2023-24,MTA Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Macarthur Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Maximum Energy,Number,Electricity,Residential,National,118
+2024-04-01,2023-24 Q4,4,2023-24,Metered Energy,Number,Electricity,Residential,National,16337
+2024-04-01,2023-24 Q4,4,2023-24,Microgrid Power,Number,Electricity,Residential,National,119
+2024-04-01,2023-24 Q4,4,2023-24,Mojo Power,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Momentum Energy,Number,Electricity,Residential,National,21924
+2024-04-01,2023-24 Q4,4,2023-24,National Total,Number,Electricity,Residential,National,6896649
+2024-04-01,2023-24 Q4,4,2023-24,Nectr Energy,Number,Electricity,Residential,National,30147
+2024-04-01,2023-24 Q4,4,2023-24,Next Business Energy,Number,Electricity,Residential,National,288
+2024-04-01,2023-24 Q4,4,2023-24,OC Energy,Number,Electricity,Residential,National,1297
+2024-04-01,2023-24 Q4,4,2023-24,OVO Energy,Number,Electricity,Residential,National,39778
+2024-04-01,2023-24 Q4,4,2023-24,Origin Energy,Number,Electricity,Residential,National,1818840
+2024-04-01,2023-24 Q4,4,2023-24,People Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Pooled Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Power Club,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,PowerHub,Number,Electricity,Residential,National,973
+2024-04-01,2023-24 Q4,4,2023-24,Powerdirect,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Powershop,Number,Electricity,Residential,National,58921
+2024-04-01,2023-24 Q4,4,2023-24,Powow Power,Number,Electricity,Residential,National,5
+2024-04-01,2023-24 Q4,4,2023-24,Progressive Green,Number,Electricity,Residential,National,22
+2024-04-01,2023-24 Q4,4,2023-24,Qenergy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Radian Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,ReAmped Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Real Utilities,Number,Electricity,Residential,National,2752
+2024-04-01,2023-24 Q4,4,2023-24,Red Energy,Number,Electricity,Residential,National,484261
+2024-04-01,2023-24 Q4,4,2023-24,Savant Energy,Number,Electricity,Residential,National,3923
+2024-04-01,2023-24 Q4,4,2023-24,Shell Energy,Number,Electricity,Residential,National,2280
+2024-04-01,2023-24 Q4,4,2023-24,Simply Energy,Number,Electricity,Residential,National,141727
+2024-04-01,2023-24 Q4,4,2023-24,Smart Energy,Number,Electricity,Residential,National,3
+2024-04-01,2023-24 Q4,4,2023-24,Smartest Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Social Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,Starcorp Energy,Number,Electricity,Residential,National,304
+2024-04-01,2023-24 Q4,4,2023-24,Sumo Power,Number,Electricity,Residential,National,33861
+2024-04-01,2023-24 Q4,4,2023-24,Sustainable Savings,Number,Electricity,Residential,National,132
+2024-04-01,2023-24 Q4,4,2023-24,Tango Energy,Number,Electricity,Residential,National,7499
+2024-04-01,2023-24 Q4,4,2023-24,Tas Gas,Number,Electricity,Residential,National,240
+2024-04-01,2023-24 Q4,4,2023-24,Telstra Energy Retail,Number,Electricity,Residential,National,8
+2024-04-01,2023-24 Q4,4,2023-24,The Embedded Networks Company,Number,Electricity,Residential,National,1237
+2024-04-01,2023-24 Q4,4,2023-24,Winenergy,Number,Electricity,Residential,National,12173
+2024-04-01,2023-24 Q4,4,2023-24,Y.E.S. Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,ZEN Energy,Number,Electricity,Residential,National,0
+2024-04-01,2023-24 Q4,4,2023-24,amaysim Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,1st Energy,Number,Electricity,Residential,National,26443
+2024-07-01,2024-25 Q1,1,2024-25,AGL,Number,Electricity,Residential,National,1521484
+2024-07-01,2024-25 Q1,1,2024-25,ActewAGL,Number,Electricity,Residential,National,182856
+2024-07-01,2024-25 Q1,1,2024-25,Alinta Energy,Number,Electricity,Residential,National,321592
+2024-07-01,2024-25 Q1,1,2024-25,Altogether Group,Number,Electricity,Residential,National,22880
+2024-07-01,2024-25 Q1,1,2024-25,Amber Electric,Number,Electricity,Residential,National,22818
+2024-07-01,2024-25 Q1,1,2024-25,Ampol Energy,Number,Electricity,Residential,National,16576
+2024-07-01,2024-25 Q1,1,2024-25,Apex Energy,Number,Electricity,Residential,National,713
+2024-07-01,2024-25 Q1,1,2024-25,Arc Energy,Number,Electricity,Residential,National,11461
+2024-07-01,2024-25 Q1,1,2024-25,Aurora Energy,Number,Electricity,Residential,National,241075
+2024-07-01,2024-25 Q1,1,2024-25,Blue NRG,Number,Electricity,Residential,National,9958
+2024-07-01,2024-25 Q1,1,2024-25,Bright Spark Power,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,CPE Mascot,Number,Electricity,Residential,National,367
+2024-07-01,2024-25 Q1,1,2024-25,CS Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,CleanPeak Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,CovaU,Number,Electricity,Residential,National,6524
+2024-07-01,2024-25 Q1,1,2024-25,Diamond Energy,Number,Electricity,Residential,National,12547
+2024-07-01,2024-25 Q1,1,2024-25,Discover Energy,Number,Electricity,Residential,National,435
+2024-07-01,2024-25 Q1,1,2024-25,Dodo,Number,Electricity,Residential,National,72285
+2024-07-01,2024-25 Q1,1,2024-25,Electricity in a Box,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Elysian Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Enel Energy Australia,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Energy Locals,Number,Electricity,Residential,National,65235
+2024-07-01,2024-25 Q1,1,2024-25,EnergyAustralia,Number,Electricity,Residential,National,955137
+2024-07-01,2024-25 Q1,1,2024-25,Enova Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Ergon Energy,Number,Electricity,Residential,National,647914
+2024-07-01,2024-25 Q1,1,2024-25,Evergy,Number,Electricity,Residential,National,1777
+2024-07-01,2024-25 Q1,1,2024-25,Flo Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Future X Power,Number,Electricity,Residential,National,97
+2024-07-01,2024-25 Q1,1,2024-25,GEE Power & Gas,Number,Electricity,Residential,National,23
+2024-07-01,2024-25 Q1,1,2024-25,GloBird Energy,Number,Electricity,Residential,National,37653
+2024-07-01,2024-25 Q1,1,2024-25,GlowPower,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Humenergy,Number,Electricity,Residential,National,3299
+2024-07-01,2024-25 Q1,1,2024-25,Iberdrola Australia,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,LocalVolts,Number,Electricity,Residential,National,511
+2024-07-01,2024-25 Q1,1,2024-25,Locality Planning Energy,Number,Electricity,Residential,National,34
+2024-07-01,2024-25 Q1,1,2024-25,Lumo Energy,Number,Electricity,Residential,National,56536
+2024-07-01,2024-25 Q1,1,2024-25,MTA Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Macarthur Energy,Number,Electricity,Residential,National,2
+2024-07-01,2024-25 Q1,1,2024-25,Maximum Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Metered Energy,Number,Electricity,Residential,National,16146
+2024-07-01,2024-25 Q1,1,2024-25,Microgrid Power,Number,Electricity,Residential,National,124
+2024-07-01,2024-25 Q1,1,2024-25,Mojo Power,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Momentum Energy,Number,Electricity,Residential,National,20619
+2024-07-01,2024-25 Q1,1,2024-25,National Total,Number,Electricity,Residential,National,6915694
+2024-07-01,2024-25 Q1,1,2024-25,Nectr Energy,Number,Electricity,Residential,National,26635
+2024-07-01,2024-25 Q1,1,2024-25,Next Business Energy,Number,Electricity,Residential,National,262
+2024-07-01,2024-25 Q1,1,2024-25,OC Energy,Number,Electricity,Residential,National,1232
+2024-07-01,2024-25 Q1,1,2024-25,OVO Energy,Number,Electricity,Residential,National,38164
+2024-07-01,2024-25 Q1,1,2024-25,Origin Energy,Number,Electricity,Residential,National,1813717
+2024-07-01,2024-25 Q1,1,2024-25,People Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Pooled Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Power Club,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,PowerHub,Number,Electricity,Residential,National,978
+2024-07-01,2024-25 Q1,1,2024-25,Powerdirect,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Powershop,Number,Electricity,Residential,National,62604
+2024-07-01,2024-25 Q1,1,2024-25,Powow Power,Number,Electricity,Residential,National,5
+2024-07-01,2024-25 Q1,1,2024-25,Progressive Green,Number,Electricity,Residential,National,17
+2024-07-01,2024-25 Q1,1,2024-25,Qenergy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Radian Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,ReAmped Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Real Utilities,Number,Electricity,Residential,National,3013
+2024-07-01,2024-25 Q1,1,2024-25,Red Energy,Number,Electricity,Residential,National,507712
+2024-07-01,2024-25 Q1,1,2024-25,Savant Energy,Number,Electricity,Residential,National,4025
+2024-07-01,2024-25 Q1,1,2024-25,Shell Energy,Number,Electricity,Residential,National,2271
+2024-07-01,2024-25 Q1,1,2024-25,Simply Energy,Number,Electricity,Residential,National,134083
+2024-07-01,2024-25 Q1,1,2024-25,Smart Energy,Number,Electricity,Residential,National,3
+2024-07-01,2024-25 Q1,1,2024-25,Smartest Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Social Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,Starcorp Energy,Number,Electricity,Residential,National,304
+2024-07-01,2024-25 Q1,1,2024-25,Sumo Power,Number,Electricity,Residential,National,34532
+2024-07-01,2024-25 Q1,1,2024-25,Sustainable Savings,Number,Electricity,Residential,National,146
+2024-07-01,2024-25 Q1,1,2024-25,Tango Energy,Number,Electricity,Residential,National,9160
+2024-07-01,2024-25 Q1,1,2024-25,Tas Gas,Number,Electricity,Residential,National,544
+2024-07-01,2024-25 Q1,1,2024-25,Telstra Energy Retail,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,The Embedded Networks Company,Number,Electricity,Residential,National,1245
+2024-07-01,2024-25 Q1,1,2024-25,Winenergy,Number,Electricity,Residential,National,12150
+2024-07-01,2024-25 Q1,1,2024-25,Y.E.S. Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,ZEN Energy,Number,Electricity,Residential,National,0
+2024-07-01,2024-25 Q1,1,2024-25,amaysim Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,1st Energy,Number,Electricity,Residential,National,26930
+2024-10-01,2024-25 Q2,2,2024-25,AGL,Number,Electricity,Residential,National,1508986
+2024-10-01,2024-25 Q2,2,2024-25,ActewAGL,Number,Electricity,Residential,National,182400
+2024-10-01,2024-25 Q2,2,2024-25,Alinta Energy,Number,Electricity,Residential,National,325286
+2024-10-01,2024-25 Q2,2,2024-25,Altogether Group,Number,Electricity,Residential,National,23627
+2024-10-01,2024-25 Q2,2,2024-25,Amber Electric,Number,Electricity,Residential,National,25098
+2024-10-01,2024-25 Q2,2,2024-25,Ampol Energy,Number,Electricity,Residential,National,25792
+2024-10-01,2024-25 Q2,2,2024-25,Apex Energy,Number,Electricity,Residential,National,713
+2024-10-01,2024-25 Q2,2,2024-25,Arc Energy,Number,Electricity,Residential,National,11893
+2024-10-01,2024-25 Q2,2,2024-25,Aurora Energy,Number,Electricity,Residential,National,240449
+2024-10-01,2024-25 Q2,2,2024-25,Blue NRG,Number,Electricity,Residential,National,9513
+2024-10-01,2024-25 Q2,2,2024-25,Bright Spark Power,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,CPE Mascot,Number,Electricity,Residential,National,411
+2024-10-01,2024-25 Q2,2,2024-25,CS Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,CleanPeak Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,CovaU,Number,Electricity,Residential,National,6583
+2024-10-01,2024-25 Q2,2,2024-25,Diamond Energy,Number,Electricity,Residential,National,12069
+2024-10-01,2024-25 Q2,2,2024-25,Discover Energy,Number,Electricity,Residential,National,412
+2024-10-01,2024-25 Q2,2,2024-25,Dodo,Number,Electricity,Residential,National,76285
+2024-10-01,2024-25 Q2,2,2024-25,Electricity in a Box,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Elysian Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Enel Energy Australia,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Energy Locals,Number,Electricity,Residential,National,65184
+2024-10-01,2024-25 Q2,2,2024-25,EnergyAustralia,Number,Electricity,Residential,National,947432
+2024-10-01,2024-25 Q2,2,2024-25,Enova Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Ergon Energy,Number,Electricity,Residential,National,648777
+2024-10-01,2024-25 Q2,2,2024-25,Evergy,Number,Electricity,Residential,National,1970
+2024-10-01,2024-25 Q2,2,2024-25,Flo Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Future X Power,Number,Electricity,Residential,National,99
+2024-10-01,2024-25 Q2,2,2024-25,GEE Power & Gas,Number,Electricity,Residential,National,20
+2024-10-01,2024-25 Q2,2,2024-25,GloBird Energy,Number,Electricity,Residential,National,36161
+2024-10-01,2024-25 Q2,2,2024-25,GlowPower,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Humenergy,Number,Electricity,Residential,National,3900
+2024-10-01,2024-25 Q2,2,2024-25,Iberdrola Australia,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,LocalVolts,Number,Electricity,Residential,National,573
+2024-10-01,2024-25 Q2,2,2024-25,Locality Planning Energy,Number,Electricity,Residential,National,34
+2024-10-01,2024-25 Q2,2,2024-25,Lumo Energy,Number,Electricity,Residential,National,57686
+2024-10-01,2024-25 Q2,2,2024-25,MTA Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Macarthur Energy,Number,Electricity,Residential,National,67
+2024-10-01,2024-25 Q2,2,2024-25,Maximum Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Metered Energy,Number,Electricity,Residential,National,17282
+2024-10-01,2024-25 Q2,2,2024-25,Microgrid Power,Number,Electricity,Residential,National,122
+2024-10-01,2024-25 Q2,2,2024-25,Mojo Power,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Momentum Energy,Number,Electricity,Residential,National,21242
+2024-10-01,2024-25 Q2,2,2024-25,National Total,Number,Electricity,Residential,National,6943888
+2024-10-01,2024-25 Q2,2,2024-25,Nectr Energy,Number,Electricity,Residential,National,23283
+2024-10-01,2024-25 Q2,2,2024-25,Next Business Energy,Number,Electricity,Residential,National,264
+2024-10-01,2024-25 Q2,2,2024-25,OC Energy,Number,Electricity,Residential,National,1165
+2024-10-01,2024-25 Q2,2,2024-25,OVO Energy,Number,Electricity,Residential,National,37248
+2024-10-01,2024-25 Q2,2,2024-25,Origin Energy,Number,Electricity,Residential,National,1822731
+2024-10-01,2024-25 Q2,2,2024-25,People Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Pooled Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Power Club,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,PowerHub,Number,Electricity,Residential,National,999
+2024-10-01,2024-25 Q2,2,2024-25,Powerdirect,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Powershop,Number,Electricity,Residential,National,64050
+2024-10-01,2024-25 Q2,2,2024-25,Powow Power,Number,Electricity,Residential,National,3
+2024-10-01,2024-25 Q2,2,2024-25,Progressive Green,Number,Electricity,Residential,National,18
+2024-10-01,2024-25 Q2,2,2024-25,Qenergy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Radian Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,ReAmped Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Real Utilities,Number,Electricity,Residential,National,2876
+2024-10-01,2024-25 Q2,2,2024-25,Red Energy,Number,Electricity,Residential,National,521829
+2024-10-01,2024-25 Q2,2,2024-25,Savant Energy,Number,Electricity,Residential,National,4147
+2024-10-01,2024-25 Q2,2,2024-25,Shell Energy,Number,Electricity,Residential,National,2235
+2024-10-01,2024-25 Q2,2,2024-25,Simply Energy,Number,Electricity,Residential,National,139445
+2024-10-01,2024-25 Q2,2,2024-25,Smart Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Smartest Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Social Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,Starcorp Energy,Number,Electricity,Residential,National,304
+2024-10-01,2024-25 Q2,2,2024-25,Sumo Power,Number,Electricity,Residential,National,34178
+2024-10-01,2024-25 Q2,2,2024-25,Sustainable Savings,Number,Electricity,Residential,National,156
+2024-10-01,2024-25 Q2,2,2024-25,Tango Energy,Number,Electricity,Residential,National,10104
+2024-10-01,2024-25 Q2,2,2024-25,Tas Gas,Number,Electricity,Residential,National,795
+2024-10-01,2024-25 Q2,2,2024-25,Telstra Energy Retail,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,The Embedded Networks Company,Number,Electricity,Residential,National,1348
+2024-10-01,2024-25 Q2,2,2024-25,Winenergy,Number,Electricity,Residential,National,11462
+2024-10-01,2024-25 Q2,2,2024-25,Y.E.S. Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,ZEN Energy,Number,Electricity,Residential,National,0
+2024-10-01,2024-25 Q2,2,2024-25,amaysim Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,1st Energy,Number,Electricity,Residential,National,27540
+2025-01-01,2024-25 Q3,3,2024-25,AGL,Number,Electricity,Residential,National,1498273
+2025-01-01,2024-25 Q3,3,2024-25,ActewAGL,Number,Electricity,Residential,National,181947
+2025-01-01,2024-25 Q3,3,2024-25,Alinta Energy,Number,Electricity,Residential,National,313807
+2025-01-01,2024-25 Q3,3,2024-25,Altogether Group,Number,Electricity,Residential,National,23932
+2025-01-01,2024-25 Q3,3,2024-25,Amber Electric,Number,Electricity,Residential,National,27157
+2025-01-01,2024-25 Q3,3,2024-25,Ampol Energy,Number,Electricity,Residential,National,41110
+2025-01-01,2024-25 Q3,3,2024-25,Apex Energy,Number,Electricity,Residential,National,714
+2025-01-01,2024-25 Q3,3,2024-25,Arc Energy,Number,Electricity,Residential,National,12131
+2025-01-01,2024-25 Q3,3,2024-25,Aurora Energy,Number,Electricity,Residential,National,240081
+2025-01-01,2024-25 Q3,3,2024-25,Blue NRG,Number,Electricity,Residential,National,9041
+2025-01-01,2024-25 Q3,3,2024-25,Bright Spark Power,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,CPE Mascot,Number,Electricity,Residential,National,462
+2025-01-01,2024-25 Q3,3,2024-25,CS Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,CleanPeak Energy,Number,Electricity,Residential,National,5
+2025-01-01,2024-25 Q3,3,2024-25,CovaU,Number,Electricity,Residential,National,6824
+2025-01-01,2024-25 Q3,3,2024-25,Diamond Energy,Number,Electricity,Residential,National,13256
+2025-01-01,2024-25 Q3,3,2024-25,Discover Energy,Number,Electricity,Residential,National,387
+2025-01-01,2024-25 Q3,3,2024-25,Dodo,Number,Electricity,Residential,National,78105
+2025-01-01,2024-25 Q3,3,2024-25,Electricity in a Box,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Elysian Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Enel Energy Australia,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Energy Locals,Number,Electricity,Residential,National,69235
+2025-01-01,2024-25 Q3,3,2024-25,EnergyAustralia,Number,Electricity,Residential,National,936718
+2025-01-01,2024-25 Q3,3,2024-25,Enova Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Ergon Energy,Number,Electricity,Residential,National,648402
+2025-01-01,2024-25 Q3,3,2024-25,Evergy,Number,Electricity,Residential,National,2213
+2025-01-01,2024-25 Q3,3,2024-25,Flo Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Future X Power,Number,Electricity,Residential,National,98
+2025-01-01,2024-25 Q3,3,2024-25,GEE Power & Gas,Number,Electricity,Residential,National,16
+2025-01-01,2024-25 Q3,3,2024-25,GloBird Energy,Number,Electricity,Residential,National,38046
+2025-01-01,2024-25 Q3,3,2024-25,GlowPower,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Humenergy,Number,Electricity,Residential,National,4403
+2025-01-01,2024-25 Q3,3,2024-25,Iberdrola Australia,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,LocalVolts,Number,Electricity,Residential,National,628
+2025-01-01,2024-25 Q3,3,2024-25,Locality Planning Energy,Number,Electricity,Residential,National,31
+2025-01-01,2024-25 Q3,3,2024-25,Lumo Energy,Number,Electricity,Residential,National,58100
+2025-01-01,2024-25 Q3,3,2024-25,MTA Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Macarthur Energy,Number,Electricity,Residential,National,111
+2025-01-01,2024-25 Q3,3,2024-25,Maximum Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Metered Energy,Number,Electricity,Residential,National,16612
+2025-01-01,2024-25 Q3,3,2024-25,Microgrid Power,Number,Electricity,Residential,National,123
+2025-01-01,2024-25 Q3,3,2024-25,Mojo Power,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Momentum Energy,Number,Electricity,Residential,National,22686
+2025-01-01,2024-25 Q3,3,2024-25,National Total,Number,Electricity,Residential,National,6967701
+2025-01-01,2024-25 Q3,3,2024-25,Nectr Energy,Number,Electricity,Residential,National,19518
+2025-01-01,2024-25 Q3,3,2024-25,Next Business Energy,Number,Electricity,Residential,National,262
+2025-01-01,2024-25 Q3,3,2024-25,OC Energy,Number,Electricity,Residential,National,1118
+2025-01-01,2024-25 Q3,3,2024-25,OVO Energy,Number,Electricity,Residential,National,40232
+2025-01-01,2024-25 Q3,3,2024-25,Origin Energy,Number,Electricity,Residential,National,1833821
+2025-01-01,2024-25 Q3,3,2024-25,People Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Pooled Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Power Club,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,PowerHub,Number,Electricity,Residential,National,1011
+2025-01-01,2024-25 Q3,3,2024-25,Powerdirect,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Powershop,Number,Electricity,Residential,National,66425
+2025-01-01,2024-25 Q3,3,2024-25,Powow Power,Number,Electricity,Residential,National,7
+2025-01-01,2024-25 Q3,3,2024-25,Progressive Green,Number,Electricity,Residential,National,18
+2025-01-01,2024-25 Q3,3,2024-25,Qenergy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Radian Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,ReAmped Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Real Utilities,Number,Electricity,Residential,National,2877
+2025-01-01,2024-25 Q3,3,2024-25,Red Energy,Number,Electricity,Residential,National,540837
+2025-01-01,2024-25 Q3,3,2024-25,Savant Energy,Number,Electricity,Residential,National,4326
+2025-01-01,2024-25 Q3,3,2024-25,Shell Energy,Number,Electricity,Residential,National,2715
+2025-01-01,2024-25 Q3,3,2024-25,Simply Energy,Number,Electricity,Residential,National,140365
+2025-01-01,2024-25 Q3,3,2024-25,Smart Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Smartest Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Social Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,Starcorp Energy,Number,Electricity,Residential,National,304
+2025-01-01,2024-25 Q3,3,2024-25,Sumo Power,Number,Electricity,Residential,National,31148
+2025-01-01,2024-25 Q3,3,2024-25,Sustainable Savings,Number,Electricity,Residential,National,146
+2025-01-01,2024-25 Q3,3,2024-25,Tango Energy,Number,Electricity,Residential,National,9352
+2025-01-01,2024-25 Q3,3,2024-25,Tas Gas,Number,Electricity,Residential,National,955
+2025-01-01,2024-25 Q3,3,2024-25,Telstra Energy Retail,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,The Embedded Networks Company,Number,Electricity,Residential,National,1365
+2025-01-01,2024-25 Q3,3,2024-25,Winenergy,Number,Electricity,Residential,National,10461
+2025-01-01,2024-25 Q3,3,2024-25,Y.E.S. Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,ZEN Energy,Number,Electricity,Residential,National,0
+2025-01-01,2024-25 Q3,3,2024-25,amaysim Energy,Number,Electricity,Residential,National,0

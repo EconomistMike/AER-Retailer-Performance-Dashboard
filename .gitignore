@@ -1,0 +1,17 @@
+# RStudio / R metadata
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# renv local library (big binaries, rebuildable from renv.lock)
+renv/library/
+renv/staging/
+
+# Cache & targets metadata
+*_cache/
+*.log

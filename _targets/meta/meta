@@ -1,0 +1,20 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+looks_like_quarter_headers|function|223c914154f5eeb0
+parse_num|function|f06b7b30b23fbd92
+clean_retailer|function|121708fcc8533b34
+parse_update_quarter|function|51d4dc6453ac50b4
+"%||%"|function|09caac2f2d96d0f9
+open_pdf_safely|function|9b33ece60258a59c
+.Random.seed|object|349645d5f8befe37
+read_schedule2_data|function|6557f40c9321c71d
+parse_quarter_label|function|b842b2005aa56a4a
+export_multi_page_pdf|function|004fce6fe720234e
+consolidate_REMP_data|function|a5c45ab4ee87845f
+consolidate_customer_numbers_national|function|4643e4ae8ed8f83a
+remp_dir|stem|64fd10705c986820|e03a8bc174d92c2b|2c530c1562a7fbd1|-671430470|/Users/m09w/Downloads/Retailer market data/data/REMP|t20350.2436729771s|s24406846b|24406846|file|local|vector|||0.251||
+result_national|stem|0e778c8128caf08b|85564ca521db2872|1555f598062e193f|945016193||t20354.1087636511s|s9397b|9397|rds|local|vector|||112.403||
+retailers_pdf|stem|13319212b36003e3|ff66603f0fbc2142|6dc8fc58b93ab683|-1422834431|/Users/m09w/Downloads/Retailer market data/retailer_customer_counts_all.pdf|t20354.1088228775s|s248790b|248790|file|local|vector|||5.09|unable to load shared object '/Library/Frameworks/R.framework/Resources/modules//R_X11.so':   dlopen(/Library/Frameworks/R.framework/Resources/modules//R_X11.so, 0x0006): Library not loaded: /opt/X11/lib/libSM.6.dylib   Referenced from: <5DF35BD4-5789-357C-B931-3EEDFD1A6C8A> /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/modules/R_X11.so   Reason: tried: '/opt/X11/lib/libSM.6.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/X11/lib/libSM.6.dylib' (no such file), '/opt/X11/lib/libSM.6.dylib' (no such file), '/Library/Frameworks/R.framework/Resources/lib/libSM.6.dylib' (no such file), '/Library/Java/JavaVirtualMachines/jdk-11.0.18+10/Contents/Home/lib/server/libSM.6.dylib' (no such file). unable to load shared object '/Library/Frameworks/R.framework/Resources/library/grDevices/libs//cairo.so':   dlopen(/Library/Frameworks/R.framework/Resources/library/grDevices/libs//cairo.so, 0x0006): Library not loaded: /opt/X11/lib/libXrender.1.dylib   Referenced from: <5F2DB685-0B04-32B6-A805-B370989FC049> /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/library/grDevices/libs/cairo.so   Reason: tried: '/opt/X11/lib/libXrender.1.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/X11/lib/libXrender.1.dylib' (no such file), '/opt/X11/lib/libXrender.1.dylib' (no such file), '/Library/Frameworks/R.framework/Resources/lib/libXrender.1.dylib' (no such file), '/Library/Java/JavaVirtualMachines/jdk-11.0.18+10/Contents/Home/lib/server/libXrender.1.dylib' (no such file). failed to load cairo DLL|
+results_csv|stem|3944ad9eaed5e239|e71f32ed56e09640|fc0d6ade8ca2a04f|1453765876|/Users/m09w/Downloads/Retailer market data/data/processed/retailer_cust_no.csv|t20354.1088321893s|s192341b|192341|file|local|vector|||0.784||
+check_dupes|stem|26858e87febe442b|21a2a14916514a18|fc0d6ade8ca2a04f|-1307863997||t20354.1088324983s|s153b|153|rds|local|vector|||0.011||
+results_rds|stem|0e778c8128caf08b|a130bcfc3c4872c9|fc0d6ade8ca2a04f|-311332532|/Users/m09w/Downloads/Retailer market data/data/processed/result_national.rds|t20354.1088327448s|s9397b|9397|file|local|vector|||0.006||
+check_q2_2018_19|stem|d755e2fee9722f27|5181b51763df72eb|fc0d6ade8ca2a04f|914596405||t20354.108832946s|s378b|378|rds|local|vector|||0.003||
