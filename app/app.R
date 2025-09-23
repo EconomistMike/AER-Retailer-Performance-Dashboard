@@ -118,23 +118,50 @@ server <- function(input, output, session) {
   
   output$retailer_plot <- renderPlotly({
     df <- filtered_data()
+    
+    # base plot: all lines, no legend
     p <- plot_ly(
       data = df,
       x = ~date, y = ~value,
       type = "scatter", mode = "lines",
       split = ~retailer,
-      text = ~sprintf("%s<br>%s<br>Customers: %s", retailer, format(date, "%Y-%m-%d"), comma(value)),
+      text = ~sprintf("%s<br>%s<br>Customers: %s",
+                      retailer, format(date, "%Y-%m-%d"), comma(value)),
       hovertemplate = "%{text}<extra></extra>",
       showlegend = FALSE
-    ) %>%
-      layout(
-        title = list(text = "Residential electricity customers — interactive"),
-        xaxis = list(title = "Quarter (start date)"),
-        yaxis = list(title = "Customers", tickformat = ","),
-        margin = list(l = 60, r = 10, t = 60, b = 50)
+    )
+    
+    # compute last point per retailer
+    last_points <- df %>%
+      group_by(retailer) %>%
+      filter(date == max(date)) %>%
+      ungroup()
+    
+    # add text labels slightly nudged to the right
+    for (i in seq_len(nrow(last_points))) {
+      p <- add_annotations(
+        p,
+        x = last_points$date[i],
+        y = last_points$value[i],
+        text = last_points$retailer[i],
+        xanchor = "left", yanchor = "middle",
+        ax = 20, ay = 0,       # offset in pixels so text doesn’t overlap point
+        showarrow = FALSE,
+        font = list(size = 10, color = "black")
       )
+    }
+    
+    p <- layout(
+      p,
+      title = list(text = "Residential electricity customers — interactive"),
+      xaxis = list(title = "Quarter (start date)"),
+      yaxis = list(title = "Customers", tickformat = ","),
+      margin = list(l = 60, r = 120, t = 60, b = 50) # extra right margin for labels
+    )
+    
     p
   })
+  
 }
 
 shinyApp(ui, server)
