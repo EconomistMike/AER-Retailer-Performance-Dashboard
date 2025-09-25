@@ -137,19 +137,7 @@ server <- function(input, output, session) {
       filter(date == max(date)) %>%
       ungroup()
     
-    # add text labels slightly nudged to the right
-    for (i in seq_len(nrow(last_points))) {
-      p <- add_annotations(
-        p,
-        x = last_points$date[i],
-        y = last_points$value[i],
-        text = last_points$retailer[i],
-        xanchor = "left", yanchor = "middle",
-        ax = 20, ay = 0,       # offset in pixels so text doesn’t overlap point
-        showarrow = FALSE,
-        font = list(size = 10, color = "black")
-      )
-    }
+    
     
     p <- layout(
       p,
