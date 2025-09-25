@@ -141,8 +141,8 @@ server <- function(input, output, session) {
     
     p <- layout(
       p,
-      title = list(text = "Residential electricity customers — interactive"),
-      xaxis = list(title = "Quarter (start date)"),
+      title = list(text = "National resi electricity customers"),
+      xaxis = list(title = NULL),
       yaxis = list(title = "Customers", tickformat = ","),
       margin = list(l = 60, r = 120, t = 60, b = 50) # extra right margin for labels
     )
