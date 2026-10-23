@@ -115,3 +115,21 @@ test_that("complex counts produce structured diagnostics and preserve the issue 
   condition <- tryCatch(assert_remp_snapshots(x), remp_snapshot_error = identity)
   expect_identical(condition$issues, issues)
 })
+
+
+test_that("opposite national total errors cannot cancel across quarters", {
+  x <- invented_snapshots()
+  expect_equal(nrow(remp_snapshot_issues(x)), 0L)
+  for (bad_rows in list(3L, c(3L, 6L))) {
+    changed <- x
+    changed$value[3] <- 31
+    if (length(bad_rows) == 2L) changed$value[6] <- 24
+    issues <- remp_snapshot_issues(changed)
+    expect_identical(issues$field, rep("total", length(bad_rows)))
+    expect_identical(issues$row, bad_rows)
+    # The row payload must still identify the precise quarter/date keys.
+    expect_equal(changed$date[issues$row], as.Date(c("2024-07-01", "2024-10-01"))[seq_along(bad_rows)])
+    expect_equal(changed$year_quarter[issues$row], c("2024-25 Q1", "2024-25 Q2")[seq_along(bad_rows)])
+    expect_error(assert_remp_snapshots(changed), class = "remp_snapshot_error")
+  }
+})
